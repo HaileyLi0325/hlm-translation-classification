@@ -1,0 +1,6 @@
+pandas
+pypdf
+spacy
+wordfreq
+openpyxl
+shap
