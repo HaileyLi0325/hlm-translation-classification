@@ -41,53 +41,53 @@
   },
   {
     "path": "figures/editable/Fig 1.svg",
-    "bytes": 225912,
-    "sha256": "f0c585ce14cc75ed3655bc8782bdf7bf8b7ecf647389547547ae2f1b083c996e"
+    "bytes": 223067,
+    "sha256": "db920b9fb6692c44d8e24e8200a6961290b30c61ac16b14179da76dd380caaa4"
   },
   {
     "path": "figures/editable/Fig 10.svg",
-    "bytes": 135898,
-    "sha256": "896233940cb88274fe06f55bea4e589e528a18d499ef20f496f8496f66bb4526"
+    "bytes": 131884,
+    "sha256": "1c65c2a719a40336e9748e71387f5e76ca4504c6c11c94900414efa1488fd10e"
   },
   {
     "path": "figures/editable/Fig 2.svg",
-    "bytes": 227845,
-    "sha256": "f151efa4d207917215f58904eed17b78cd56b81b85f319c9c5be337cabc8ae3b"
+    "bytes": 224903,
+    "sha256": "8de4dcfeb625d17600135cdf507ee57c3b577e3f6f834239455e97a9c94829a5"
   },
   {
     "path": "figures/editable/Fig 3.svg",
-    "bytes": 228031,
-    "sha256": "4e4679d8a5093716d6e912e49631b67af560b6b0fdd3e59e518cd8e9ed105e2e"
+    "bytes": 225073,
+    "sha256": "400812fb0772e08667c89b7e9531df2091d0678893642ea0fed16c77ecb1eb39"
   },
   {
     "path": "figures/editable/Fig 4.svg",
-    "bytes": 20370,
-    "sha256": "8aab1b39fcd29bc83aaf1630109b25d1fc9195b49f53e7a8bcd985d400715e34"
+    "bytes": 19306,
+    "sha256": "147cbe9810f6db18e54cf2536f39686684e393e8fd23a98b40e2241dc4b8256f"
   },
   {
     "path": "figures/editable/Fig 5.svg",
-    "bytes": 22610,
-    "sha256": "264ce6a0c570592e1c39c7fd7bbd29d896bb730ab01a5e8d8779c0f42142d065"
+    "bytes": 20727,
+    "sha256": "28d78a5b5375735350a20fa211b08de88651ccf3aad27359710ffc8efb3dfb31"
   },
   {
     "path": "figures/editable/Fig 6.svg",
-    "bytes": 34660,
-    "sha256": "f20ecd1bd7fc549fd4c74fb8db13d9df5fba47d365270d6ff49bdbc7d716c3e9"
+    "bytes": 31677,
+    "sha256": "115909b5420560e0364813526d197fa7c780777b819205649b07d351c22e0df7"
   },
   {
     "path": "figures/editable/Fig 7.svg",
-    "bytes": 150039,
-    "sha256": "7dbffac151a0358717685a478d35d942b6bb0c1eb4dc88c67d12c4d2ac1ffc6d"
+    "bytes": 149229,
+    "sha256": "f9254b405de430b19b0171ea1073030cd0a240a1878be6360f440bf33377b6af"
   },
   {
     "path": "figures/editable/Fig 8.svg",
-    "bytes": 393220,
-    "sha256": "fa2ffa8592a5383467f116800cff51e6553a7e42574cd62ffaf677129b0dc09b"
+    "bytes": 392410,
+    "sha256": "90f9b6037d11a3a25c6b79bc342126ec1222228cda3ec96dbec9cba13030a0d4"
   },
   {
     "path": "figures/editable/Fig 9.svg",
-    "bytes": 35145,
-    "sha256": "23d860199400f9e4200c9cd6af99daedbddb001e53da29023a13007591bcbb80"
+    "bytes": 33650,
+    "sha256": "2f030e6e57890b5bd1f91b8afb6f9e3589079e2013e5fa81b06704d49c96538e"
   },
   {
     "path": "figures/figure_export_qa.json",
@@ -96,18 +96,18 @@
   },
   {
     "path": "figures/figure_input_manifest.json",
-    "bytes": 3215,
-    "sha256": "ddcb13d258c95c9945a6b5ff072111e74dbc886e53e88c671e6b3457e32309b4"
+    "bytes": 3105,
+    "sha256": "519c356b8aab8165caa15ddb67012c0e8af42ab6c5cab4259cace19dfac44242"
   },
   {
     "path": "figures/figure_validation.json",
-    "bytes": 2078,
-    "sha256": "c38f66b43d075323ec70ccf318082cb824f49f245ab738bd11efa8450b770e49"
+    "bytes": 3872,
+    "sha256": "7b8cc76a5cf9cab00092823e2e26997bcf4cd212015ff04f3a8016e9516ec00e"
   },
   {
     "path": "figures/generate_figures.py",
-    "bytes": 22402,
-    "sha256": "57d933757618f42de1769deb1b86f60a73d9e9d8b65046306cd0a125d20145d2"
+    "bytes": 22885,
+    "sha256": "26deb5686176e21ad64d4e5432c5716dfa984ae5c4bb73d495a92efe6527cb2c"
   },
   {
     "path": "figures/source_data/Fig10_top_feature_dependence.csv",
@@ -271,8 +271,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 5844,
-    "sha256": "6c5478e9cb41143536332e28dbacb3a51c75a02efd89c3ea3919696fece24dc9"
+    "bytes": 7106,
+    "sha256": "18b5c20e8c347e7d86e1f131f4a70a1e6c86abdf200474c829234e667becb730"
   },
   {
     "path": "requirements.txt",

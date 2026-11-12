@@ -47,9 +47,9 @@ SHORT = ["LR", "NB", "SVM", "K-NN", "RF", "Ridge", "GB", "NN", "Vote"]
 MODEL_SHORT = dict(zip(ALGORITHMS, SHORT))
 CMAP = LinearSegmentedColormap.from_list("edition_accuracy", ["#F6F2F0", "#CAB9CA", "#72577E"])
 plt.rcParams.update({
-    "font.family": "sans-serif", "font.sans-serif": ["Arial", "DejaVu Sans"],
+    "font.family": "sans-serif", "font.sans-serif": ["Arial"],
     "font.size": 8, "axes.titlesize": 8, "axes.labelsize": 8,
-    "xtick.labelsize": 7, "ytick.labelsize": 7,
+    "xtick.labelsize": 8, "ytick.labelsize": 8,
     "axes.spines.top": False, "axes.spines.right": False, "axes.linewidth": 0.7,
     "legend.frameon": False, "svg.fonttype": "none", "pdf.fonttype": 42,
     "savefig.facecolor": "white",
@@ -58,6 +58,10 @@ plt.rcParams.update({
 
 def save(fig, num, output):
     output.mkdir(parents=True, exist_ok=True)
+    # Keep every printed label within the journal's 8–12 pt range.
+    for text in fig.findobj(match=matplotlib.text.Text):
+        text.set_fontfamily('Arial')
+        text.set_fontsize(min(12, max(8, text.get_fontsize())))
     fig.canvas.draw()
     renderer=fig.canvas.get_renderer()
     width,height=fig.bbox.width,fig.bbox.height
@@ -76,7 +80,10 @@ def save(fig, num, output):
             box=text.get_window_extent(renderer)
             if box.x0 < -1 or box.y0 < -1 or box.x1 > width+1 or box.y1 > height+1:
                 clipped.append({'text':text.get_text(),'bounds':list(box.extents)})
-    (output/f'Fig {num}_layout_qa.json').write_text(json.dumps({'text_outside_canvas':clipped},indent=2),encoding='utf-8')
+    sizes=[text.get_fontsize() for text in fig.findobj(match=matplotlib.text.Text)
+           if text.get_visible() and text.get_text() and id(text) not in dormant]
+    (output/f'Fig {num}_layout_qa.json').write_text(json.dumps({'text_outside_canvas':clipped,
+        'minimum_font_size_pt':min(sizes),'maximum_font_size_pt':max(sizes),'font_family':'Arial'},indent=2),encoding='utf-8')
     # Fixed physical canvas: no tight-bbox enlargement beyond journal width.
     raster=io.BytesIO()
     fig.savefig(raster,format='tiff',dpi=600)
@@ -176,7 +183,7 @@ def heatmap(baseline, output, data_out):
     for i,(ax,arr) in enumerate(zip(axes,arrays)):
         im=ax.imshow(arr,vmin=50,vmax=100,cmap=CMAP,aspect="auto")
         for r in range(4):
-            for c in range(9):ax.text(c,r,f"{arr[r,c]:.1f}",ha="center",va="center",fontsize=7,color="white" if arr[r,c]>87 else "#282228")
+            for c in range(9):ax.text(c,r,f"{arr[r,c]:.1f}",ha="center",va="center",fontsize=8,color="white" if arr[r,c]>87 else "#282228")
         ax.set_xticks(np.arange(9),SHORT);ax.set_yticks(np.arange(4),["Lexical","Syntactic","N-gram","All 18"])
         ax.tick_params(length=0);ax.set_title("Chapter observations" if i==0 else "Chapter-matched 1,500-word segments",fontsize=10,pad=10);panel(ax,"ab"[i])
     cax=fig.add_axes([.895,.18,.018,.64]);fig.colorbar(im,cax=cax,label="Mean accuracy (%)")

@@ -91,3 +91,24 @@ and figure scripts. Numerical results were computed from the supplied corpus.
 Validation evidence includes input hashes, source-boundary checks, feature
 agreement, partition checks, exact voting reconstruction and SHAP additivity.
 The authors remain responsible for final scientific review and interpretation.
+
+
+## Publication formatting update, 12 November 2026
+
+The main-figure script now exports all printed labels in Arial at 8–12 pt.
+Numerical inputs, statistical results, predictions and SHAP values are unchanged.
+Figure hashes and editable SVGs have been updated to match the submitted TIFFs.
+
+Internal elements in S1 Appendix use letter labels, cited as, for example,
+"Table A in S1 Appendix". Sections retain their S1–S8 identifiers.
+
+| Element in S1 Appendix | Analysis | Source in this archive |
+|---|---|---|
+| Table A and Fig A | Nested tuning | robustness/03_experiments/review 2-comment 1/ |
+| Table B and Fig B | Fixed hold-out | robustness/03_experiments/review 2-comment 2/ |
+| Table C and Fig C | Chronological transfer | robustness/03_experiments/review 2-comment 3/ |
+| Table D and Fig D | Training-size sensitivity | robustness/03_experiments/review 2-comment 4/ |
+| Table E | Chapter length adjustment | statistics/results/length_adjusted_paired_regression.csv |
+| Table F | Segment-mean length adjustment | statistics/results/length_adjusted_segment_means_regression.csv |
+| Table G | Grouped held-out metrics | ml/results/heldout_metrics.csv |
+| Table H | Sampling-position comparison | ml/results/sampling_summary.csv |

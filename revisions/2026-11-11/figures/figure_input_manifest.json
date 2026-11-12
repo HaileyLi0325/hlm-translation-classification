@@ -13,7 +13,6 @@
     "chapter_level/feature_group_accuracy_std.csv": "9d9f1c8fbcd1f3c95c088e3f2919ebf1ef491f669908f88745fa3e1c53967493",
     "chapter_level/individual_feature_accuracy_mean.csv": "4e76dfb960da873fd7c96537e07e5ad37e19cb42ccf728e5b8e85acb114c4c90",
     "chapter_level/individual_feature_accuracy_std.csv": "31739828b63f1855c65c077f9648d1877757a0490de32c65c275eec47e692f2e",
-    "manuscript_key_accuracy_check.csv": "33c00ee7c0e862f6bf2388f19431aa6a68a552f40619235973b1235ae5b2ee41",
     "window_1500/feature_group_accuracy_mean.csv": "ab28dfe1c8988240696b84a8a01253a88bb40bf26415f081091a278669e582ca",
     "window_1500/feature_group_accuracy_std.csv": "9866d8a2ed58b8b98d8ce71c687421055924de719d294ed69ed06770ed783a2f",
     "window_1500/individual_feature_accuracy_mean.csv": "a9f6b6eceb95b1129033bc5c9772155a42b1c48a575d3886582e6dd936b25182",
@@ -33,5 +32,5 @@
     "sampling_summary.csv": "1653e32737bf3319911b909b79fd12ab96e71f5fa65a90a3040ce0287cf81f7b",
     "sampling_window_manifest.csv": "27902142a7dd9fc2ce0f0a9cf6342b8486ce3e4a723cc678eb313a99f540ed1d"
   },
-  "plot_script_sha256": "57d933757618f42de1769deb1b86f60a73d9e9d8b65046306cd0a125d20145d2"
+  "plot_script_sha256": "26deb5686176e21ad64d4e5432c5716dfa984ae5c4bb73d495a92efe6527cb2c"
 }

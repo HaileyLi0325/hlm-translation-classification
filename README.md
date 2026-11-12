@@ -8,6 +8,8 @@ Use the versioned [computational companion](revisions/2026-11-11/README.md) for 
 
 The revised analysis includes 120 source-chapter pairs, 240 chapter-level feature rows, and 722 fixed-length segments (361 per edition). `hawkes` identifies the **Hawkes–Minford edition** and `yang` the **Yang–Yang edition**. Segments are matched by source chapter; their translated content spans are not manually aligned.
 
+The 12 November publication-format update uses letter labels for the tables and figures inside S1 Appendix and 8–12 pt Arial labels in all main figures. Numerical analysis outputs are unchanged.
+
 ### Start here
 
 ```text
