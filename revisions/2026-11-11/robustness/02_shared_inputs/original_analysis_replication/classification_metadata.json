@@ -1,0 +1,60 @@
+{
+  "cross_validation": "10-fold stratified cross-validation",
+  "base_classifiers": [
+    "Logistic Regression",
+    "Naive Bayes",
+    "SVM",
+    "K-NN",
+    "Random Forest",
+    "Ridge Classifier",
+    "Gradient Boosting",
+    "Neural Network"
+  ],
+  "ensemble": "Voting Ensemble (hard voting over 8 base classifiers)",
+  "feature_groups": {
+    "lexical": [
+      "wordform_unigram_entropy",
+      "lemma_unigram_entropy",
+      "function_word_entropy",
+      "word_length_entropy",
+      "lexical_frequency_band_entropy",
+      "punctuation_entropy"
+    ],
+    "syntactic": [
+      "pos_unigram_entropy",
+      "pos_bigram_entropy",
+      "pos_trigram_entropy",
+      "clause_marker_entropy",
+      "dependency_relation_entropy",
+      "coordination_subordination_entropy"
+    ],
+    "ngram": [
+      "character_entropy",
+      "character_2gram_entropy",
+      "character_3gram_entropy",
+      "character_4gram_entropy",
+      "word_bigram_entropy",
+      "word_trigram_entropy"
+    ],
+    "all_features": [
+      "wordform_unigram_entropy",
+      "lemma_unigram_entropy",
+      "function_word_entropy",
+      "word_length_entropy",
+      "lexical_frequency_band_entropy",
+      "punctuation_entropy",
+      "pos_unigram_entropy",
+      "pos_bigram_entropy",
+      "pos_trigram_entropy",
+      "clause_marker_entropy",
+      "dependency_relation_entropy",
+      "coordination_subordination_entropy",
+      "character_entropy",
+      "character_2gram_entropy",
+      "character_3gram_entropy",
+      "character_4gram_entropy",
+      "word_bigram_entropy",
+      "word_trigram_entropy"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+feature_group,algorithm,accuracy_percent,dataset
+lexical,Logistic Regression,73.75,chapter_level
+syntactic,Logistic Regression,89.17,chapter_level
+ngram,Logistic Regression,88.75,chapter_level
+all_features,Logistic Regression,94.58,chapter_level
+lexical,Naive Bayes,80.83,chapter_level
+syntactic,Naive Bayes,75.42,chapter_level
+ngram,Naive Bayes,74.17,chapter_level
+all_features,Naive Bayes,83.33,chapter_level
+lexical,SVM,87.5,chapter_level
+syntactic,SVM,85.83,chapter_level
+ngram,SVM,78.33,chapter_level
+all_features,SVM,92.5,chapter_level
+lexical,K-NN,86.25,chapter_level
+syntactic,K-NN,79.58,chapter_level
+ngram,K-NN,76.67,chapter_level
+all_features,K-NN,87.92,chapter_level
+lexical,Random Forest,87.92,chapter_level
+syntactic,Random Forest,81.67,chapter_level
+ngram,Random Forest,77.5,chapter_level
+all_features,Random Forest,92.08,chapter_level
+lexical,Ridge Classifier,72.92,chapter_level
+syntactic,Ridge Classifier,90.42,chapter_level
+ngram,Ridge Classifier,95.42,chapter_level
+all_features,Ridge Classifier,97.5,chapter_level
+lexical,Gradient Boosting,85.42,chapter_level
+syntactic,Gradient Boosting,82.08,chapter_level
+ngram,Gradient Boosting,81.67,chapter_level
+all_features,Gradient Boosting,95.42,chapter_level
+lexical,Neural Network,90.42,chapter_level
+syntactic,Neural Network,89.17,chapter_level
+ngram,Neural Network,90.42,chapter_level
+all_features,Neural Network,94.17,chapter_level
+lexical,Voting Ensemble,87.92,chapter_level
+syntactic,Voting Ensemble,87.08,chapter_level
+ngram,Voting Ensemble,85.0,chapter_level
+all_features,Voting Ensemble,95.0,chapter_level
+lexical,Logistic Regression,70.77,window_1500
+syntactic,Logistic Regression,76.86,window_1500
+ngram,Logistic Regression,90.86,window_1500
+all_features,Logistic Regression,94.33,window_1500
+lexical,Naive Bayes,68.28,window_1500
+syntactic,Naive Bayes,72.71,window_1500
+ngram,Naive Bayes,73.27,window_1500
+all_features,Naive Bayes,75.48,window_1500
+lexical,SVM,76.88,window_1500
+syntactic,SVM,75.48,window_1500
+ngram,SVM,90.58,window_1500
+all_features,SVM,93.36,window_1500
+lexical,K-NN,74.79,window_1500
+syntactic,K-NN,71.47,window_1500
+ngram,K-NN,86.84,window_1500
+all_features,K-NN,84.48,window_1500
+lexical,Random Forest,77.02,window_1500
+syntactic,Random Forest,72.57,window_1500
+ngram,Random Forest,86.42,window_1500
+all_features,Random Forest,92.1,window_1500
+lexical,Ridge Classifier,70.36,window_1500
+syntactic,Ridge Classifier,76.31,window_1500
+ngram,Ridge Classifier,89.06,window_1500
+all_features,Ridge Classifier,93.77,window_1500
+lexical,Gradient Boosting,78.0,window_1500
+syntactic,Gradient Boosting,73.41,window_1500
+ngram,Gradient Boosting,87.67,window_1500
+all_features,Gradient Boosting,92.52,window_1500
+lexical,Neural Network,79.24,window_1500
+syntactic,Neural Network,75.2,window_1500
+ngram,Neural Network,90.99,window_1500
+all_features,Neural Network,93.77,window_1500
+lexical,Voting Ensemble,78.13,window_1500
+syntactic,Voting Ensemble,75.06,window_1500
+ngram,Voting Ensemble,89.89,window_1500
+all_features,Voting Ensemble,93.77,window_1500

@@ -1,0 +1,45 @@
+{
+  "python": "3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "scipy": "1.15.1",
+    "scikit-learn": "1.7.2",
+    "spacy": "3.8.14",
+    "en-core-web-sm": "3.8.0",
+    "nltk": "3.9.4",
+    "wordfreq": "3.1.1",
+    "shap": "0.50.0"
+  },
+  "models": "Original eight source estimators at recorded defaults; hard vote reconstructed from their predictions; ties favor class0 (Hawkes\u2013Minford).",
+  "bootstrap": "2000 percentile bootstrap draws of complete source-chapter groups; seed20261111; uncertainty conditional on fitted model and fixed test set.",
+  "positive_class": "Yang\u2013Yang edition",
+  "negative_class": "Hawkes\u2013Minford edition",
+  "hard_vote_auc": "Not applicable: no probability or decision score.",
+  "stability": "SD of fold accuracy plus train-test accuracy gap; descriptive, not independent replicate inference.",
+  "features": [
+    "wordform_unigram_entropy",
+    "lemma_unigram_entropy",
+    "function_word_entropy",
+    "word_length_entropy",
+    "lexical_frequency_band_entropy",
+    "punctuation_entropy",
+    "pos_unigram_entropy",
+    "pos_bigram_entropy",
+    "pos_trigram_entropy",
+    "clause_marker_entropy",
+    "dependency_relation_entropy",
+    "coordination_subordination_entropy",
+    "character_entropy",
+    "character_2gram_entropy",
+    "character_3gram_entropy",
+    "character_4gram_entropy",
+    "word_bigram_entropy",
+    "word_trigram_entropy"
+  ],
+  "input_sha256": {
+    "chapter_level": "b77662c8bee3526ce754866443b0dd1a2d1c5ecf61e73edcb6d51182f7b2d281",
+    "window_1500": "d3804df933e887e881e718388deed2c6ebc230fa5cafe7f319a3992238724c47"
+  },
+  "classifier_source_sha256": "9c5843e054678b2eb17a1b406337d35b4f86701f3f133125c07a89b2583b7982"
+}

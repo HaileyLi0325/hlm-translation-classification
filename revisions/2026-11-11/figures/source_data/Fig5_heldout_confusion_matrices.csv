@@ -1,0 +1,17 @@
+dataset,algorithm,true_edition,predicted_edition,count,row_percent
+chapter_level,Random Forest,hawkes,hawkes,24,100.0
+chapter_level,Random Forest,hawkes,yang,0,0.0
+chapter_level,Random Forest,yang,hawkes,1,4.166666666666666
+chapter_level,Random Forest,yang,yang,23,95.83333333333334
+chapter_level,Voting Ensemble,hawkes,hawkes,23,95.83333333333334
+chapter_level,Voting Ensemble,hawkes,yang,1,4.166666666666666
+chapter_level,Voting Ensemble,yang,hawkes,0,0.0
+chapter_level,Voting Ensemble,yang,yang,24,100.0
+window_1500,Random Forest,hawkes,hawkes,68,95.77464788732394
+window_1500,Random Forest,hawkes,yang,3,4.225352112676056
+window_1500,Random Forest,yang,hawkes,8,11.267605633802818
+window_1500,Random Forest,yang,yang,63,88.73239436619718
+window_1500,Voting Ensemble,hawkes,hawkes,69,97.1830985915493
+window_1500,Voting Ensemble,hawkes,yang,2,2.8169014084507045
+window_1500,Voting Ensemble,yang,hawkes,8,11.267605633802818
+window_1500,Voting Ensemble,yang,yang,63,88.73239436619718

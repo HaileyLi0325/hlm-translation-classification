@@ -1,0 +1,69 @@
+{
+  "hawkes": {
+    "chapters": 120,
+    "heading_matches": 121,
+    "changed": [
+      {
+        "chapter": 101,
+        "old_chars": 57328,
+        "new_chars": 39332,
+        "old_regex_words": 10173,
+        "new_regex_words": 7054,
+        "sha256": "70e160a2a71edfbe1e30d46750b70c5ed5568a4dcf752936de62eb72aa118024"
+      },
+      {
+        "chapter": 102,
+        "old_chars": 7838,
+        "new_chars": 25820,
+        "old_regex_words": 1362,
+        "new_regex_words": 4480,
+        "sha256": "1a7942cddd5c8c947c39e6736b02141478c6389aeb99725668608f6fc9df8861"
+      }
+    ],
+    "unchanged_count": 118
+  },
+  "yang": {
+    "chapters": 120,
+    "heading_matches": 120,
+    "changed": [
+      {
+        "chapter": 38,
+        "old_chars": 25239,
+        "new_chars": 25249,
+        "old_regex_words": 4394,
+        "new_regex_words": 4395,
+        "sha256": "a0dfc4c1fc80c4387b9bccae737911f13f1399b6f1279c398870498a7917b5fa"
+      },
+      {
+        "chapter": 61,
+        "old_chars": 27964,
+        "new_chars": 27974,
+        "old_regex_words": 5184,
+        "new_regex_words": 5185,
+        "sha256": "662e22ac4074b750d3b6ac3fdfc80b56fb7cfabc438bee9603a214d2d875f615"
+      },
+      {
+        "chapter": 102,
+        "old_chars": 22223,
+        "new_chars": 22233,
+        "old_regex_words": 3959,
+        "new_regex_words": 3960,
+        "sha256": "e3b98f8153d655fba40950a1e10a4cbb703ba53f0b30b2be022670fb1c8ba88b"
+      },
+      {
+        "chapter": 109,
+        "old_chars": 33844,
+        "new_chars": 33854,
+        "old_regex_words": 6274,
+        "new_regex_words": 6275,
+        "sha256": "1f8876f4ee9e772f3a28c82c4e3aea778eb9578feceaefcbba8b2e33dc014857"
+      }
+    ],
+    "unchanged_count": 116
+  },
+  "finalized": true,
+  "source_original_preserved": true,
+  "hawkes_actual_102_pdf_page": 1033,
+  "hawkes_repeat_102_pdf_page": 1038,
+  "regex_rule": "Headings must occupy one line; optional horizontal whitespace after Chapter; first occurrence begins chapter, repeated same-number running headings removed."
+}

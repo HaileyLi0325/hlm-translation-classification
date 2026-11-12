@@ -1,0 +1,41 @@
+{
+  "design": "Repeated stratified hold-out evaluation at 50%, 70%, 80%, and 90% training fractions.",
+  "repeats": 10,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "interpretation": "Descriptive sample SD across overlapping splits; no independent-experiment SEM confidence interval.",
+  "python": "3.13.0",
+  "pandas": "2.2.3",
+  "numpy": "2.1.3",
+  "scikit_learn": "1.7.2",
+  "features": [
+    "wordform_unigram_entropy",
+    "lemma_unigram_entropy",
+    "function_word_entropy",
+    "word_length_entropy",
+    "lexical_frequency_band_entropy",
+    "punctuation_entropy",
+    "pos_unigram_entropy",
+    "pos_bigram_entropy",
+    "pos_trigram_entropy",
+    "clause_marker_entropy",
+    "dependency_relation_entropy",
+    "coordination_subordination_entropy",
+    "character_entropy",
+    "character_2gram_entropy",
+    "character_3gram_entropy",
+    "character_4gram_entropy",
+    "word_bigram_entropy",
+    "word_trigram_entropy"
+  ]
+}

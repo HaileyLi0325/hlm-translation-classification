@@ -1,0 +1,108 @@
+{
+  "chapter_level": {
+    "sample_stratified_80_20": {
+      "train_samples": 192,
+      "test_samples": 48,
+      "test_chapters": null,
+      "train_class_counts": {
+        "hawkes": 96,
+        "yang": 96
+      },
+      "test_class_counts": {
+        "hawkes": 24,
+        "yang": 24
+      }
+    },
+    "chapter_grouped_80_20": {
+      "train_samples": 192,
+      "test_samples": 48,
+      "test_chapters": [
+        9,
+        10,
+        15,
+        22,
+        44,
+        53,
+        57,
+        58,
+        59,
+        65,
+        73,
+        76,
+        80,
+        81,
+        84,
+        88,
+        89,
+        97,
+        101,
+        103,
+        106,
+        112,
+        118,
+        119
+      ],
+      "train_class_counts": {
+        "hawkes": 96,
+        "yang": 96
+      },
+      "test_class_counts": {
+        "hawkes": 24,
+        "yang": 24
+      }
+    }
+  },
+  "window_1500": {
+    "sample_stratified_80_20": {
+      "train_samples": 577,
+      "test_samples": 145,
+      "test_chapters": null,
+      "train_class_counts": {
+        "yang": 289,
+        "hawkes": 288
+      },
+      "test_class_counts": {
+        "hawkes": 73,
+        "yang": 72
+      }
+    },
+    "chapter_grouped_80_20": {
+      "train_samples": 580,
+      "test_samples": 142,
+      "test_chapters": [
+        9,
+        10,
+        15,
+        22,
+        44,
+        53,
+        57,
+        58,
+        59,
+        65,
+        73,
+        76,
+        80,
+        81,
+        84,
+        88,
+        89,
+        97,
+        101,
+        103,
+        106,
+        112,
+        118,
+        119
+      ],
+      "train_class_counts": {
+        "hawkes": 290,
+        "yang": 290
+      },
+      "test_class_counts": {
+        "hawkes": 71,
+        "yang": 71
+      }
+    }
+  }
+}

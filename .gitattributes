@@ -1,0 +1,2 @@
+# Preserve the release bytes so its SHA-256 manifest is valid on every platform.
+revisions/2026-11-11/** -text

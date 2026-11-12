@@ -1,0 +1,11 @@
+dataset,feature,algorithm,accuracy_percent,fold_sd_percent
+chapter_level,punctuation_entropy,K-NN,84.58,8.55
+chapter_level,word_trigram_entropy,Logistic Regression,77.92,8.13
+chapter_level,pos_unigram_entropy,SVM,75.83,6.12
+chapter_level,word_bigram_entropy,Neural Network,72.08,9.87
+chapter_level,character_4gram_entropy,Naive Bayes,70.42,13.5
+window_1500,punctuation_entropy,SVM,73.69,3.54
+window_1500,word_bigram_entropy,Naive Bayes,71.87,6.67
+window_1500,word_trigram_entropy,SVM,66.34,3.72
+window_1500,pos_unigram_entropy,Ridge Classifier,65.38,5.21
+window_1500,clause_marker_entropy,Naive Bayes,63.02,6.98

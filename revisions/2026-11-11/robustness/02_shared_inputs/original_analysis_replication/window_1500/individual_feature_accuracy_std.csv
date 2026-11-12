@@ -1,0 +1,19 @@
+﻿feature,Logistic Regression,Naive Bayes,SVM,K-NN,Random Forest,Ridge Classifier,Gradient Boosting,Neural Network
+wordform_unigram_entropy,5.55,5.47,4.77,4.69,6.44,5.42,5.81,5.45
+lemma_unigram_entropy,4.98,5.94,4.53,5.98,6.83,4.98,6.55,5.78
+function_word_entropy,3.9,3.19,3.13,5.17,2.6,3.9,4.41,3.36
+word_length_entropy,4.86,5.0,4.28,3.27,4.16,4.62,4.03,2.94
+lexical_frequency_band_entropy,5.32,4.54,2.65,5.1,3.56,5.59,2.77,4.61
+punctuation_entropy,5.42,5.86,3.54,5.41,6.75,5.42,3.18,3.05
+pos_unigram_entropy,5.0,4.27,5.76,3.8,3.0,5.21,3.55,5.22
+pos_bigram_entropy,3.21,5.28,4.84,5.19,5.69,3.21,5.73,5.61
+pos_trigram_entropy,6.11,5.78,6.38,6.44,6.69,5.94,3.83,6.3
+clause_marker_entropy,6.33,6.98,5.93,3.6,4.11,6.65,3.13,7.17
+dependency_relation_entropy,4.55,5.98,6.41,6.32,4.3,4.55,6.4,6.44
+coordination_subordination_entropy,3.58,2.22,2.31,2.89,4.85,3.58,3.67,2.61
+character_entropy,6.9,6.0,6.81,5.76,5.06,6.9,4.4,5.69
+character_2gram_entropy,2.99,3.65,4.27,4.38,6.02,2.99,5.4,3.52
+character_3gram_entropy,5.37,5.26,5.13,4.28,4.67,5.48,6.2,5.17
+character_4gram_entropy,5.59,6.86,5.62,4.36,6.2,5.53,3.87,6.09
+word_bigram_entropy,7.15,6.67,5.31,6.33,5.36,7.15,6.01,4.88
+word_trigram_entropy,4.95,3.73,3.72,5.12,3.07,5.19,3.58,4.19

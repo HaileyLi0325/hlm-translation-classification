@@ -1,0 +1,16 @@
+{
+  "prefix_feature_max_abs_difference": 4.440892098500626e-16,
+  "all_selected_windows_exactly_1500_regex_words_and_nonoverlapping": true,
+  "matched_counts_all_chapters": true,
+  "all_oof_predictions_one_per_sample_and_chapter_grouped": true,
+  "hard_vote_exact_majority_with_class0_tie_break": true,
+  "heldout_source_chapters_disjoint": true,
+  "shap_probability_additivity_max_error": 3.1086244689504383e-15,
+  "input_sha256": {
+    "chapter_level": "b77662c8bee3526ce754866443b0dd1a2d1c5ecf61e73edcb6d51182f7b2d281",
+    "window_1500": "d3804df933e887e881e718388deed2c6ebc230fa5cafe7f319a3992238724c47"
+  },
+  "status": "PASS",
+  "portable_pdf_mode_chapter_hashes_match": true,
+  "portable_pdf_mode_all_3610_feature_rows_match": true
+}

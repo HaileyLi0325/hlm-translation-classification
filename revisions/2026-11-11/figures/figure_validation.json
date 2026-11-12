@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "visually_reviewed_figures": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "pending_figures": [],
+  "visual_review": "All ten final figures viewed as lossless PNG copies of 600-dpi TIFFs; no clipping, overlap, or unreadable labels observed.",
+  "distribution_source_rows": 8640,
+  "distribution_n_per_feature_edition_level": 120,
+  "shap_source_rows": 3420,
+  "full_source_equality": true,
+  "baseline_top_feature_and_heatmap_values_verified": true,
+  "frozen_input_hashes": {
+    "chapter_level_features.csv": "b77662c8bee3526ce754866443b0dd1a2d1c5ecf61e73edcb6d51182f7b2d281",
+    "corrected_chapter_window_counts.csv": "df714a45033ec08596c171287e8b49341482f4ef9acab0829a5dfde18ccc4c76",
+    "feature_correction_audit.csv": "3d9f696cda7da02be67c469a44608d7d76535e09176dbcc85bbcbb9c8c52c212",
+    "original_table3_punctuation_values.csv": "c5b3d80ca20a743c57c2b9379128bde8d308ad9a2cd1d4c0654371312cd96ad3",
+    "window_1500_features.csv": "d3804df933e887e881e718388deed2c6ebc230fa5cafe7f319a3992238724c47"
+  },
+  "figure_sha256": {
+    "Fig 1.tif": "f4ef8aabe9d7c91dcf54c8d3e2b771f3f8e8d784b90b47d593df3c68862b5af2",
+    "Fig 10.tif": "54b4b34426ca71b6032a8ddd9b1936d17f030989b1f54efd620df303708982a6",
+    "Fig 2.tif": "53e71beb991b36a8eec1980bbcd4d08d7a91529c0034dc6acc3dbadcf81a56a1",
+    "Fig 3.tif": "708f646d33c0582611ab28a3ebca885cde7be3acaba35229293a40b98a3cc1de",
+    "Fig 4.tif": "3a98c36d4f56855ddd494c858a20456f189f4a22690b9499e8bc2cd9b320c2c5",
+    "Fig 5.tif": "c46b2c9b07f6946fc259640e1582561b9243dfbf1fad0a75fb114705579c2fd7",
+    "Fig 6.tif": "f4694203bf7c6be85b181bc7e97141eb0732a1108e2922914e77e04a9ab36495",
+    "Fig 7.tif": "4b1aba830a6f18a95f2d1aaa9f309681c2217be388e8dfd9cd540708af99278e",
+    "Fig 8.tif": "0666335f567eda4fa693f9b1da6296eba25d496bea48d3e47bdbbc6b72658111",
+    "Fig 9.tif": "53830dde3be4e811dad05b33b8c096017897daa29a45bf568ab56b5c86428a50"
+  },
+  "plot_script_sha256": "57d933757618f42de1769deb1b86f60a73d9e9d8b65046306cd0a125d20145d2"
+}

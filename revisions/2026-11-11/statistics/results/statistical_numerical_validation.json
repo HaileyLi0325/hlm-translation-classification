@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "independent_reference": "statsmodels 0.14.4",
+  "max_absolute_errors": {
+    "fdr_bh": 8.61940727125976e-17,
+    "holm": 5.993469609499869e-16,
+    "chapter_HC3_coefficient": 4.0314973581701e-15,
+    "chapter_HC3_se": 1.2975731600306517e-15,
+    "chapter_HC3_p": 7.799316747991725e-14,
+    "segment_means_HC3_coefficient": 3.86843335142828e-16,
+    "segment_means_HC3_se": 1.5959455978986625e-16,
+    "segment_means_HC3_p": 1.2684298056342413e-14
+  },
+  "chapter_pairs": 120,
+  "segment_chapter_pairs": 120,
+  "raw_text_punctuation_rows_verified": 962,
+  "input_hashes": {
+    "chapter_input_sha256": "b77662c8bee3526ce754866443b0dd1a2d1c5ecf61e73edcb6d51182f7b2d281",
+    "segment_input_sha256": "d3804df933e887e881e718388deed2c6ebc230fa5cafe7f319a3992238724c47"
+  }
+}

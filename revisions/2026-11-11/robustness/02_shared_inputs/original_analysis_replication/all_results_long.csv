@@ -1,0 +1,361 @@
+﻿dataset,analysis_level,feature_set,feature_count,algorithm,mean_accuracy,std_accuracy
+chapter_level,individual_feature,wordform_unigram_entropy,1,Logistic Regression,58.75,13.3658
+chapter_level,individual_feature,wordform_unigram_entropy,1,Naive Bayes,60.4167,12.9435
+chapter_level,individual_feature,wordform_unigram_entropy,1,SVM,52.5,11.0554
+chapter_level,individual_feature,wordform_unigram_entropy,1,K-NN,54.1667,12.0761
+chapter_level,individual_feature,wordform_unigram_entropy,1,Random Forest,50.8333,11.7556
+chapter_level,individual_feature,wordform_unigram_entropy,1,Ridge Classifier,59.1667,13.5401
+chapter_level,individual_feature,wordform_unigram_entropy,1,Gradient Boosting,52.0833,12.8087
+chapter_level,individual_feature,wordform_unigram_entropy,1,Neural Network,58.75,11.5545
+chapter_level,individual_feature,lemma_unigram_entropy,1,Logistic Regression,58.75,12.5623
+chapter_level,individual_feature,lemma_unigram_entropy,1,Naive Bayes,59.1667,11.4564
+chapter_level,individual_feature,lemma_unigram_entropy,1,SVM,53.75,13.6232
+chapter_level,individual_feature,lemma_unigram_entropy,1,K-NN,55.4167,13.6994
+chapter_level,individual_feature,lemma_unigram_entropy,1,Random Forest,51.6667,7.2648
+chapter_level,individual_feature,lemma_unigram_entropy,1,Ridge Classifier,58.75,12.5623
+chapter_level,individual_feature,lemma_unigram_entropy,1,Gradient Boosting,48.75,7.6942
+chapter_level,individual_feature,lemma_unigram_entropy,1,Neural Network,59.5833,11.7925
+chapter_level,individual_feature,function_word_entropy,1,Logistic Regression,46.25,9.5833
+chapter_level,individual_feature,function_word_entropy,1,Naive Bayes,47.5,7.0218
+chapter_level,individual_feature,function_word_entropy,1,SVM,49.1667,9.2796
+chapter_level,individual_feature,function_word_entropy,1,K-NN,48.3333,12.2474
+chapter_level,individual_feature,function_word_entropy,1,Random Forest,50.4167,6.8338
+chapter_level,individual_feature,function_word_entropy,1,Ridge Classifier,46.25,9.5833
+chapter_level,individual_feature,function_word_entropy,1,Gradient Boosting,48.75,8.3437
+chapter_level,individual_feature,function_word_entropy,1,Neural Network,49.1667,7.1686
+chapter_level,individual_feature,word_length_entropy,1,Logistic Regression,60.4167,8.1756
+chapter_level,individual_feature,word_length_entropy,1,Naive Bayes,58.3333,6.1802
+chapter_level,individual_feature,word_length_entropy,1,SVM,60.8333,9.1667
+chapter_level,individual_feature,word_length_entropy,1,K-NN,52.0833,8.5898
+chapter_level,individual_feature,word_length_entropy,1,Random Forest,48.3333,12.8019
+chapter_level,individual_feature,word_length_entropy,1,Ridge Classifier,60.0,7.728
+chapter_level,individual_feature,word_length_entropy,1,Gradient Boosting,50.8333,10.5079
+chapter_level,individual_feature,word_length_entropy,1,Neural Network,59.1667,8.2916
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,Logistic Regression,57.9167,7.5576
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,Naive Bayes,58.3333,5.8926
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,SVM,59.5833,5.6057
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,K-NN,50.8333,11.3039
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,Random Forest,57.5,4.8591
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,Ridge Classifier,57.9167,7.5576
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,Gradient Boosting,53.3333,8.2916
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,Neural Network,57.9167,8.0039
+chapter_level,individual_feature,punctuation_entropy,1,Logistic Regression,66.25,9.0235
+chapter_level,individual_feature,punctuation_entropy,1,Naive Bayes,80.4167,7.6942
+chapter_level,individual_feature,punctuation_entropy,1,SVM,82.0833,6.1942
+chapter_level,individual_feature,punctuation_entropy,1,K-NN,84.5833,8.5493
+chapter_level,individual_feature,punctuation_entropy,1,Random Forest,75.0,9.6825
+chapter_level,individual_feature,punctuation_entropy,1,Ridge Classifier,66.25,9.0235
+chapter_level,individual_feature,punctuation_entropy,1,Gradient Boosting,76.25,9.3263
+chapter_level,individual_feature,punctuation_entropy,1,Neural Network,82.0833,6.1942
+chapter_level,individual_feature,pos_unigram_entropy,1,Logistic Regression,75.0,6.9722
+chapter_level,individual_feature,pos_unigram_entropy,1,Naive Bayes,74.5833,6.5749
+chapter_level,individual_feature,pos_unigram_entropy,1,SVM,75.8333,6.1237
+chapter_level,individual_feature,pos_unigram_entropy,1,K-NN,73.75,5.9073
+chapter_level,individual_feature,pos_unigram_entropy,1,Random Forest,65.0,9.1667
+chapter_level,individual_feature,pos_unigram_entropy,1,Ridge Classifier,74.1667,6.9222
+chapter_level,individual_feature,pos_unigram_entropy,1,Gradient Boosting,69.1667,9.7183
+chapter_level,individual_feature,pos_unigram_entropy,1,Neural Network,75.4167,6.0237
+chapter_level,individual_feature,pos_bigram_entropy,1,Logistic Regression,58.3333,9.3169
+chapter_level,individual_feature,pos_bigram_entropy,1,Naive Bayes,55.4167,12.7816
+chapter_level,individual_feature,pos_bigram_entropy,1,SVM,54.1667,11.1803
+chapter_level,individual_feature,pos_bigram_entropy,1,K-NN,53.75,11.8512
+chapter_level,individual_feature,pos_bigram_entropy,1,Random Forest,50.4167,10.937
+chapter_level,individual_feature,pos_bigram_entropy,1,Ridge Classifier,58.3333,9.3169
+chapter_level,individual_feature,pos_bigram_entropy,1,Gradient Boosting,51.25,9.6914
+chapter_level,individual_feature,pos_bigram_entropy,1,Neural Network,57.9167,11.4033
+chapter_level,individual_feature,pos_trigram_entropy,1,Logistic Regression,53.3333,10.6719
+chapter_level,individual_feature,pos_trigram_entropy,1,Naive Bayes,55.0,10.6719
+chapter_level,individual_feature,pos_trigram_entropy,1,SVM,52.0833,12.2545
+chapter_level,individual_feature,pos_trigram_entropy,1,K-NN,57.0833,10.8733
+chapter_level,individual_feature,pos_trigram_entropy,1,Random Forest,55.0,8.2916
+chapter_level,individual_feature,pos_trigram_entropy,1,Ridge Classifier,53.3333,10.6719
+chapter_level,individual_feature,pos_trigram_entropy,1,Gradient Boosting,52.5,12.3884
+chapter_level,individual_feature,pos_trigram_entropy,1,Neural Network,52.5,11.3652
+chapter_level,individual_feature,clause_marker_entropy,1,Logistic Regression,67.5,10.5079
+chapter_level,individual_feature,clause_marker_entropy,1,Naive Bayes,66.6667,9.8601
+chapter_level,individual_feature,clause_marker_entropy,1,SVM,67.5,10.3414
+chapter_level,individual_feature,clause_marker_entropy,1,K-NN,63.75,8.133
+chapter_level,individual_feature,clause_marker_entropy,1,Random Forest,62.5,6.7185
+chapter_level,individual_feature,clause_marker_entropy,1,Ridge Classifier,67.5,10.5079
+chapter_level,individual_feature,clause_marker_entropy,1,Gradient Boosting,62.9167,7.0833
+chapter_level,individual_feature,clause_marker_entropy,1,Neural Network,65.8333,9.0906
+chapter_level,individual_feature,dependency_relation_entropy,1,Logistic Regression,54.1667,9.5015
+chapter_level,individual_feature,dependency_relation_entropy,1,Naive Bayes,55.4167,8.3437
+chapter_level,individual_feature,dependency_relation_entropy,1,SVM,57.0833,7.6942
+chapter_level,individual_feature,dependency_relation_entropy,1,K-NN,50.8333,11.3039
+chapter_level,individual_feature,dependency_relation_entropy,1,Random Forest,50.8333,8.7003
+chapter_level,individual_feature,dependency_relation_entropy,1,Ridge Classifier,54.1667,9.5015
+chapter_level,individual_feature,dependency_relation_entropy,1,Gradient Boosting,52.5,10.5738
+chapter_level,individual_feature,dependency_relation_entropy,1,Neural Network,55.0,8.4984
+chapter_level,individual_feature,coordination_subordination_entropy,1,Logistic Regression,52.9167,6.1942
+chapter_level,individual_feature,coordination_subordination_entropy,1,Naive Bayes,54.1667,4.9301
+chapter_level,individual_feature,coordination_subordination_entropy,1,SVM,53.75,7.0833
+chapter_level,individual_feature,coordination_subordination_entropy,1,K-NN,60.0,6.2361
+chapter_level,individual_feature,coordination_subordination_entropy,1,Random Forest,55.8333,5.3359
+chapter_level,individual_feature,coordination_subordination_entropy,1,Ridge Classifier,52.9167,6.1942
+chapter_level,individual_feature,coordination_subordination_entropy,1,Gradient Boosting,57.0833,6.7315
+chapter_level,individual_feature,coordination_subordination_entropy,1,Neural Network,52.5,4.6398
+chapter_level,individual_feature,character_entropy,1,Logistic Regression,55.0,5.5277
+chapter_level,individual_feature,character_entropy,1,Naive Bayes,56.25,7.2768
+chapter_level,individual_feature,character_entropy,1,SVM,58.3333,6.455
+chapter_level,individual_feature,character_entropy,1,K-NN,50.4167,11.0946
+chapter_level,individual_feature,character_entropy,1,Random Forest,53.75,9.0235
+chapter_level,individual_feature,character_entropy,1,Ridge Classifier,55.0,5.5277
+chapter_level,individual_feature,character_entropy,1,Gradient Boosting,53.3333,9.2796
+chapter_level,individual_feature,character_entropy,1,Neural Network,54.5833,7.3243
+chapter_level,individual_feature,character_2gram_entropy,1,Logistic Regression,48.3333,7.728
+chapter_level,individual_feature,character_2gram_entropy,1,Naive Bayes,51.25,6.9846
+chapter_level,individual_feature,character_2gram_entropy,1,SVM,50.8333,5.8333
+chapter_level,individual_feature,character_2gram_entropy,1,K-NN,53.75,5.7282
+chapter_level,individual_feature,character_2gram_entropy,1,Random Forest,53.75,6.8338
+chapter_level,individual_feature,character_2gram_entropy,1,Ridge Classifier,48.3333,7.728
+chapter_level,individual_feature,character_2gram_entropy,1,Gradient Boosting,54.5833,6.8338
+chapter_level,individual_feature,character_2gram_entropy,1,Neural Network,49.5833,6.0237
+chapter_level,individual_feature,character_3gram_entropy,1,Logistic Regression,61.6667,10.9924
+chapter_level,individual_feature,character_3gram_entropy,1,Naive Bayes,60.8333,11.3652
+chapter_level,individual_feature,character_3gram_entropy,1,SVM,57.5,12.6106
+chapter_level,individual_feature,character_3gram_entropy,1,K-NN,55.0,11.1492
+chapter_level,individual_feature,character_3gram_entropy,1,Random Forest,55.8333,10.5738
+chapter_level,individual_feature,character_3gram_entropy,1,Ridge Classifier,61.6667,10.9924
+chapter_level,individual_feature,character_3gram_entropy,1,Gradient Boosting,57.0833,8.9462
+chapter_level,individual_feature,character_3gram_entropy,1,Neural Network,60.0,11.9606
+chapter_level,individual_feature,character_4gram_entropy,1,Logistic Regression,69.5833,13.0504
+chapter_level,individual_feature,character_4gram_entropy,1,Naive Bayes,70.4167,13.4951
+chapter_level,individual_feature,character_4gram_entropy,1,SVM,70.0,12.883
+chapter_level,individual_feature,character_4gram_entropy,1,K-NN,65.0,9.7183
+chapter_level,individual_feature,character_4gram_entropy,1,Random Forest,62.9167,10.1122
+chapter_level,individual_feature,character_4gram_entropy,1,Ridge Classifier,69.5833,13.0504
+chapter_level,individual_feature,character_4gram_entropy,1,Gradient Boosting,60.8333,10.5738
+chapter_level,individual_feature,character_4gram_entropy,1,Neural Network,69.1667,13.0703
+chapter_level,individual_feature,word_bigram_entropy,1,Logistic Regression,70.8333,8.7401
+chapter_level,individual_feature,word_bigram_entropy,1,Naive Bayes,71.25,9.5833
+chapter_level,individual_feature,word_bigram_entropy,1,SVM,70.4167,8.829
+chapter_level,individual_feature,word_bigram_entropy,1,K-NN,67.5,9.6465
+chapter_level,individual_feature,word_bigram_entropy,1,Random Forest,62.0833,15.075
+chapter_level,individual_feature,word_bigram_entropy,1,Ridge Classifier,70.8333,8.7401
+chapter_level,individual_feature,word_bigram_entropy,1,Gradient Boosting,62.5,14.0683
+chapter_level,individual_feature,word_bigram_entropy,1,Neural Network,72.0833,9.8689
+chapter_level,individual_feature,word_trigram_entropy,1,Logistic Regression,77.9167,8.133
+chapter_level,individual_feature,word_trigram_entropy,1,Naive Bayes,77.9167,8.133
+chapter_level,individual_feature,word_trigram_entropy,1,SVM,77.9167,8.133
+chapter_level,individual_feature,word_trigram_entropy,1,K-NN,72.9167,7.2768
+chapter_level,individual_feature,word_trigram_entropy,1,Random Forest,63.75,13.4436
+chapter_level,individual_feature,word_trigram_entropy,1,Ridge Classifier,77.9167,8.133
+chapter_level,individual_feature,word_trigram_entropy,1,Gradient Boosting,65.8333,12.1906
+chapter_level,individual_feature,word_trigram_entropy,1,Neural Network,77.0833,7.9604
+chapter_level,feature_group,lexical,6,Logistic Regression,73.75,7.4652
+chapter_level,feature_group,lexical,6,Naive Bayes,80.8333,7.728
+chapter_level,feature_group,lexical,6,SVM,87.5,8.9365
+chapter_level,feature_group,lexical,6,K-NN,86.25,6.9846
+chapter_level,feature_group,lexical,6,Random Forest,87.9167,6.0237
+chapter_level,feature_group,lexical,6,Ridge Classifier,72.9167,7.2768
+chapter_level,feature_group,lexical,6,Gradient Boosting,85.4167,5.0173
+chapter_level,feature_group,lexical,6,Neural Network,90.4167,6.4684
+chapter_level,feature_group,lexical,6,Voting Ensemble,87.9167,8.0039
+chapter_level,feature_group,syntactic,6,Logistic Regression,89.1667,3.8188
+chapter_level,feature_group,syntactic,6,Naive Bayes,75.4167,6.8338
+chapter_level,feature_group,syntactic,6,SVM,85.8333,5.3359
+chapter_level,feature_group,syntactic,6,K-NN,79.5833,7.3243
+chapter_level,feature_group,syntactic,6,Random Forest,81.6667,6.5085
+chapter_level,feature_group,syntactic,6,Ridge Classifier,90.4167,4.5833
+chapter_level,feature_group,syntactic,6,Gradient Boosting,82.0833,6.9846
+chapter_level,feature_group,syntactic,6,Neural Network,89.1667,2.7639
+chapter_level,feature_group,syntactic,6,Voting Ensemble,87.0833,5.0861
+chapter_level,feature_group,ngram,6,Logistic Regression,88.75,7.4652
+chapter_level,feature_group,ngram,6,Naive Bayes,74.1667,11.3039
+chapter_level,feature_group,ngram,6,SVM,78.3333,11.4564
+chapter_level,feature_group,ngram,6,K-NN,76.6667,10.8972
+chapter_level,feature_group,ngram,6,Random Forest,77.5,13.3333
+chapter_level,feature_group,ngram,6,Ridge Classifier,95.4167,3.4611
+chapter_level,feature_group,ngram,6,Gradient Boosting,81.6667,11.0554
+chapter_level,feature_group,ngram,6,Neural Network,90.4167,5.9073
+chapter_level,feature_group,ngram,6,Voting Ensemble,85.0,9.3541
+chapter_level,feature_group,all_features,18,Logistic Regression,94.5833,3.75
+chapter_level,feature_group,all_features,18,Naive Bayes,83.3333,10.0347
+chapter_level,feature_group,all_features,18,SVM,92.5,4.4876
+chapter_level,feature_group,all_features,18,K-NN,87.9167,7.5576
+chapter_level,feature_group,all_features,18,Random Forest,92.0833,5.4167
+chapter_level,feature_group,all_features,18,Ridge Classifier,97.5,2.0412
+chapter_level,feature_group,all_features,18,Gradient Boosting,95.4167,4.3501
+chapter_level,feature_group,all_features,18,Neural Network,94.1667,5.9512
+chapter_level,feature_group,all_features,18,Voting Ensemble,95.0,3.118
+window_1500,individual_feature,wordform_unigram_entropy,1,Logistic Regression,59.8174,5.546
+window_1500,individual_feature,wordform_unigram_entropy,1,Naive Bayes,60.0989,5.4734
+window_1500,individual_feature,wordform_unigram_entropy,1,SVM,59.8212,4.7707
+window_1500,individual_feature,wordform_unigram_entropy,1,K-NN,55.6659,4.6925
+window_1500,individual_feature,wordform_unigram_entropy,1,Random Forest,53.1868,6.4398
+window_1500,individual_feature,wordform_unigram_entropy,1,Ridge Classifier,59.9562,5.4187
+window_1500,individual_feature,wordform_unigram_entropy,1,Gradient Boosting,57.7435,5.814
+window_1500,individual_feature,wordform_unigram_entropy,1,Neural Network,60.5099,5.4453
+window_1500,individual_feature,lemma_unigram_entropy,1,Logistic Regression,57.4658,4.9847
+window_1500,individual_feature,lemma_unigram_entropy,1,Naive Bayes,57.6104,5.9367
+window_1500,individual_feature,lemma_unigram_entropy,1,SVM,58.9916,4.5272
+window_1500,individual_feature,lemma_unigram_entropy,1,K-NN,53.8813,5.9823
+window_1500,individual_feature,lemma_unigram_entropy,1,Random Forest,54.3037,6.8322
+window_1500,individual_feature,lemma_unigram_entropy,1,Ridge Classifier,57.4658,4.9847
+window_1500,individual_feature,lemma_unigram_entropy,1,Gradient Boosting,54.3037,6.5502
+window_1500,individual_feature,lemma_unigram_entropy,1,Neural Network,57.6104,5.7765
+window_1500,individual_feature,function_word_entropy,1,Logistic Regression,51.6572,3.9005
+window_1500,individual_feature,function_word_entropy,1,Naive Bayes,52.2184,3.1852
+window_1500,individual_feature,function_word_entropy,1,SVM,51.113,3.1318
+window_1500,individual_feature,function_word_entropy,1,K-NN,47.3611,5.1732
+window_1500,individual_feature,function_word_entropy,1,Random Forest,50.1313,2.601
+window_1500,individual_feature,function_word_entropy,1,Ridge Classifier,51.6572,3.9005
+window_1500,individual_feature,function_word_entropy,1,Gradient Boosting,49.1667,4.4115
+window_1500,individual_feature,function_word_entropy,1,Neural Network,52.8976,3.359
+window_1500,individual_feature,word_length_entropy,1,Logistic Regression,54.7222,4.8558
+window_1500,individual_feature,word_length_entropy,1,Naive Bayes,55.8124,5.0048
+window_1500,individual_feature,word_length_entropy,1,SVM,54.0278,4.2822
+window_1500,individual_feature,word_length_entropy,1,K-NN,52.2203,3.2702
+window_1500,individual_feature,word_length_entropy,1,Random Forest,53.1792,4.1642
+window_1500,individual_feature,word_length_entropy,1,Ridge Classifier,54.7222,4.6181
+window_1500,individual_feature,word_length_entropy,1,Gradient Boosting,50.8257,4.0273
+window_1500,individual_feature,word_length_entropy,1,Neural Network,54.9886,2.9352
+window_1500,individual_feature,lexical_frequency_band_entropy,1,Logistic Regression,56.0959,5.3247
+window_1500,individual_feature,lexical_frequency_band_entropy,1,Naive Bayes,59.4102,4.5437
+window_1500,individual_feature,lexical_frequency_band_entropy,1,SVM,59.2789,2.653
+window_1500,individual_feature,lexical_frequency_band_entropy,1,K-NN,56.0997,5.1033
+window_1500,individual_feature,lexical_frequency_band_entropy,1,Random Forest,54.7165,3.5638
+window_1500,individual_feature,lexical_frequency_band_entropy,1,Ridge Classifier,56.094,5.5881
+window_1500,individual_feature,lexical_frequency_band_entropy,1,Gradient Boosting,52.4924,2.7687
+window_1500,individual_feature,lexical_frequency_band_entropy,1,Neural Network,59.5491,4.612
+window_1500,individual_feature,punctuation_entropy,1,Logistic Regression,61.9102,5.416
+window_1500,individual_feature,punctuation_entropy,1,Naive Bayes,70.6526,5.856
+window_1500,individual_feature,punctuation_entropy,1,SVM,73.6872,3.5416
+window_1500,individual_feature,punctuation_entropy,1,K-NN,69.4083,5.4116
+window_1500,individual_feature,punctuation_entropy,1,Random Forest,62.0662,6.7494
+window_1500,individual_feature,punctuation_entropy,1,Ridge Classifier,61.9102,5.416
+window_1500,individual_feature,punctuation_entropy,1,Gradient Boosting,69.4026,3.1772
+window_1500,individual_feature,punctuation_entropy,1,Neural Network,73.2744,3.0499
+window_1500,individual_feature,pos_unigram_entropy,1,Logistic Regression,65.2454,5.0042
+window_1500,individual_feature,pos_unigram_entropy,1,Naive Bayes,64.9658,4.2661
+window_1500,individual_feature,pos_unigram_entropy,1,SVM,65.2454,5.757
+window_1500,individual_feature,pos_unigram_entropy,1,K-NN,57.3535,3.8023
+window_1500,individual_feature,pos_unigram_entropy,1,Random Forest,56.5202,3.0038
+window_1500,individual_feature,pos_unigram_entropy,1,Ridge Classifier,65.3843,5.2109
+window_1500,individual_feature,pos_unigram_entropy,1,Gradient Boosting,61.5088,3.5545
+window_1500,individual_feature,pos_unigram_entropy,1,Neural Network,65.1046,5.2201
+window_1500,individual_feature,pos_bigram_entropy,1,Logistic Regression,45.5803,3.2109
+window_1500,individual_feature,pos_bigram_entropy,1,Naive Bayes,45.1636,5.2788
+window_1500,individual_feature,pos_bigram_entropy,1,SVM,51.3965,4.8413
+window_1500,individual_feature,pos_bigram_entropy,1,K-NN,51.1149,5.1905
+window_1500,individual_feature,pos_bigram_entropy,1,Random Forest,48.4779,5.6907
+window_1500,individual_feature,pos_bigram_entropy,1,Ridge Classifier,45.5803,3.2109
+window_1500,individual_feature,pos_bigram_entropy,1,Gradient Boosting,52.6408,5.7312
+window_1500,individual_feature,pos_bigram_entropy,1,Neural Network,52.0795,5.6058
+window_1500,individual_feature,pos_trigram_entropy,1,Logistic Regression,58.7215,6.1137
+window_1500,individual_feature,pos_trigram_entropy,1,Naive Bayes,58.4475,5.7835
+window_1500,individual_feature,pos_trigram_entropy,1,SVM,57.481,6.3756
+window_1500,individual_feature,pos_trigram_entropy,1,K-NN,52.3554,6.4362
+window_1500,individual_feature,pos_trigram_entropy,1,Random Forest,52.3535,6.6931
+window_1500,individual_feature,pos_trigram_entropy,1,Ridge Classifier,58.5845,5.9367
+window_1500,individual_feature,pos_trigram_entropy,1,Gradient Boosting,53.3276,3.8269
+window_1500,individual_feature,pos_trigram_entropy,1,Neural Network,58.0327,6.2999
+window_1500,individual_feature,clause_marker_entropy,1,Logistic Regression,62.0548,6.3327
+window_1500,individual_feature,clause_marker_entropy,1,Naive Bayes,63.0213,6.983
+window_1500,individual_feature,clause_marker_entropy,1,SVM,62.3193,5.9278
+window_1500,individual_feature,clause_marker_entropy,1,K-NN,56.3642,3.6014
+window_1500,individual_feature,clause_marker_entropy,1,Random Forest,55.1256,4.1117
+window_1500,individual_feature,clause_marker_entropy,1,Ridge Classifier,61.7789,6.6532
+window_1500,individual_feature,clause_marker_entropy,1,Gradient Boosting,57.4772,3.1273
+window_1500,individual_feature,clause_marker_entropy,1,Neural Network,62.1956,7.1695
+window_1500,individual_feature,dependency_relation_entropy,1,Logistic Regression,55.2645,4.5466
+window_1500,individual_feature,dependency_relation_entropy,1,Naive Bayes,55.9551,5.9819
+window_1500,individual_feature,dependency_relation_entropy,1,SVM,56.3699,6.4067
+window_1500,individual_feature,dependency_relation_entropy,1,K-NN,55.5384,6.3241
+window_1500,individual_feature,dependency_relation_entropy,1,Random Forest,54.6994,4.2969
+window_1500,individual_feature,dependency_relation_entropy,1,Ridge Classifier,55.2645,4.5466
+window_1500,individual_feature,dependency_relation_entropy,1,Gradient Boosting,57.8805,6.3993
+window_1500,individual_feature,dependency_relation_entropy,1,Neural Network,57.0605,6.4415
+window_1500,individual_feature,coordination_subordination_entropy,1,Logistic Regression,47.089,3.5803
+window_1500,individual_feature,coordination_subordination_entropy,1,Naive Bayes,52.7721,2.2173
+window_1500,individual_feature,coordination_subordination_entropy,1,SVM,52.2127,2.3148
+window_1500,individual_feature,coordination_subordination_entropy,1,K-NN,53.8832,2.8852
+window_1500,individual_feature,coordination_subordination_entropy,1,Random Forest,53.0479,4.8512
+window_1500,individual_feature,coordination_subordination_entropy,1,Ridge Classifier,47.089,3.5803
+window_1500,individual_feature,coordination_subordination_entropy,1,Gradient Boosting,52.0776,3.6747
+window_1500,individual_feature,coordination_subordination_entropy,1,Neural Network,54.1533,2.6115
+window_1500,individual_feature,character_entropy,1,Logistic Regression,56.1168,6.9016
+window_1500,individual_feature,character_entropy,1,Naive Bayes,55.6906,5.9975
+window_1500,individual_feature,character_entropy,1,SVM,55.2759,6.8141
+window_1500,individual_feature,character_entropy,1,K-NN,53.5807,5.7637
+window_1500,individual_feature,character_entropy,1,Random Forest,49.1591,5.0576
+window_1500,individual_feature,character_entropy,1,Ridge Classifier,56.1168,6.9016
+window_1500,individual_feature,character_entropy,1,Gradient Boosting,54.4235,4.4
+window_1500,individual_feature,character_entropy,1,Neural Network,55.5556,5.6899
+window_1500,individual_feature,character_2gram_entropy,1,Logistic Regression,54.9924,2.9921
+window_1500,individual_feature,character_2gram_entropy,1,Naive Bayes,55.6792,3.6506
+window_1500,individual_feature,character_2gram_entropy,1,SVM,54.8497,4.2677
+window_1500,individual_feature,character_2gram_entropy,1,K-NN,49.0373,4.3779
+window_1500,individual_feature,character_2gram_entropy,1,Random Forest,52.9262,6.0184
+window_1500,individual_feature,character_2gram_entropy,1,Ridge Classifier,54.9924,2.9921
+window_1500,individual_feature,character_2gram_entropy,1,Gradient Boosting,51.8037,5.3994
+window_1500,individual_feature,character_2gram_entropy,1,Neural Network,55.1275,3.524
+window_1500,individual_feature,character_3gram_entropy,1,Logistic Regression,59.9677,5.3728
+window_1500,individual_feature,character_3gram_entropy,1,Naive Bayes,59.277,5.2564
+window_1500,individual_feature,character_3gram_entropy,1,SVM,59.2789,5.1291
+window_1500,individual_feature,character_3gram_entropy,1,K-NN,53.7234,4.2773
+window_1500,individual_feature,character_3gram_entropy,1,Random Forest,52.4848,4.6746
+window_1500,individual_feature,character_3gram_entropy,1,Ridge Classifier,59.6899,5.4848
+window_1500,individual_feature,character_3gram_entropy,1,Gradient Boosting,58.4456,6.1966
+window_1500,individual_feature,character_3gram_entropy,1,Neural Network,59.4159,5.1658
+window_1500,individual_feature,character_4gram_entropy,1,Logistic Regression,59.8288,5.5853
+window_1500,individual_feature,character_4gram_entropy,1,Naive Bayes,60.5213,6.8591
+window_1500,individual_feature,character_4gram_entropy,1,SVM,61.2119,5.6198
+window_1500,individual_feature,character_4gram_entropy,1,K-NN,51.3756,4.3597
+window_1500,individual_feature,character_4gram_entropy,1,Random Forest,52.0814,6.1982
+window_1500,individual_feature,character_4gram_entropy,1,Ridge Classifier,59.9677,5.5288
+window_1500,individual_feature,character_4gram_entropy,1,Gradient Boosting,54.9829,3.8711
+window_1500,individual_feature,character_4gram_entropy,1,Neural Network,59.9677,6.0931
+window_1500,individual_feature,word_bigram_entropy,1,Logistic Regression,70.4852,7.1529
+window_1500,individual_feature,word_bigram_entropy,1,Naive Bayes,71.8702,6.672
+window_1500,individual_feature,word_bigram_entropy,1,SVM,70.8961,5.3094
+window_1500,individual_feature,word_bigram_entropy,1,K-NN,66.3318,6.3271
+window_1500,individual_feature,word_bigram_entropy,1,Random Forest,62.3174,5.3576
+window_1500,individual_feature,word_bigram_entropy,1,Ridge Classifier,70.9018,7.1476
+window_1500,individual_feature,word_bigram_entropy,1,Gradient Boosting,66.3337,6.0055
+window_1500,individual_feature,word_bigram_entropy,1,Neural Network,71.1739,4.882
+window_1500,individual_feature,word_trigram_entropy,1,Logistic Regression,64.14,4.9539
+window_1500,individual_feature,word_trigram_entropy,1,Naive Bayes,56.3832,3.7294
+window_1500,individual_feature,word_trigram_entropy,1,SVM,66.3375,3.7227
+window_1500,individual_feature,word_trigram_entropy,1,K-NN,63.1469,5.1177
+window_1500,individual_feature,word_trigram_entropy,1,Random Forest,60.39,3.0702
+window_1500,individual_feature,word_trigram_entropy,1,Ridge Classifier,64.2751,5.1876
+window_1500,individual_feature,word_trigram_entropy,1,Gradient Boosting,64.8193,3.58
+window_1500,individual_feature,word_trigram_entropy,1,Neural Network,65.5042,4.1889
+window_1500,feature_group,lexical,6,Logistic Regression,70.7705,3.7312
+window_1500,feature_group,lexical,6,Naive Bayes,68.2839,4.2116
+window_1500,feature_group,lexical,6,SVM,76.8836,4.7677
+window_1500,feature_group,lexical,6,K-NN,74.7945,4.1856
+window_1500,feature_group,lexical,6,Random Forest,77.0186,5.2106
+window_1500,feature_group,lexical,6,Ridge Classifier,70.3596,4.9359
+window_1500,feature_group,lexical,6,Gradient Boosting,77.9966,4.8302
+window_1500,feature_group,lexical,6,Neural Network,79.2428,4.933
+window_1500,feature_group,lexical,6,Voting Ensemble,78.1298,4.0167
+window_1500,feature_group,syntactic,6,Logistic Regression,76.8626,5.7045
+window_1500,feature_group,syntactic,6,Naive Bayes,72.7074,6.301
+window_1500,feature_group,syntactic,6,SVM,75.4775,5.6189
+window_1500,feature_group,syntactic,6,K-NN,71.4745,6.8542
+window_1500,feature_group,syntactic,6,Random Forest,72.5704,5.9739
+window_1500,feature_group,syntactic,6,Ridge Classifier,76.3109,5.8176
+window_1500,feature_group,syntactic,6,Gradient Boosting,73.4113,5.5251
+window_1500,feature_group,syntactic,6,Neural Network,75.2017,5.236
+window_1500,feature_group,syntactic,6,Voting Ensemble,75.0609,6.0505
+window_1500,feature_group,ngram,6,Logistic Regression,90.86,3.6229
+window_1500,feature_group,ngram,6,Naive Bayes,73.2667,4.936
+window_1500,feature_group,ngram,6,SVM,90.5765,3.6715
+window_1500,feature_group,ngram,6,K-NN,86.8379,3.7001
+window_1500,feature_group,ngram,6,Random Forest,86.4212,3.9176
+window_1500,feature_group,ngram,6,Ridge Classifier,89.0563,3.5428
+window_1500,feature_group,ngram,6,Gradient Boosting,87.6655,3.2152
+window_1500,feature_group,ngram,6,Neural Network,90.9932,3.4215
+window_1500,feature_group,ngram,6,Voting Ensemble,89.8858,3.1755
+window_1500,feature_group,all_features,18,Logistic Regression,94.3265,2.7942
+window_1500,feature_group,all_features,18,Naive Bayes,75.4833,3.7849
+window_1500,feature_group,all_features,18,SVM,93.3562,4.0966
+window_1500,feature_group,all_features,18,K-NN,84.4825,4.4373
+window_1500,feature_group,all_features,18,Random Forest,92.1005,3.179
+window_1500,feature_group,all_features,18,Ridge Classifier,93.769,2.0773
+window_1500,feature_group,all_features,18,Gradient Boosting,92.5228,3.0479
+window_1500,feature_group,all_features,18,Neural Network,93.7709,3.729
+window_1500,feature_group,all_features,18,Voting Ensemble,93.7709,2.8529

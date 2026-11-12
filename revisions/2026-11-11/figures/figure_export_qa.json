@@ -1,0 +1,142 @@
+[
+  {
+    "file": "Fig 1.tif",
+    "pixels": [
+      4440,
+      4980
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 10.tif",
+    "pixels": [
+      4440,
+      3360
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 2.tif",
+    "pixels": [
+      4440,
+      4980
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 3.tif",
+    "pixels": [
+      4440,
+      4980
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 4.tif",
+    "pixels": [
+      4440,
+      3420
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 5.tif",
+    "pixels": [
+      4440,
+      3660
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 6.tif",
+    "pixels": [
+      4440,
+      3180
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 7.tif",
+    "pixels": [
+      4440,
+      3900
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 8.tif",
+    "pixels": [
+      4440,
+      3900
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  },
+  {
+    "file": "Fig 9.tif",
+    "pixels": [
+      4440,
+      5160
+    ],
+    "mode": "RGB",
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "compression": "tiff_lzw",
+    "width_inches": 7.4
+  }
+]

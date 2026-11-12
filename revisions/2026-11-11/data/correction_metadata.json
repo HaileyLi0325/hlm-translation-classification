@@ -1,0 +1,60 @@
+{
+  "chapter_rows": 240,
+  "segment_rows": 722,
+  "chapter_pairs": 120,
+  "segment_chapter_pairs": 120,
+  "changed_hm_chapters": [
+    101,
+    102
+  ],
+  "changed_yy_chapters": [
+    38,
+    61,
+    102,
+    109
+  ],
+  "recomputed_windows_both_editions": [
+    101,
+    102
+  ],
+  "unchanged_sentinel_chapter": 100,
+  "sentinel_max_absolute_feature_difference": 1.7763568394002505e-15,
+  "versions": {
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "scipy": "1.15.1",
+    "spacy": "3.8.14",
+    "en_core_web_sm": "3.8.0",
+    "nltk": "3.9.4",
+    "wordfreq": "3.1.1",
+    "scikit-learn": "1.7.2",
+    "shap": "0.50.0",
+    "pypdf": "6.10.2"
+  },
+  "counts": [
+    {
+      "edition": "hawkes",
+      "chapter": 101,
+      "regex_words": 7054,
+      "retained_windows": 3
+    },
+    {
+      "edition": "yang",
+      "chapter": 101,
+      "regex_words": 5396,
+      "retained_windows": 3
+    },
+    {
+      "edition": "hawkes",
+      "chapter": 102,
+      "regex_words": 4480,
+      "retained_windows": 2
+    },
+    {
+      "edition": "yang",
+      "chapter": 102,
+      "regex_words": 3960,
+      "retained_windows": 2
+    }
+  ]
+}

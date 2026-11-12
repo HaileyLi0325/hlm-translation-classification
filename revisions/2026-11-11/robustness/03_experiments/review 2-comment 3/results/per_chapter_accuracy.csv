@@ -1,0 +1,721 @@
+﻿chapter,accuracy,dataset,algorithm
+81,1.0,chapter_level,Logistic Regression
+82,1.0,chapter_level,Logistic Regression
+83,1.0,chapter_level,Logistic Regression
+84,0.5,chapter_level,Logistic Regression
+85,1.0,chapter_level,Logistic Regression
+86,0.5,chapter_level,Logistic Regression
+87,0.5,chapter_level,Logistic Regression
+88,1.0,chapter_level,Logistic Regression
+89,1.0,chapter_level,Logistic Regression
+90,1.0,chapter_level,Logistic Regression
+91,1.0,chapter_level,Logistic Regression
+92,1.0,chapter_level,Logistic Regression
+93,1.0,chapter_level,Logistic Regression
+94,1.0,chapter_level,Logistic Regression
+95,1.0,chapter_level,Logistic Regression
+96,1.0,chapter_level,Logistic Regression
+97,1.0,chapter_level,Logistic Regression
+98,1.0,chapter_level,Logistic Regression
+99,1.0,chapter_level,Logistic Regression
+100,1.0,chapter_level,Logistic Regression
+101,1.0,chapter_level,Logistic Regression
+102,1.0,chapter_level,Logistic Regression
+103,1.0,chapter_level,Logistic Regression
+104,1.0,chapter_level,Logistic Regression
+105,0.5,chapter_level,Logistic Regression
+106,1.0,chapter_level,Logistic Regression
+107,1.0,chapter_level,Logistic Regression
+108,1.0,chapter_level,Logistic Regression
+109,1.0,chapter_level,Logistic Regression
+110,1.0,chapter_level,Logistic Regression
+111,0.5,chapter_level,Logistic Regression
+112,1.0,chapter_level,Logistic Regression
+113,1.0,chapter_level,Logistic Regression
+114,1.0,chapter_level,Logistic Regression
+115,1.0,chapter_level,Logistic Regression
+116,1.0,chapter_level,Logistic Regression
+117,1.0,chapter_level,Logistic Regression
+118,0.5,chapter_level,Logistic Regression
+119,1.0,chapter_level,Logistic Regression
+120,0.5,chapter_level,Logistic Regression
+81,1.0,chapter_level,Naive Bayes
+82,1.0,chapter_level,Naive Bayes
+83,1.0,chapter_level,Naive Bayes
+84,1.0,chapter_level,Naive Bayes
+85,1.0,chapter_level,Naive Bayes
+86,1.0,chapter_level,Naive Bayes
+87,0.5,chapter_level,Naive Bayes
+88,1.0,chapter_level,Naive Bayes
+89,0.5,chapter_level,Naive Bayes
+90,1.0,chapter_level,Naive Bayes
+91,0.5,chapter_level,Naive Bayes
+92,1.0,chapter_level,Naive Bayes
+93,1.0,chapter_level,Naive Bayes
+94,1.0,chapter_level,Naive Bayes
+95,1.0,chapter_level,Naive Bayes
+96,1.0,chapter_level,Naive Bayes
+97,0.5,chapter_level,Naive Bayes
+98,0.5,chapter_level,Naive Bayes
+99,1.0,chapter_level,Naive Bayes
+100,1.0,chapter_level,Naive Bayes
+101,1.0,chapter_level,Naive Bayes
+102,0.5,chapter_level,Naive Bayes
+103,1.0,chapter_level,Naive Bayes
+104,1.0,chapter_level,Naive Bayes
+105,0.5,chapter_level,Naive Bayes
+106,1.0,chapter_level,Naive Bayes
+107,1.0,chapter_level,Naive Bayes
+108,1.0,chapter_level,Naive Bayes
+109,1.0,chapter_level,Naive Bayes
+110,1.0,chapter_level,Naive Bayes
+111,0.5,chapter_level,Naive Bayes
+112,0.5,chapter_level,Naive Bayes
+113,1.0,chapter_level,Naive Bayes
+114,1.0,chapter_level,Naive Bayes
+115,0.5,chapter_level,Naive Bayes
+116,1.0,chapter_level,Naive Bayes
+117,1.0,chapter_level,Naive Bayes
+118,1.0,chapter_level,Naive Bayes
+119,0.5,chapter_level,Naive Bayes
+120,0.5,chapter_level,Naive Bayes
+81,1.0,chapter_level,SVM
+82,0.5,chapter_level,SVM
+83,1.0,chapter_level,SVM
+84,0.5,chapter_level,SVM
+85,1.0,chapter_level,SVM
+86,1.0,chapter_level,SVM
+87,0.5,chapter_level,SVM
+88,1.0,chapter_level,SVM
+89,1.0,chapter_level,SVM
+90,1.0,chapter_level,SVM
+91,1.0,chapter_level,SVM
+92,0.5,chapter_level,SVM
+93,1.0,chapter_level,SVM
+94,1.0,chapter_level,SVM
+95,1.0,chapter_level,SVM
+96,1.0,chapter_level,SVM
+97,1.0,chapter_level,SVM
+98,1.0,chapter_level,SVM
+99,1.0,chapter_level,SVM
+100,1.0,chapter_level,SVM
+101,1.0,chapter_level,SVM
+102,0.5,chapter_level,SVM
+103,1.0,chapter_level,SVM
+104,1.0,chapter_level,SVM
+105,0.5,chapter_level,SVM
+106,1.0,chapter_level,SVM
+107,1.0,chapter_level,SVM
+108,1.0,chapter_level,SVM
+109,1.0,chapter_level,SVM
+110,1.0,chapter_level,SVM
+111,0.5,chapter_level,SVM
+112,1.0,chapter_level,SVM
+113,1.0,chapter_level,SVM
+114,1.0,chapter_level,SVM
+115,1.0,chapter_level,SVM
+116,1.0,chapter_level,SVM
+117,1.0,chapter_level,SVM
+118,1.0,chapter_level,SVM
+119,1.0,chapter_level,SVM
+120,0.5,chapter_level,SVM
+81,1.0,chapter_level,K-NN
+82,0.5,chapter_level,K-NN
+83,1.0,chapter_level,K-NN
+84,1.0,chapter_level,K-NN
+85,1.0,chapter_level,K-NN
+86,1.0,chapter_level,K-NN
+87,0.5,chapter_level,K-NN
+88,1.0,chapter_level,K-NN
+89,1.0,chapter_level,K-NN
+90,1.0,chapter_level,K-NN
+91,0.5,chapter_level,K-NN
+92,0.5,chapter_level,K-NN
+93,1.0,chapter_level,K-NN
+94,1.0,chapter_level,K-NN
+95,1.0,chapter_level,K-NN
+96,1.0,chapter_level,K-NN
+97,1.0,chapter_level,K-NN
+98,0.5,chapter_level,K-NN
+99,1.0,chapter_level,K-NN
+100,1.0,chapter_level,K-NN
+101,0.5,chapter_level,K-NN
+102,1.0,chapter_level,K-NN
+103,1.0,chapter_level,K-NN
+104,1.0,chapter_level,K-NN
+105,1.0,chapter_level,K-NN
+106,1.0,chapter_level,K-NN
+107,1.0,chapter_level,K-NN
+108,1.0,chapter_level,K-NN
+109,0.5,chapter_level,K-NN
+110,1.0,chapter_level,K-NN
+111,1.0,chapter_level,K-NN
+112,1.0,chapter_level,K-NN
+113,1.0,chapter_level,K-NN
+114,1.0,chapter_level,K-NN
+115,1.0,chapter_level,K-NN
+116,0.5,chapter_level,K-NN
+117,0.5,chapter_level,K-NN
+118,1.0,chapter_level,K-NN
+119,1.0,chapter_level,K-NN
+120,0.5,chapter_level,K-NN
+81,1.0,chapter_level,Random Forest
+82,1.0,chapter_level,Random Forest
+83,1.0,chapter_level,Random Forest
+84,1.0,chapter_level,Random Forest
+85,1.0,chapter_level,Random Forest
+86,1.0,chapter_level,Random Forest
+87,0.5,chapter_level,Random Forest
+88,1.0,chapter_level,Random Forest
+89,1.0,chapter_level,Random Forest
+90,1.0,chapter_level,Random Forest
+91,1.0,chapter_level,Random Forest
+92,1.0,chapter_level,Random Forest
+93,1.0,chapter_level,Random Forest
+94,1.0,chapter_level,Random Forest
+95,1.0,chapter_level,Random Forest
+96,1.0,chapter_level,Random Forest
+97,0.5,chapter_level,Random Forest
+98,0.5,chapter_level,Random Forest
+99,1.0,chapter_level,Random Forest
+100,1.0,chapter_level,Random Forest
+101,1.0,chapter_level,Random Forest
+102,1.0,chapter_level,Random Forest
+103,1.0,chapter_level,Random Forest
+104,1.0,chapter_level,Random Forest
+105,0.5,chapter_level,Random Forest
+106,1.0,chapter_level,Random Forest
+107,1.0,chapter_level,Random Forest
+108,1.0,chapter_level,Random Forest
+109,1.0,chapter_level,Random Forest
+110,1.0,chapter_level,Random Forest
+111,0.5,chapter_level,Random Forest
+112,1.0,chapter_level,Random Forest
+113,1.0,chapter_level,Random Forest
+114,1.0,chapter_level,Random Forest
+115,1.0,chapter_level,Random Forest
+116,1.0,chapter_level,Random Forest
+117,1.0,chapter_level,Random Forest
+118,1.0,chapter_level,Random Forest
+119,0.5,chapter_level,Random Forest
+120,0.5,chapter_level,Random Forest
+81,1.0,chapter_level,Ridge Classifier
+82,1.0,chapter_level,Ridge Classifier
+83,1.0,chapter_level,Ridge Classifier
+84,0.5,chapter_level,Ridge Classifier
+85,1.0,chapter_level,Ridge Classifier
+86,1.0,chapter_level,Ridge Classifier
+87,0.5,chapter_level,Ridge Classifier
+88,1.0,chapter_level,Ridge Classifier
+89,1.0,chapter_level,Ridge Classifier
+90,1.0,chapter_level,Ridge Classifier
+91,1.0,chapter_level,Ridge Classifier
+92,1.0,chapter_level,Ridge Classifier
+93,1.0,chapter_level,Ridge Classifier
+94,1.0,chapter_level,Ridge Classifier
+95,1.0,chapter_level,Ridge Classifier
+96,1.0,chapter_level,Ridge Classifier
+97,1.0,chapter_level,Ridge Classifier
+98,1.0,chapter_level,Ridge Classifier
+99,0.5,chapter_level,Ridge Classifier
+100,1.0,chapter_level,Ridge Classifier
+101,1.0,chapter_level,Ridge Classifier
+102,1.0,chapter_level,Ridge Classifier
+103,1.0,chapter_level,Ridge Classifier
+104,1.0,chapter_level,Ridge Classifier
+105,1.0,chapter_level,Ridge Classifier
+106,0.5,chapter_level,Ridge Classifier
+107,1.0,chapter_level,Ridge Classifier
+108,1.0,chapter_level,Ridge Classifier
+109,1.0,chapter_level,Ridge Classifier
+110,1.0,chapter_level,Ridge Classifier
+111,0.5,chapter_level,Ridge Classifier
+112,1.0,chapter_level,Ridge Classifier
+113,1.0,chapter_level,Ridge Classifier
+114,1.0,chapter_level,Ridge Classifier
+115,1.0,chapter_level,Ridge Classifier
+116,1.0,chapter_level,Ridge Classifier
+117,1.0,chapter_level,Ridge Classifier
+118,0.5,chapter_level,Ridge Classifier
+119,1.0,chapter_level,Ridge Classifier
+120,1.0,chapter_level,Ridge Classifier
+81,1.0,chapter_level,Gradient Boosting
+82,1.0,chapter_level,Gradient Boosting
+83,1.0,chapter_level,Gradient Boosting
+84,1.0,chapter_level,Gradient Boosting
+85,1.0,chapter_level,Gradient Boosting
+86,1.0,chapter_level,Gradient Boosting
+87,0.5,chapter_level,Gradient Boosting
+88,1.0,chapter_level,Gradient Boosting
+89,1.0,chapter_level,Gradient Boosting
+90,1.0,chapter_level,Gradient Boosting
+91,1.0,chapter_level,Gradient Boosting
+92,1.0,chapter_level,Gradient Boosting
+93,1.0,chapter_level,Gradient Boosting
+94,1.0,chapter_level,Gradient Boosting
+95,1.0,chapter_level,Gradient Boosting
+96,1.0,chapter_level,Gradient Boosting
+97,1.0,chapter_level,Gradient Boosting
+98,1.0,chapter_level,Gradient Boosting
+99,1.0,chapter_level,Gradient Boosting
+100,1.0,chapter_level,Gradient Boosting
+101,1.0,chapter_level,Gradient Boosting
+102,1.0,chapter_level,Gradient Boosting
+103,1.0,chapter_level,Gradient Boosting
+104,1.0,chapter_level,Gradient Boosting
+105,0.5,chapter_level,Gradient Boosting
+106,1.0,chapter_level,Gradient Boosting
+107,1.0,chapter_level,Gradient Boosting
+108,1.0,chapter_level,Gradient Boosting
+109,1.0,chapter_level,Gradient Boosting
+110,1.0,chapter_level,Gradient Boosting
+111,1.0,chapter_level,Gradient Boosting
+112,1.0,chapter_level,Gradient Boosting
+113,1.0,chapter_level,Gradient Boosting
+114,1.0,chapter_level,Gradient Boosting
+115,1.0,chapter_level,Gradient Boosting
+116,0.5,chapter_level,Gradient Boosting
+117,1.0,chapter_level,Gradient Boosting
+118,1.0,chapter_level,Gradient Boosting
+119,1.0,chapter_level,Gradient Boosting
+120,1.0,chapter_level,Gradient Boosting
+81,1.0,chapter_level,Neural Network
+82,1.0,chapter_level,Neural Network
+83,1.0,chapter_level,Neural Network
+84,0.5,chapter_level,Neural Network
+85,1.0,chapter_level,Neural Network
+86,1.0,chapter_level,Neural Network
+87,0.5,chapter_level,Neural Network
+88,1.0,chapter_level,Neural Network
+89,1.0,chapter_level,Neural Network
+90,1.0,chapter_level,Neural Network
+91,1.0,chapter_level,Neural Network
+92,0.5,chapter_level,Neural Network
+93,1.0,chapter_level,Neural Network
+94,1.0,chapter_level,Neural Network
+95,1.0,chapter_level,Neural Network
+96,1.0,chapter_level,Neural Network
+97,0.5,chapter_level,Neural Network
+98,1.0,chapter_level,Neural Network
+99,1.0,chapter_level,Neural Network
+100,1.0,chapter_level,Neural Network
+101,1.0,chapter_level,Neural Network
+102,1.0,chapter_level,Neural Network
+103,1.0,chapter_level,Neural Network
+104,1.0,chapter_level,Neural Network
+105,0.5,chapter_level,Neural Network
+106,0.5,chapter_level,Neural Network
+107,1.0,chapter_level,Neural Network
+108,1.0,chapter_level,Neural Network
+109,1.0,chapter_level,Neural Network
+110,1.0,chapter_level,Neural Network
+111,0.5,chapter_level,Neural Network
+112,1.0,chapter_level,Neural Network
+113,1.0,chapter_level,Neural Network
+114,1.0,chapter_level,Neural Network
+115,0.5,chapter_level,Neural Network
+116,1.0,chapter_level,Neural Network
+117,0.5,chapter_level,Neural Network
+118,0.5,chapter_level,Neural Network
+119,0.5,chapter_level,Neural Network
+120,0.5,chapter_level,Neural Network
+81,1.0,chapter_level,Voting Ensemble
+82,1.0,chapter_level,Voting Ensemble
+83,1.0,chapter_level,Voting Ensemble
+84,0.5,chapter_level,Voting Ensemble
+85,1.0,chapter_level,Voting Ensemble
+86,1.0,chapter_level,Voting Ensemble
+87,0.5,chapter_level,Voting Ensemble
+88,1.0,chapter_level,Voting Ensemble
+89,1.0,chapter_level,Voting Ensemble
+90,1.0,chapter_level,Voting Ensemble
+91,1.0,chapter_level,Voting Ensemble
+92,1.0,chapter_level,Voting Ensemble
+93,1.0,chapter_level,Voting Ensemble
+94,1.0,chapter_level,Voting Ensemble
+95,1.0,chapter_level,Voting Ensemble
+96,1.0,chapter_level,Voting Ensemble
+97,1.0,chapter_level,Voting Ensemble
+98,1.0,chapter_level,Voting Ensemble
+99,1.0,chapter_level,Voting Ensemble
+100,1.0,chapter_level,Voting Ensemble
+101,1.0,chapter_level,Voting Ensemble
+102,1.0,chapter_level,Voting Ensemble
+103,1.0,chapter_level,Voting Ensemble
+104,1.0,chapter_level,Voting Ensemble
+105,0.5,chapter_level,Voting Ensemble
+106,1.0,chapter_level,Voting Ensemble
+107,1.0,chapter_level,Voting Ensemble
+108,1.0,chapter_level,Voting Ensemble
+109,1.0,chapter_level,Voting Ensemble
+110,1.0,chapter_level,Voting Ensemble
+111,0.5,chapter_level,Voting Ensemble
+112,1.0,chapter_level,Voting Ensemble
+113,1.0,chapter_level,Voting Ensemble
+114,1.0,chapter_level,Voting Ensemble
+115,1.0,chapter_level,Voting Ensemble
+116,1.0,chapter_level,Voting Ensemble
+117,1.0,chapter_level,Voting Ensemble
+118,1.0,chapter_level,Voting Ensemble
+119,1.0,chapter_level,Voting Ensemble
+120,0.5,chapter_level,Voting Ensemble
+81,0.8333333333333334,window_1500,Logistic Regression
+82,0.8333333333333334,window_1500,Logistic Regression
+83,0.8333333333333334,window_1500,Logistic Regression
+84,0.8333333333333334,window_1500,Logistic Regression
+85,1.0,window_1500,Logistic Regression
+86,0.8333333333333334,window_1500,Logistic Regression
+87,0.75,window_1500,Logistic Regression
+88,1.0,window_1500,Logistic Regression
+89,1.0,window_1500,Logistic Regression
+90,1.0,window_1500,Logistic Regression
+91,0.75,window_1500,Logistic Regression
+92,1.0,window_1500,Logistic Regression
+93,0.8333333333333334,window_1500,Logistic Regression
+94,1.0,window_1500,Logistic Regression
+95,1.0,window_1500,Logistic Regression
+96,1.0,window_1500,Logistic Regression
+97,1.0,window_1500,Logistic Regression
+98,1.0,window_1500,Logistic Regression
+99,0.8333333333333334,window_1500,Logistic Regression
+100,1.0,window_1500,Logistic Regression
+101,1.0,window_1500,Logistic Regression
+102,1.0,window_1500,Logistic Regression
+103,0.8333333333333334,window_1500,Logistic Regression
+104,0.8333333333333334,window_1500,Logistic Regression
+105,0.5,window_1500,Logistic Regression
+106,0.75,window_1500,Logistic Regression
+107,0.8333333333333334,window_1500,Logistic Regression
+108,1.0,window_1500,Logistic Regression
+109,1.0,window_1500,Logistic Regression
+110,1.0,window_1500,Logistic Regression
+111,0.8333333333333334,window_1500,Logistic Regression
+112,0.8333333333333334,window_1500,Logistic Regression
+113,0.8333333333333334,window_1500,Logistic Regression
+114,1.0,window_1500,Logistic Regression
+115,0.8333333333333334,window_1500,Logistic Regression
+116,1.0,window_1500,Logistic Regression
+117,0.6666666666666666,window_1500,Logistic Regression
+118,0.8333333333333334,window_1500,Logistic Regression
+119,0.875,window_1500,Logistic Regression
+120,1.0,window_1500,Logistic Regression
+81,0.5,window_1500,Naive Bayes
+82,0.5,window_1500,Naive Bayes
+83,0.3333333333333333,window_1500,Naive Bayes
+84,0.5,window_1500,Naive Bayes
+85,0.5,window_1500,Naive Bayes
+86,0.6666666666666666,window_1500,Naive Bayes
+87,0.75,window_1500,Naive Bayes
+88,0.6666666666666666,window_1500,Naive Bayes
+89,0.5,window_1500,Naive Bayes
+90,0.75,window_1500,Naive Bayes
+91,0.25,window_1500,Naive Bayes
+92,0.5,window_1500,Naive Bayes
+93,0.5,window_1500,Naive Bayes
+94,0.5,window_1500,Naive Bayes
+95,0.5,window_1500,Naive Bayes
+96,0.3333333333333333,window_1500,Naive Bayes
+97,0.75,window_1500,Naive Bayes
+98,0.5,window_1500,Naive Bayes
+99,0.6666666666666666,window_1500,Naive Bayes
+100,0.75,window_1500,Naive Bayes
+101,0.3333333333333333,window_1500,Naive Bayes
+102,0.5,window_1500,Naive Bayes
+103,0.8333333333333334,window_1500,Naive Bayes
+104,0.6666666666666666,window_1500,Naive Bayes
+105,0.5,window_1500,Naive Bayes
+106,0.5,window_1500,Naive Bayes
+107,0.6666666666666666,window_1500,Naive Bayes
+108,0.8333333333333334,window_1500,Naive Bayes
+109,0.5,window_1500,Naive Bayes
+110,0.8333333333333334,window_1500,Naive Bayes
+111,0.6666666666666666,window_1500,Naive Bayes
+112,0.6666666666666666,window_1500,Naive Bayes
+113,0.8333333333333334,window_1500,Naive Bayes
+114,0.75,window_1500,Naive Bayes
+115,0.6666666666666666,window_1500,Naive Bayes
+116,0.6666666666666666,window_1500,Naive Bayes
+117,0.6666666666666666,window_1500,Naive Bayes
+118,0.6666666666666666,window_1500,Naive Bayes
+119,0.75,window_1500,Naive Bayes
+120,1.0,window_1500,Naive Bayes
+81,0.6666666666666666,window_1500,SVM
+82,0.6666666666666666,window_1500,SVM
+83,0.8333333333333334,window_1500,SVM
+84,0.8333333333333334,window_1500,SVM
+85,1.0,window_1500,SVM
+86,0.6666666666666666,window_1500,SVM
+87,0.75,window_1500,SVM
+88,1.0,window_1500,SVM
+89,1.0,window_1500,SVM
+90,1.0,window_1500,SVM
+91,0.75,window_1500,SVM
+92,1.0,window_1500,SVM
+93,0.8333333333333334,window_1500,SVM
+94,0.8333333333333334,window_1500,SVM
+95,0.8333333333333334,window_1500,SVM
+96,0.8333333333333334,window_1500,SVM
+97,1.0,window_1500,SVM
+98,1.0,window_1500,SVM
+99,0.8333333333333334,window_1500,SVM
+100,1.0,window_1500,SVM
+101,1.0,window_1500,SVM
+102,1.0,window_1500,SVM
+103,1.0,window_1500,SVM
+104,0.8333333333333334,window_1500,SVM
+105,0.5,window_1500,SVM
+106,0.75,window_1500,SVM
+107,1.0,window_1500,SVM
+108,0.8333333333333334,window_1500,SVM
+109,1.0,window_1500,SVM
+110,0.8333333333333334,window_1500,SVM
+111,1.0,window_1500,SVM
+112,1.0,window_1500,SVM
+113,0.8333333333333334,window_1500,SVM
+114,0.75,window_1500,SVM
+115,0.8333333333333334,window_1500,SVM
+116,0.8333333333333334,window_1500,SVM
+117,0.6666666666666666,window_1500,SVM
+118,1.0,window_1500,SVM
+119,0.875,window_1500,SVM
+120,0.6666666666666666,window_1500,SVM
+81,0.3333333333333333,window_1500,K-NN
+82,0.6666666666666666,window_1500,K-NN
+83,0.8333333333333334,window_1500,K-NN
+84,0.6666666666666666,window_1500,K-NN
+85,0.8333333333333334,window_1500,K-NN
+86,0.6666666666666666,window_1500,K-NN
+87,0.5,window_1500,K-NN
+88,0.5,window_1500,K-NN
+89,1.0,window_1500,K-NN
+90,0.5,window_1500,K-NN
+91,0.75,window_1500,K-NN
+92,0.8333333333333334,window_1500,K-NN
+93,0.8333333333333334,window_1500,K-NN
+94,0.5,window_1500,K-NN
+95,0.6666666666666666,window_1500,K-NN
+96,1.0,window_1500,K-NN
+97,0.875,window_1500,K-NN
+98,0.75,window_1500,K-NN
+99,0.6666666666666666,window_1500,K-NN
+100,0.5,window_1500,K-NN
+101,0.6666666666666666,window_1500,K-NN
+102,1.0,window_1500,K-NN
+103,0.8333333333333334,window_1500,K-NN
+104,0.5,window_1500,K-NN
+105,0.75,window_1500,K-NN
+106,0.75,window_1500,K-NN
+107,0.6666666666666666,window_1500,K-NN
+108,0.5,window_1500,K-NN
+109,1.0,window_1500,K-NN
+110,1.0,window_1500,K-NN
+111,0.8333333333333334,window_1500,K-NN
+112,0.5,window_1500,K-NN
+113,0.6666666666666666,window_1500,K-NN
+114,0.5,window_1500,K-NN
+115,0.5,window_1500,K-NN
+116,0.6666666666666666,window_1500,K-NN
+117,0.6666666666666666,window_1500,K-NN
+118,0.8333333333333334,window_1500,K-NN
+119,0.875,window_1500,K-NN
+120,0.8333333333333334,window_1500,K-NN
+81,0.8333333333333334,window_1500,Random Forest
+82,0.6666666666666666,window_1500,Random Forest
+83,0.8333333333333334,window_1500,Random Forest
+84,0.8333333333333334,window_1500,Random Forest
+85,1.0,window_1500,Random Forest
+86,0.6666666666666666,window_1500,Random Forest
+87,1.0,window_1500,Random Forest
+88,0.8333333333333334,window_1500,Random Forest
+89,1.0,window_1500,Random Forest
+90,1.0,window_1500,Random Forest
+91,0.5,window_1500,Random Forest
+92,1.0,window_1500,Random Forest
+93,0.8333333333333334,window_1500,Random Forest
+94,0.8333333333333334,window_1500,Random Forest
+95,0.6666666666666666,window_1500,Random Forest
+96,0.8333333333333334,window_1500,Random Forest
+97,1.0,window_1500,Random Forest
+98,1.0,window_1500,Random Forest
+99,0.6666666666666666,window_1500,Random Forest
+100,1.0,window_1500,Random Forest
+101,0.8333333333333334,window_1500,Random Forest
+102,0.75,window_1500,Random Forest
+103,0.8333333333333334,window_1500,Random Forest
+104,0.6666666666666666,window_1500,Random Forest
+105,0.5,window_1500,Random Forest
+106,0.75,window_1500,Random Forest
+107,0.8333333333333334,window_1500,Random Forest
+108,0.8333333333333334,window_1500,Random Forest
+109,0.625,window_1500,Random Forest
+110,0.8333333333333334,window_1500,Random Forest
+111,1.0,window_1500,Random Forest
+112,1.0,window_1500,Random Forest
+113,1.0,window_1500,Random Forest
+114,0.75,window_1500,Random Forest
+115,0.8333333333333334,window_1500,Random Forest
+116,0.6666666666666666,window_1500,Random Forest
+117,0.6666666666666666,window_1500,Random Forest
+118,0.8333333333333334,window_1500,Random Forest
+119,0.875,window_1500,Random Forest
+120,1.0,window_1500,Random Forest
+81,0.8333333333333334,window_1500,Ridge Classifier
+82,0.8333333333333334,window_1500,Ridge Classifier
+83,0.8333333333333334,window_1500,Ridge Classifier
+84,0.8333333333333334,window_1500,Ridge Classifier
+85,1.0,window_1500,Ridge Classifier
+86,0.6666666666666666,window_1500,Ridge Classifier
+87,0.5,window_1500,Ridge Classifier
+88,1.0,window_1500,Ridge Classifier
+89,1.0,window_1500,Ridge Classifier
+90,1.0,window_1500,Ridge Classifier
+91,0.75,window_1500,Ridge Classifier
+92,0.8333333333333334,window_1500,Ridge Classifier
+93,0.8333333333333334,window_1500,Ridge Classifier
+94,1.0,window_1500,Ridge Classifier
+95,0.8333333333333334,window_1500,Ridge Classifier
+96,1.0,window_1500,Ridge Classifier
+97,1.0,window_1500,Ridge Classifier
+98,0.75,window_1500,Ridge Classifier
+99,0.8333333333333334,window_1500,Ridge Classifier
+100,1.0,window_1500,Ridge Classifier
+101,0.8333333333333334,window_1500,Ridge Classifier
+102,1.0,window_1500,Ridge Classifier
+103,1.0,window_1500,Ridge Classifier
+104,0.8333333333333334,window_1500,Ridge Classifier
+105,0.5,window_1500,Ridge Classifier
+106,0.75,window_1500,Ridge Classifier
+107,0.8333333333333334,window_1500,Ridge Classifier
+108,0.8333333333333334,window_1500,Ridge Classifier
+109,1.0,window_1500,Ridge Classifier
+110,1.0,window_1500,Ridge Classifier
+111,0.6666666666666666,window_1500,Ridge Classifier
+112,1.0,window_1500,Ridge Classifier
+113,0.6666666666666666,window_1500,Ridge Classifier
+114,1.0,window_1500,Ridge Classifier
+115,0.8333333333333334,window_1500,Ridge Classifier
+116,1.0,window_1500,Ridge Classifier
+117,0.6666666666666666,window_1500,Ridge Classifier
+118,0.8333333333333334,window_1500,Ridge Classifier
+119,1.0,window_1500,Ridge Classifier
+120,1.0,window_1500,Ridge Classifier
+81,0.8333333333333334,window_1500,Gradient Boosting
+82,0.8333333333333334,window_1500,Gradient Boosting
+83,0.8333333333333334,window_1500,Gradient Boosting
+84,1.0,window_1500,Gradient Boosting
+85,1.0,window_1500,Gradient Boosting
+86,0.6666666666666666,window_1500,Gradient Boosting
+87,0.75,window_1500,Gradient Boosting
+88,0.8333333333333334,window_1500,Gradient Boosting
+89,1.0,window_1500,Gradient Boosting
+90,1.0,window_1500,Gradient Boosting
+91,0.75,window_1500,Gradient Boosting
+92,1.0,window_1500,Gradient Boosting
+93,0.8333333333333334,window_1500,Gradient Boosting
+94,0.8333333333333334,window_1500,Gradient Boosting
+95,0.8333333333333334,window_1500,Gradient Boosting
+96,0.8333333333333334,window_1500,Gradient Boosting
+97,1.0,window_1500,Gradient Boosting
+98,1.0,window_1500,Gradient Boosting
+99,0.6666666666666666,window_1500,Gradient Boosting
+100,1.0,window_1500,Gradient Boosting
+101,0.8333333333333334,window_1500,Gradient Boosting
+102,0.75,window_1500,Gradient Boosting
+103,0.8333333333333334,window_1500,Gradient Boosting
+104,0.6666666666666666,window_1500,Gradient Boosting
+105,0.5,window_1500,Gradient Boosting
+106,0.75,window_1500,Gradient Boosting
+107,0.6666666666666666,window_1500,Gradient Boosting
+108,0.8333333333333334,window_1500,Gradient Boosting
+109,0.875,window_1500,Gradient Boosting
+110,0.6666666666666666,window_1500,Gradient Boosting
+111,1.0,window_1500,Gradient Boosting
+112,0.8333333333333334,window_1500,Gradient Boosting
+113,1.0,window_1500,Gradient Boosting
+114,0.75,window_1500,Gradient Boosting
+115,1.0,window_1500,Gradient Boosting
+116,0.8333333333333334,window_1500,Gradient Boosting
+117,0.6666666666666666,window_1500,Gradient Boosting
+118,0.8333333333333334,window_1500,Gradient Boosting
+119,0.875,window_1500,Gradient Boosting
+120,1.0,window_1500,Gradient Boosting
+81,0.8333333333333334,window_1500,Neural Network
+82,1.0,window_1500,Neural Network
+83,0.8333333333333334,window_1500,Neural Network
+84,0.5,window_1500,Neural Network
+85,1.0,window_1500,Neural Network
+86,0.6666666666666666,window_1500,Neural Network
+87,0.75,window_1500,Neural Network
+88,1.0,window_1500,Neural Network
+89,1.0,window_1500,Neural Network
+90,1.0,window_1500,Neural Network
+91,0.75,window_1500,Neural Network
+92,1.0,window_1500,Neural Network
+93,1.0,window_1500,Neural Network
+94,1.0,window_1500,Neural Network
+95,1.0,window_1500,Neural Network
+96,0.8333333333333334,window_1500,Neural Network
+97,1.0,window_1500,Neural Network
+98,1.0,window_1500,Neural Network
+99,0.8333333333333334,window_1500,Neural Network
+100,1.0,window_1500,Neural Network
+101,1.0,window_1500,Neural Network
+102,1.0,window_1500,Neural Network
+103,1.0,window_1500,Neural Network
+104,0.8333333333333334,window_1500,Neural Network
+105,0.75,window_1500,Neural Network
+106,0.75,window_1500,Neural Network
+107,0.8333333333333334,window_1500,Neural Network
+108,0.8333333333333334,window_1500,Neural Network
+109,1.0,window_1500,Neural Network
+110,1.0,window_1500,Neural Network
+111,1.0,window_1500,Neural Network
+112,1.0,window_1500,Neural Network
+113,0.8333333333333334,window_1500,Neural Network
+114,1.0,window_1500,Neural Network
+115,0.8333333333333334,window_1500,Neural Network
+116,1.0,window_1500,Neural Network
+117,0.8333333333333334,window_1500,Neural Network
+118,0.8333333333333334,window_1500,Neural Network
+119,1.0,window_1500,Neural Network
+120,1.0,window_1500,Neural Network
+81,0.8333333333333334,window_1500,Voting Ensemble
+82,0.8333333333333334,window_1500,Voting Ensemble
+83,0.8333333333333334,window_1500,Voting Ensemble
+84,0.8333333333333334,window_1500,Voting Ensemble
+85,1.0,window_1500,Voting Ensemble
+86,0.6666666666666666,window_1500,Voting Ensemble
+87,0.75,window_1500,Voting Ensemble
+88,1.0,window_1500,Voting Ensemble
+89,1.0,window_1500,Voting Ensemble
+90,1.0,window_1500,Voting Ensemble
+91,0.75,window_1500,Voting Ensemble
+92,1.0,window_1500,Voting Ensemble
+93,0.8333333333333334,window_1500,Voting Ensemble
+94,0.8333333333333334,window_1500,Voting Ensemble
+95,0.8333333333333334,window_1500,Voting Ensemble
+96,1.0,window_1500,Voting Ensemble
+97,1.0,window_1500,Voting Ensemble
+98,1.0,window_1500,Voting Ensemble
+99,0.8333333333333334,window_1500,Voting Ensemble
+100,1.0,window_1500,Voting Ensemble
+101,1.0,window_1500,Voting Ensemble
+102,1.0,window_1500,Voting Ensemble
+103,1.0,window_1500,Voting Ensemble
+104,0.6666666666666666,window_1500,Voting Ensemble
+105,0.5,window_1500,Voting Ensemble
+106,0.75,window_1500,Voting Ensemble
+107,1.0,window_1500,Voting Ensemble
+108,0.8333333333333334,window_1500,Voting Ensemble
+109,1.0,window_1500,Voting Ensemble
+110,0.8333333333333334,window_1500,Voting Ensemble
+111,1.0,window_1500,Voting Ensemble
+112,1.0,window_1500,Voting Ensemble
+113,0.8333333333333334,window_1500,Voting Ensemble
+114,1.0,window_1500,Voting Ensemble
+115,0.8333333333333334,window_1500,Voting Ensemble
+116,1.0,window_1500,Voting Ensemble
+117,0.6666666666666666,window_1500,Voting Ensemble
+118,0.8333333333333334,window_1500,Voting Ensemble
+119,0.875,window_1500,Voting Ensemble
+120,1.0,window_1500,Voting Ensemble

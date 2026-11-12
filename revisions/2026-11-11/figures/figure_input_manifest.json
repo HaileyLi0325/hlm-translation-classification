@@ -1,0 +1,37 @@
+{
+  "features": {
+    "chapter_level_features.csv": "b77662c8bee3526ce754866443b0dd1a2d1c5ecf61e73edcb6d51182f7b2d281",
+    "corrected_chapter_window_counts.csv": "df714a45033ec08596c171287e8b49341482f4ef9acab0829a5dfde18ccc4c76",
+    "feature_correction_audit.csv": "3d9f696cda7da02be67c469a44608d7d76535e09176dbcc85bbcbb9c8c52c212",
+    "original_table3_punctuation_values.csv": "c5b3d80ca20a743c57c2b9379128bde8d308ad9a2cd1d4c0654371312cd96ad3",
+    "window_1500_features.csv": "d3804df933e887e881e718388deed2c6ebc230fa5cafe7f319a3992238724c47"
+  },
+  "baseline": {
+    "all_results_long.csv": "c86ce89d7f488c893277d365d067e25e6002f5dfe7134bcf9975f6db578913b7",
+    "best_results_summary.csv": "abdbbe4f509ca6d0b3384d068b7b9c146e514f298b02b1b6f8842800b6d83a36",
+    "chapter_level/feature_group_accuracy_mean.csv": "9cfda89b2befec73400719350cd95e3e9a6bf38217f35bdaacf85290eec75128",
+    "chapter_level/feature_group_accuracy_std.csv": "9d9f1c8fbcd1f3c95c088e3f2919ebf1ef491f669908f88745fa3e1c53967493",
+    "chapter_level/individual_feature_accuracy_mean.csv": "4e76dfb960da873fd7c96537e07e5ad37e19cb42ccf728e5b8e85acb114c4c90",
+    "chapter_level/individual_feature_accuracy_std.csv": "31739828b63f1855c65c077f9648d1877757a0490de32c65c275eec47e692f2e",
+    "manuscript_key_accuracy_check.csv": "33c00ee7c0e862f6bf2388f19431aa6a68a552f40619235973b1235ae5b2ee41",
+    "window_1500/feature_group_accuracy_mean.csv": "ab28dfe1c8988240696b84a8a01253a88bb40bf26415f081091a278669e582ca",
+    "window_1500/feature_group_accuracy_std.csv": "9866d8a2ed58b8b98d8ce71c687421055924de719d294ed69ed06770ed783a2f",
+    "window_1500/individual_feature_accuracy_mean.csv": "a9f6b6eceb95b1129033bc5c9772155a42b1c48a575d3886582e6dd936b25182",
+    "window_1500/individual_feature_accuracy_std.csv": "12f49c1725096192d937ff6dc4c9a6bc8fe35ee71b3dc5fb53864950ee1362f0"
+  },
+  "ml_results": {
+    "feature_correlations.csv": "04a41bd8aa504c6accb2cb6c67554095c5d70553fd67e5de3aed2d3a39e795b9",
+    "grouped_stability_comparison.csv": "f423c20b68326c3873725fdcdb153a46dc9fec3a3fcc03eda01478e912d641d9",
+    "heldout_metrics.csv": "6b5aaa171fd0ac51aac27d2782311f617948b715f93a15508be6898c351cad6e",
+    "heldout_predictions.csv": "afedde921af1cd4b5eb9f4a335a272e7b17d719a75c9b6157eb97e4180e1ca53",
+    "heldout_shap_summary.csv": "ad36eb131f497d947cc02dcd2cada7f7d88ea1ec8ff41acc2c2e42e3f99ca477",
+    "heldout_shap_values.csv": "bc0b7e5940c8b3f9648eecd95ba3326ac45bacb7a3f5fd9370c5a9f8e38affb7",
+    "sampling_coverage_by_chapter.csv": "ecb9127932573fdbf1952ff6fcf3ab673f6e0b93b2ec922b485d40ede7076e39",
+    "sampling_features.csv": "8966b81b72e802a0d400a01d246a621646f2d6bff099581684ef63bf36d52570",
+    "sampling_fold_metrics.csv": "56a8772c1b7301003340581388e86b6d0e53e796b3b67ab0f8a2354bc7498794",
+    "sampling_oof_predictions.csv": "64d5e4885fb8f25a4cbe695d3b38c6a440006cb92f3cf4012a6bab9766846f62",
+    "sampling_summary.csv": "1653e32737bf3319911b909b79fd12ab96e71f5fa65a90a3040ce0287cf81f7b",
+    "sampling_window_manifest.csv": "27902142a7dd9fc2ce0f0a9cf6342b8486ce3e4a723cc678eb313a99f540ed1d"
+  },
+  "plot_script_sha256": "57d933757618f42de1769deb1b86f60a73d9e9d8b65046306cd0a125d20145d2"
+}

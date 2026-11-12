@@ -1,0 +1,111 @@
+MACHINE LEARNING REVISION METHODS AND RESULTS
+
+Final frozen source corpus: 240 chapters and 722 chapter-matched 1,500-regex-word segments (361 per edition); all 120 source chapters represented.
+
+
+
+R4.2 and R5.7 Sampling sensitivity
+
+For each chapter, k was the smaller of the two editions' complete 1,500-word window counts. Every scheme retained k disjoint windows in each edition.
+
+The prefix scheme reproduces the canonical fixed-length feature matrix. Position-stratified offsets span zero to the unused word count evenly; a single retained window is centered.
+
+Three random-gap schemes used seeds 101, 202 and 303. A chapter/edition-specific SeedSequence generated k discrete uniform offsets between zero and the unused word count. Sorted offsets plus j*1500 yielded nonoverlapping windows.
+
+Five source-chapter folds (KFold, shuffle=True, random_state=42) were identical across all schemes and algorithms. Both editions and every window from a chapter remained together.
+
+All 18 source-defined entropy features and all eight original classifiers were reused at their original defaults. Hard voting combined their labels; ties selected Hawkes-Minford.
+
+Values below are means and sample SDs of the five fold accuracies, not confidence intervals or independent significance tests.
+
+position_stratified: hard-voting accuracy 94.7498% (fold SD 1.4331 percentage points).
+
+prefix: hard-voting accuracy 94.0330% (fold SD 1.9704 percentage points).
+
+random_101: hard-voting accuracy 92.9586% (fold SD 2.2506 percentage points).
+
+random_202: hard-voting accuracy 93.3602% (fold SD 1.1717 percentage points).
+
+random_303: hard-voting accuracy 94.7595% (fold SD 1.9989 percentage points).
+
+Alternative-minus-prefix accuracy range: -1.0745 to 0.7265 percentage points.
+
+hawkes: mean fraction of regex words retained per chapter 64.7239%, range 46.3106% to 90.8981%.
+
+yang: mean fraction of regex words retained per chapter 85.8216%, range 67.2495% to 99.6899%.
+
+Unequal coverage is retained and explicitly acknowledged. These experiments examine segment position sensitivity, not equivalence of content spans or coverage proportions.
+
+
+
+R5.8 Held-out performance
+
+A seed-42 NumPy generator selected 24 of 120 source chapters without replacement; the remaining 96 chapters were used for training. Every corresponding edition observation remained in the same partition.
+
+Macro precision, macro recall, macro F1, and specificity were calculated from test predictions. Specificity denotes recall for Hawkes-Minford with Yang-Yang defined as positive.
+
+ROC-AUC used class probability or decision_function scores where provided. Hard voting has no probability/decision score, so its AUC is not reported.
+
+All metric confidence intervals are percentile intervals from 2,000 bootstrap resamples of complete held-out source-chapter groups (seed 20261111). Both editions and all nested segments travel together.
+
+These intervals describe empirical test-group variability conditional on the fitted models. They exclude corpus selection and model-training uncertainty; boundary estimates can have degenerate intervals.
+
+window_1500: train n=580, test n=142; hard-voting accuracy 92.9577% (95% CI 88.2801-97.1831%), macro precision 93.2667%, macro recall 92.9577%, macro F1 92.9452%, specificity 97.1831%.
+
+chapter_level: train n=192, test n=48; hard-voting accuracy 97.9167% (95% CI 93.7500-100.0000%), macro precision 98.0000%, macro recall 97.9167%, macro F1 97.9158%, specificity 95.8333%.
+
+
+
+R5.9 Stability
+
+Stability is operationalized as the sample SD of grouped-fold test accuracy and the mean train-test accuracy gap. Smaller values indicate less fold variability or less apparent overfitting, respectively.
+
+On prefix sampling, voting has lower fold SD than 6 of 8 constituent models and a smaller train-test gap than 4 of 8.
+
+Across five sampling schemes, voting has lower SD in 24/40 comparisons and a lower train-test gap in 21/40. It does not universally improve stability.
+
+
+
+R5.10 SHAP and predictor correlations
+
+New SHAP analyses replace the unverifiable historical SHAP outputs. Each 500-tree Random Forest was trained on the 96 training chapters and explained only held-out observations (48 chapters or 142 segments).
+
+TreeExplainer used tree_path_dependent perturbation and the training path counts stored in the fitted trees. The explained class was Yang-Yang; positive SHAP values increase its fitted probability.
+
+The expected value plus the SHAP sum was checked against Random Forest probability for every explained observation. Maximum absolute error was 3.11e-15.
+
+chapter_level mean absolute SHAP top features: word_trigram_entropy=0.112884, pos_unigram_entropy=0.097791, punctuation_entropy=0.086816, clause_marker_entropy=0.042852.
+
+window_1500 mean absolute SHAP top features: word_bigram_entropy=0.118242, word_trigram_entropy=0.109652, punctuation_entropy=0.062888, pos_unigram_entropy=0.053520.
+
+Predictors are strongly correlated even within editions. Chapter-level word-bigram/word-trigram Spearman rho is approximately 0.978 in Hawkes-Minford and 0.983 in Yang-Yang.
+
+Segment wordform/lemma entropy correlations are approximately 0.964 and 0.958, respectively. Contributions may therefore be shared or redistributed among correlated predictors.
+
+SHAP describes this fitted model; it does not establish a unique linguistic mechanism or causal determinants of edition differences.
+
+
+
+R4.3 and R5.13 Reproducibility
+
+Python 3.13.0; NumPy 2.1.3; pandas 2.2.3; SciPy 1.15.1; scikit-learn 1.7.2; spaCy 3.8.14; en_core_web_sm 3.8.0; NLTK 3.9.4; wordfreq 3.1.1; SHAP 0.50.0.
+
+No convergence or fitting warnings occurred in the final held-out or sampling fits. Inputs, split memberships, window positions, features, predictions, SHAP values and exact package versions are provided as machine-readable CSV/JSON.
+
+Public repository publication is not performed by these scripts; this report makes no claim that new files have already been uploaded.
+
+
+
+Final evidence file map
+
+R4.2: sampling_window_manifest.csv; sampling_coverage_by_chapter.csv; sampling_features.csv; sampling_fold_metrics.csv; sampling_summary.csv; sampling_cv_manifest.json; sampling_oof_predictions.csv; sampling_metadata.json.
+
+R5.8: heldout_metrics.csv; heldout_predictions.csv; heldout_manifest.json.
+
+R5.9: grouped_stability_comparison.csv; sampling_fold_metrics.csv.
+
+R5.10: heldout_shap_values.csv; heldout_shap_summary.csv; feature_correlations.csv; heldout_manifest.json.
+
+R4.3/R5.13: ml_metadata.json; extract_sampling_features.py; run_ml_revision.py; audit_ml_outputs.py; ml_qa_summary.json.
+
+All final output tables use legacy internal edition codes hawkes and yang; these refer to Hawkes-Minford and Yang-Yang editions, respectively.

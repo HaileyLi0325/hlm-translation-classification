@@ -1,0 +1,1711 @@
+dataset,algorithm,sample_id,chapter,edition,true_yang,pred_yang,score_yang
+window_1500,Logistic Regression,hawkes_chapter_009_window_01,9,hawkes,0,0,0.0242671844482661
+window_1500,Logistic Regression,hawkes_chapter_009_window_02,9,hawkes,0,0,0.0588234819379255
+window_1500,Logistic Regression,hawkes_chapter_010_window_01,10,hawkes,0,0,0.0097163562302777
+window_1500,Logistic Regression,hawkes_chapter_010_window_02,10,hawkes,0,0,0.09331932294265
+window_1500,Logistic Regression,hawkes_chapter_015_window_01,15,hawkes,0,0,0.000908922714022
+window_1500,Logistic Regression,hawkes_chapter_015_window_02,15,hawkes,0,0,0.0943491415092186
+window_1500,Logistic Regression,hawkes_chapter_022_window_01,22,hawkes,0,0,0.0010239464046178
+window_1500,Logistic Regression,hawkes_chapter_022_window_02,22,hawkes,0,0,0.0312002440675622
+window_1500,Logistic Regression,hawkes_chapter_022_window_03,22,hawkes,0,1,0.7430203432391027
+window_1500,Logistic Regression,hawkes_chapter_044_window_01,44,hawkes,0,0,0.0022359200660826
+window_1500,Logistic Regression,hawkes_chapter_044_window_02,44,hawkes,0,0,0.1413455348165129
+window_1500,Logistic Regression,hawkes_chapter_044_window_03,44,hawkes,0,0,0.195225979194147
+window_1500,Logistic Regression,hawkes_chapter_053_window_01,53,hawkes,0,0,0.0114067115619062
+window_1500,Logistic Regression,hawkes_chapter_053_window_02,53,hawkes,0,1,0.512290979704479
+window_1500,Logistic Regression,hawkes_chapter_053_window_03,53,hawkes,0,0,0.0068441478995942
+window_1500,Logistic Regression,hawkes_chapter_053_window_04,53,hawkes,0,0,0.0002479668965571
+window_1500,Logistic Regression,hawkes_chapter_057_window_01,57,hawkes,0,0,0.0952217234591713
+window_1500,Logistic Regression,hawkes_chapter_057_window_02,57,hawkes,0,0,0.0418745059460368
+window_1500,Logistic Regression,hawkes_chapter_057_window_03,57,hawkes,0,0,0.0034260619096884
+window_1500,Logistic Regression,hawkes_chapter_057_window_04,57,hawkes,0,0,0.0462566509565486
+window_1500,Logistic Regression,hawkes_chapter_057_window_05,57,hawkes,0,0,0.0002702830465076
+window_1500,Logistic Regression,hawkes_chapter_058_window_01,58,hawkes,0,0,0.0019076126099471
+window_1500,Logistic Regression,hawkes_chapter_058_window_02,58,hawkes,0,0,0.0745067956667114
+window_1500,Logistic Regression,hawkes_chapter_058_window_03,58,hawkes,0,0,0.117713124318394
+window_1500,Logistic Regression,hawkes_chapter_059_window_01,59,hawkes,0,0,0.1821645760639198
+window_1500,Logistic Regression,hawkes_chapter_059_window_02,59,hawkes,0,0,0.0835685833543497
+window_1500,Logistic Regression,hawkes_chapter_065_window_01,65,hawkes,0,0,0.0251473946985966
+window_1500,Logistic Regression,hawkes_chapter_065_window_02,65,hawkes,0,0,0.0724547184993326
+window_1500,Logistic Regression,hawkes_chapter_065_window_03,65,hawkes,0,0,0.1826459194559005
+window_1500,Logistic Regression,hawkes_chapter_073_window_01,73,hawkes,0,0,0.0360599952057475
+window_1500,Logistic Regression,hawkes_chapter_073_window_02,73,hawkes,0,0,0.0015233238629988
+window_1500,Logistic Regression,hawkes_chapter_073_window_03,73,hawkes,0,0,0.0020462259791003
+window_1500,Logistic Regression,hawkes_chapter_076_window_01,76,hawkes,0,0,0.0460487582150909
+window_1500,Logistic Regression,hawkes_chapter_076_window_02,76,hawkes,0,0,0.1050354876255321
+window_1500,Logistic Regression,hawkes_chapter_076_window_03,76,hawkes,0,0,0.0606868218923247
+window_1500,Logistic Regression,hawkes_chapter_080_window_01,80,hawkes,0,0,0.0272211361714313
+window_1500,Logistic Regression,hawkes_chapter_080_window_02,80,hawkes,0,0,0.1214645406447129
+window_1500,Logistic Regression,hawkes_chapter_080_window_03,80,hawkes,0,0,0.118619601517602
+window_1500,Logistic Regression,hawkes_chapter_081_window_01,81,hawkes,0,0,0.4103543453786719
+window_1500,Logistic Regression,hawkes_chapter_081_window_02,81,hawkes,0,0,0.0012971251031654
+window_1500,Logistic Regression,hawkes_chapter_081_window_03,81,hawkes,0,0,0.0537135375073928
+window_1500,Logistic Regression,hawkes_chapter_084_window_01,84,hawkes,0,0,0.0060480071727205
+window_1500,Logistic Regression,hawkes_chapter_084_window_02,84,hawkes,0,0,0.0031141851567316
+window_1500,Logistic Regression,hawkes_chapter_084_window_03,84,hawkes,0,0,0.043236572947394
+window_1500,Logistic Regression,hawkes_chapter_088_window_01,88,hawkes,0,0,0.048237496194049
+window_1500,Logistic Regression,hawkes_chapter_088_window_02,88,hawkes,0,0,0.1448265501824315
+window_1500,Logistic Regression,hawkes_chapter_088_window_03,88,hawkes,0,0,0.0793117961309641
+window_1500,Logistic Regression,hawkes_chapter_089_window_01,89,hawkes,0,0,0.0074752394226891
+window_1500,Logistic Regression,hawkes_chapter_089_window_02,89,hawkes,0,0,0.0174889569686372
+window_1500,Logistic Regression,hawkes_chapter_097_window_01,97,hawkes,0,0,0.0007831848439624
+window_1500,Logistic Regression,hawkes_chapter_097_window_02,97,hawkes,0,0,0.0021422903226097
+window_1500,Logistic Regression,hawkes_chapter_097_window_03,97,hawkes,0,0,0.0034494279110435
+window_1500,Logistic Regression,hawkes_chapter_097_window_04,97,hawkes,0,0,0.0138513750794447
+window_1500,Logistic Regression,hawkes_chapter_101_window_01,101,hawkes,0,0,0.073104605670176
+window_1500,Logistic Regression,hawkes_chapter_101_window_02,101,hawkes,0,0,0.0242289266452864
+window_1500,Logistic Regression,hawkes_chapter_101_window_03,101,hawkes,0,0,0.0097484061096505
+window_1500,Logistic Regression,hawkes_chapter_103_window_01,103,hawkes,0,0,0.0469186439133357
+window_1500,Logistic Regression,hawkes_chapter_103_window_02,103,hawkes,0,0,0.1444888217009347
+window_1500,Logistic Regression,hawkes_chapter_103_window_03,103,hawkes,0,0,0.4437661990279752
+window_1500,Logistic Regression,hawkes_chapter_106_window_01,106,hawkes,0,0,0.0315791891864642
+window_1500,Logistic Regression,hawkes_chapter_106_window_02,106,hawkes,0,1,0.7169142359448665
+window_1500,Logistic Regression,hawkes_chapter_112_window_01,112,hawkes,0,0,0.0868148878261241
+window_1500,Logistic Regression,hawkes_chapter_112_window_02,112,hawkes,0,0,0.0039663004183324
+window_1500,Logistic Regression,hawkes_chapter_112_window_03,112,hawkes,0,0,0.0427645023722185
+window_1500,Logistic Regression,hawkes_chapter_118_window_01,118,hawkes,0,0,0.1167682097666804
+window_1500,Logistic Regression,hawkes_chapter_118_window_02,118,hawkes,0,0,0.4149007138150834
+window_1500,Logistic Regression,hawkes_chapter_118_window_03,118,hawkes,0,0,0.0854360849415011
+window_1500,Logistic Regression,hawkes_chapter_119_window_01,119,hawkes,0,0,0.0314825767267317
+window_1500,Logistic Regression,hawkes_chapter_119_window_02,119,hawkes,0,0,0.0724525081050907
+window_1500,Logistic Regression,hawkes_chapter_119_window_03,119,hawkes,0,0,0.0377729977211732
+window_1500,Logistic Regression,hawkes_chapter_119_window_04,119,hawkes,0,0,0.0160218214558227
+window_1500,Logistic Regression,yang_chapter_009_window_01,9,yang,1,0,0.4527903886148463
+window_1500,Logistic Regression,yang_chapter_009_window_02,9,yang,1,0,0.4840345932141369
+window_1500,Logistic Regression,yang_chapter_010_window_01,10,yang,1,1,0.5687778527251718
+window_1500,Logistic Regression,yang_chapter_010_window_02,10,yang,1,1,0.8620019086218306
+window_1500,Logistic Regression,yang_chapter_015_window_01,15,yang,1,1,0.8880557031937771
+window_1500,Logistic Regression,yang_chapter_015_window_02,15,yang,1,1,0.5275692677404927
+window_1500,Logistic Regression,yang_chapter_022_window_01,22,yang,1,1,0.9975224802144184
+window_1500,Logistic Regression,yang_chapter_022_window_02,22,yang,1,1,0.9810756630279074
+window_1500,Logistic Regression,yang_chapter_022_window_03,22,yang,1,1,0.6694995624419489
+window_1500,Logistic Regression,yang_chapter_044_window_01,44,yang,1,1,0.9504579769309048
+window_1500,Logistic Regression,yang_chapter_044_window_02,44,yang,1,1,0.9998530757147586
+window_1500,Logistic Regression,yang_chapter_044_window_03,44,yang,1,1,0.9655670147246936
+window_1500,Logistic Regression,yang_chapter_053_window_01,53,yang,1,0,0.3300647194861362
+window_1500,Logistic Regression,yang_chapter_053_window_02,53,yang,1,0,0.3652745732213695
+window_1500,Logistic Regression,yang_chapter_053_window_03,53,yang,1,1,0.8426928369661324
+window_1500,Logistic Regression,yang_chapter_053_window_04,53,yang,1,1,0.6765167432289304
+window_1500,Logistic Regression,yang_chapter_057_window_01,57,yang,1,1,0.9961578451080602
+window_1500,Logistic Regression,yang_chapter_057_window_02,57,yang,1,1,0.9999233735272254
+window_1500,Logistic Regression,yang_chapter_057_window_03,57,yang,1,1,0.9783214967089694
+window_1500,Logistic Regression,yang_chapter_057_window_04,57,yang,1,1,0.63992629061675
+window_1500,Logistic Regression,yang_chapter_057_window_05,57,yang,1,1,0.9666943587693856
+window_1500,Logistic Regression,yang_chapter_058_window_01,58,yang,1,1,0.8224834978587011
+window_1500,Logistic Regression,yang_chapter_058_window_02,58,yang,1,1,0.9240086232314956
+window_1500,Logistic Regression,yang_chapter_058_window_03,58,yang,1,1,0.9885926483286795
+window_1500,Logistic Regression,yang_chapter_059_window_01,59,yang,1,1,0.8278236948220934
+window_1500,Logistic Regression,yang_chapter_059_window_02,59,yang,1,1,0.9989315924663544
+window_1500,Logistic Regression,yang_chapter_065_window_01,65,yang,1,0,0.2499378624654382
+window_1500,Logistic Regression,yang_chapter_065_window_02,65,yang,1,1,0.7509638955761464
+window_1500,Logistic Regression,yang_chapter_065_window_03,65,yang,1,1,0.9392567535046978
+window_1500,Logistic Regression,yang_chapter_073_window_01,73,yang,1,1,0.6733976731768773
+window_1500,Logistic Regression,yang_chapter_073_window_02,73,yang,1,1,0.9946641600155792
+window_1500,Logistic Regression,yang_chapter_073_window_03,73,yang,1,1,0.9521241200020018
+window_1500,Logistic Regression,yang_chapter_076_window_01,76,yang,1,1,0.9293161737509864
+window_1500,Logistic Regression,yang_chapter_076_window_02,76,yang,1,1,0.8617942936462915
+window_1500,Logistic Regression,yang_chapter_076_window_03,76,yang,1,1,0.6571197679496625
+window_1500,Logistic Regression,yang_chapter_080_window_01,80,yang,1,1,0.9885994877464904
+window_1500,Logistic Regression,yang_chapter_080_window_02,80,yang,1,1,0.8348984340472299
+window_1500,Logistic Regression,yang_chapter_080_window_03,80,yang,1,1,0.9735655205176288
+window_1500,Logistic Regression,yang_chapter_081_window_01,81,yang,1,1,0.9904465672880812
+window_1500,Logistic Regression,yang_chapter_081_window_02,81,yang,1,1,0.9208132695472002
+window_1500,Logistic Regression,yang_chapter_081_window_03,81,yang,1,1,0.9756228007712184
+window_1500,Logistic Regression,yang_chapter_084_window_01,84,yang,1,1,0.7314942910075924
+window_1500,Logistic Regression,yang_chapter_084_window_02,84,yang,1,1,0.9294851691660424
+window_1500,Logistic Regression,yang_chapter_084_window_03,84,yang,1,0,0.244015378921591
+window_1500,Logistic Regression,yang_chapter_088_window_01,88,yang,1,1,0.9884864625464972
+window_1500,Logistic Regression,yang_chapter_088_window_02,88,yang,1,1,0.7101699737434597
+window_1500,Logistic Regression,yang_chapter_088_window_03,88,yang,1,1,0.9735703217980352
+window_1500,Logistic Regression,yang_chapter_089_window_01,89,yang,1,1,0.7375286773163067
+window_1500,Logistic Regression,yang_chapter_089_window_02,89,yang,1,1,0.8646136182212207
+window_1500,Logistic Regression,yang_chapter_097_window_01,97,yang,1,1,0.9904058058143158
+window_1500,Logistic Regression,yang_chapter_097_window_02,97,yang,1,1,0.9866635942254458
+window_1500,Logistic Regression,yang_chapter_097_window_03,97,yang,1,1,0.9849605043733484
+window_1500,Logistic Regression,yang_chapter_097_window_04,97,yang,1,1,0.9994325209963016
+window_1500,Logistic Regression,yang_chapter_101_window_01,101,yang,1,1,0.9891021145030244
+window_1500,Logistic Regression,yang_chapter_101_window_02,101,yang,1,1,0.8816805813434544
+window_1500,Logistic Regression,yang_chapter_101_window_03,101,yang,1,1,0.9822236092435096
+window_1500,Logistic Regression,yang_chapter_103_window_01,103,yang,1,1,0.5662295143243057
+window_1500,Logistic Regression,yang_chapter_103_window_02,103,yang,1,1,0.9983575097869574
+window_1500,Logistic Regression,yang_chapter_103_window_03,103,yang,1,1,0.9270240070460308
+window_1500,Logistic Regression,yang_chapter_106_window_01,106,yang,1,1,0.9626230229562632
+window_1500,Logistic Regression,yang_chapter_106_window_02,106,yang,1,1,0.982633421120904
+window_1500,Logistic Regression,yang_chapter_112_window_01,112,yang,1,1,0.9842277468813054
+window_1500,Logistic Regression,yang_chapter_112_window_02,112,yang,1,1,0.6548800925351087
+window_1500,Logistic Regression,yang_chapter_112_window_03,112,yang,1,1,0.8971712795458807
+window_1500,Logistic Regression,yang_chapter_118_window_01,118,yang,1,1,0.9949147160665222
+window_1500,Logistic Regression,yang_chapter_118_window_02,118,yang,1,1,0.907394309658551
+window_1500,Logistic Regression,yang_chapter_118_window_03,118,yang,1,1,0.9951697054482164
+window_1500,Logistic Regression,yang_chapter_119_window_01,119,yang,1,1,0.9848831356965704
+window_1500,Logistic Regression,yang_chapter_119_window_02,119,yang,1,1,0.9266719284520946
+window_1500,Logistic Regression,yang_chapter_119_window_03,119,yang,1,1,0.9280075029568432
+window_1500,Logistic Regression,yang_chapter_119_window_04,119,yang,1,1,0.9529478005706556
+window_1500,Naive Bayes,hawkes_chapter_009_window_01,9,hawkes,0,0,0.2181328489453359
+window_1500,Naive Bayes,hawkes_chapter_009_window_02,9,hawkes,0,0,0.4748462415920155
+window_1500,Naive Bayes,hawkes_chapter_010_window_01,10,hawkes,0,0,0.0001105577939699
+window_1500,Naive Bayes,hawkes_chapter_010_window_02,10,hawkes,0,0,0.0009459047869107
+window_1500,Naive Bayes,hawkes_chapter_015_window_01,15,hawkes,0,0,0.1552244664790031
+window_1500,Naive Bayes,hawkes_chapter_015_window_02,15,hawkes,0,1,0.6737814193709176
+window_1500,Naive Bayes,hawkes_chapter_022_window_01,22,hawkes,0,0,0.0363367828136738
+window_1500,Naive Bayes,hawkes_chapter_022_window_02,22,hawkes,0,0,0.0659268713332005
+window_1500,Naive Bayes,hawkes_chapter_022_window_03,22,hawkes,0,1,0.9546583929962744
+window_1500,Naive Bayes,hawkes_chapter_044_window_01,44,hawkes,0,0,0.0120902988667439
+window_1500,Naive Bayes,hawkes_chapter_044_window_02,44,hawkes,0,0,0.0068284329925081
+window_1500,Naive Bayes,hawkes_chapter_044_window_03,44,hawkes,0,1,0.5133746857908772
+window_1500,Naive Bayes,hawkes_chapter_053_window_01,53,hawkes,0,0,0.1072449714615088
+window_1500,Naive Bayes,hawkes_chapter_053_window_02,53,hawkes,0,1,0.8198421312793606
+window_1500,Naive Bayes,hawkes_chapter_053_window_03,53,hawkes,0,0,0.0108567129708569
+window_1500,Naive Bayes,hawkes_chapter_053_window_04,53,hawkes,0,1,0.9835441723893978
+window_1500,Naive Bayes,hawkes_chapter_057_window_01,57,hawkes,0,0,0.0102132055896048
+window_1500,Naive Bayes,hawkes_chapter_057_window_02,57,hawkes,0,0,0.0155965015349482
+window_1500,Naive Bayes,hawkes_chapter_057_window_03,57,hawkes,0,0,0.020553214110953
+window_1500,Naive Bayes,hawkes_chapter_057_window_04,57,hawkes,0,0,0.0022480902821567
+window_1500,Naive Bayes,hawkes_chapter_057_window_05,57,hawkes,0,0,0.1245528366153339
+window_1500,Naive Bayes,hawkes_chapter_058_window_01,58,hawkes,0,0,0.0131373497238837
+window_1500,Naive Bayes,hawkes_chapter_058_window_02,58,hawkes,0,0,0.178459801914453
+window_1500,Naive Bayes,hawkes_chapter_058_window_03,58,hawkes,0,0,0.0144772731618309
+window_1500,Naive Bayes,hawkes_chapter_059_window_01,59,hawkes,0,0,0.0502546781886593
+window_1500,Naive Bayes,hawkes_chapter_059_window_02,59,hawkes,0,0,0.0016979188703756
+window_1500,Naive Bayes,hawkes_chapter_065_window_01,65,hawkes,0,0,0.0040419962091927
+window_1500,Naive Bayes,hawkes_chapter_065_window_02,65,hawkes,0,0,0.0534539453152599
+window_1500,Naive Bayes,hawkes_chapter_065_window_03,65,hawkes,0,1,0.7164698854511682
+window_1500,Naive Bayes,hawkes_chapter_073_window_01,73,hawkes,0,0,0.440123659847366
+window_1500,Naive Bayes,hawkes_chapter_073_window_02,73,hawkes,0,0,0.0021403514114486
+window_1500,Naive Bayes,hawkes_chapter_073_window_03,73,hawkes,0,0,0.0001796736300281
+window_1500,Naive Bayes,hawkes_chapter_076_window_01,76,hawkes,0,0,0.0358921374186355
+window_1500,Naive Bayes,hawkes_chapter_076_window_02,76,hawkes,0,0,0.2039636434383548
+window_1500,Naive Bayes,hawkes_chapter_076_window_03,76,hawkes,0,1,0.9245887472853171
+window_1500,Naive Bayes,hawkes_chapter_080_window_01,80,hawkes,0,0,0.2571847060152411
+window_1500,Naive Bayes,hawkes_chapter_080_window_02,80,hawkes,0,0,0.0179845307745849
+window_1500,Naive Bayes,hawkes_chapter_080_window_03,80,hawkes,0,1,0.5275128163670096
+window_1500,Naive Bayes,hawkes_chapter_081_window_01,81,hawkes,0,1,0.7629342656230913
+window_1500,Naive Bayes,hawkes_chapter_081_window_02,81,hawkes,0,1,0.6933231187894854
+window_1500,Naive Bayes,hawkes_chapter_081_window_03,81,hawkes,0,1,0.8292157981153482
+window_1500,Naive Bayes,hawkes_chapter_084_window_01,84,hawkes,0,0,0.1118581798227505
+window_1500,Naive Bayes,hawkes_chapter_084_window_02,84,hawkes,0,1,0.8639542630813684
+window_1500,Naive Bayes,hawkes_chapter_084_window_03,84,hawkes,0,0,0.2425472764153924
+window_1500,Naive Bayes,hawkes_chapter_088_window_01,88,hawkes,0,0,0.4323600041451556
+window_1500,Naive Bayes,hawkes_chapter_088_window_02,88,hawkes,0,0,0.0558555800776883
+window_1500,Naive Bayes,hawkes_chapter_088_window_03,88,hawkes,0,1,0.5378378808638036
+window_1500,Naive Bayes,hawkes_chapter_089_window_01,89,hawkes,0,1,0.5287144945088232
+window_1500,Naive Bayes,hawkes_chapter_089_window_02,89,hawkes,0,0,0.1510228580097423
+window_1500,Naive Bayes,hawkes_chapter_097_window_01,97,hawkes,0,0,0.0638816859342316
+window_1500,Naive Bayes,hawkes_chapter_097_window_02,97,hawkes,0,0,0.0029961452255505
+window_1500,Naive Bayes,hawkes_chapter_097_window_03,97,hawkes,0,0,9.838134457514128e-05
+window_1500,Naive Bayes,hawkes_chapter_097_window_04,97,hawkes,0,0,0.0411586207502848
+window_1500,Naive Bayes,hawkes_chapter_101_window_01,101,hawkes,0,0,0.4452840966191795
+window_1500,Naive Bayes,hawkes_chapter_101_window_02,101,hawkes,0,1,0.978991048777388
+window_1500,Naive Bayes,hawkes_chapter_101_window_03,101,hawkes,0,1,0.6723468293109229
+window_1500,Naive Bayes,hawkes_chapter_103_window_01,103,hawkes,0,1,0.6007633020565705
+window_1500,Naive Bayes,hawkes_chapter_103_window_02,103,hawkes,0,0,0.0713672372294651
+window_1500,Naive Bayes,hawkes_chapter_103_window_03,103,hawkes,0,0,0.3762097067345392
+window_1500,Naive Bayes,hawkes_chapter_106_window_01,106,hawkes,0,0,0.3158130859362136
+window_1500,Naive Bayes,hawkes_chapter_106_window_02,106,hawkes,0,1,0.7955150138040717
+window_1500,Naive Bayes,hawkes_chapter_112_window_01,112,hawkes,0,0,0.1136735449645598
+window_1500,Naive Bayes,hawkes_chapter_112_window_02,112,hawkes,0,0,0.0204853753424608
+window_1500,Naive Bayes,hawkes_chapter_112_window_03,112,hawkes,0,0,0.3784376645256132
+window_1500,Naive Bayes,hawkes_chapter_118_window_01,118,hawkes,0,1,0.5886767337367423
+window_1500,Naive Bayes,hawkes_chapter_118_window_02,118,hawkes,0,0,0.3961523457859464
+window_1500,Naive Bayes,hawkes_chapter_118_window_03,118,hawkes,0,0,0.0311061794422002
+window_1500,Naive Bayes,hawkes_chapter_119_window_01,119,hawkes,0,0,0.2023731345525203
+window_1500,Naive Bayes,hawkes_chapter_119_window_02,119,hawkes,0,0,0.03353082260468
+window_1500,Naive Bayes,hawkes_chapter_119_window_03,119,hawkes,0,1,0.687781252653546
+window_1500,Naive Bayes,hawkes_chapter_119_window_04,119,hawkes,0,0,0.0787536081450298
+window_1500,Naive Bayes,yang_chapter_009_window_01,9,yang,1,1,0.856572636755907
+window_1500,Naive Bayes,yang_chapter_009_window_02,9,yang,1,1,0.8200215579436854
+window_1500,Naive Bayes,yang_chapter_010_window_01,10,yang,1,0,0.1899446235927731
+window_1500,Naive Bayes,yang_chapter_010_window_02,10,yang,1,1,0.5589558488029353
+window_1500,Naive Bayes,yang_chapter_015_window_01,15,yang,1,1,0.9491566656470466
+window_1500,Naive Bayes,yang_chapter_015_window_02,15,yang,1,0,0.3501557092963612
+window_1500,Naive Bayes,yang_chapter_022_window_01,22,yang,1,1,0.9743037190855888
+window_1500,Naive Bayes,yang_chapter_022_window_02,22,yang,1,1,0.9515634831288948
+window_1500,Naive Bayes,yang_chapter_022_window_03,22,yang,1,0,0.2628639196693978
+window_1500,Naive Bayes,yang_chapter_044_window_01,44,yang,1,0,0.0381029909880623
+window_1500,Naive Bayes,yang_chapter_044_window_02,44,yang,1,1,0.933516251443854
+window_1500,Naive Bayes,yang_chapter_044_window_03,44,yang,1,1,0.9384378856007944
+window_1500,Naive Bayes,yang_chapter_053_window_01,53,yang,1,1,0.5168916804848169
+window_1500,Naive Bayes,yang_chapter_053_window_02,53,yang,1,1,0.6195804174885561
+window_1500,Naive Bayes,yang_chapter_053_window_03,53,yang,1,1,0.5984638443121693
+window_1500,Naive Bayes,yang_chapter_053_window_04,53,yang,1,1,0.7211136780198705
+window_1500,Naive Bayes,yang_chapter_057_window_01,57,yang,1,1,0.9504240784122368
+window_1500,Naive Bayes,yang_chapter_057_window_02,57,yang,1,1,0.9843754592925904
+window_1500,Naive Bayes,yang_chapter_057_window_03,57,yang,1,1,0.5055414708043138
+window_1500,Naive Bayes,yang_chapter_057_window_04,57,yang,1,0,0.4303910764951731
+window_1500,Naive Bayes,yang_chapter_057_window_05,57,yang,1,0,0.349030833621386
+window_1500,Naive Bayes,yang_chapter_058_window_01,58,yang,1,0,0.1483163904290783
+window_1500,Naive Bayes,yang_chapter_058_window_02,58,yang,1,1,0.7557246576942241
+window_1500,Naive Bayes,yang_chapter_058_window_03,58,yang,1,1,0.905481265146026
+window_1500,Naive Bayes,yang_chapter_059_window_01,59,yang,1,1,0.662661133105275
+window_1500,Naive Bayes,yang_chapter_059_window_02,59,yang,1,1,0.992539072344076
+window_1500,Naive Bayes,yang_chapter_065_window_01,65,yang,1,0,0.0507488910216666
+window_1500,Naive Bayes,yang_chapter_065_window_02,65,yang,1,1,0.7018620192075911
+window_1500,Naive Bayes,yang_chapter_065_window_03,65,yang,1,1,0.6507658847355245
+window_1500,Naive Bayes,yang_chapter_073_window_01,73,yang,1,1,0.7553359166309468
+window_1500,Naive Bayes,yang_chapter_073_window_02,73,yang,1,1,0.7197072736649834
+window_1500,Naive Bayes,yang_chapter_073_window_03,73,yang,1,0,0.2194370475168602
+window_1500,Naive Bayes,yang_chapter_076_window_01,76,yang,1,0,0.2040361618180309
+window_1500,Naive Bayes,yang_chapter_076_window_02,76,yang,1,1,0.9328048502723812
+window_1500,Naive Bayes,yang_chapter_076_window_03,76,yang,1,1,0.7977332099955482
+window_1500,Naive Bayes,yang_chapter_080_window_01,80,yang,1,1,0.9675160384240667
+window_1500,Naive Bayes,yang_chapter_080_window_02,80,yang,1,1,0.9480116003022924
+window_1500,Naive Bayes,yang_chapter_080_window_03,80,yang,1,1,0.9514496452087512
+window_1500,Naive Bayes,yang_chapter_081_window_01,81,yang,1,1,0.9985677971986237
+window_1500,Naive Bayes,yang_chapter_081_window_02,81,yang,1,1,0.9454481372229596
+window_1500,Naive Bayes,yang_chapter_081_window_03,81,yang,1,1,0.857925392482474
+window_1500,Naive Bayes,yang_chapter_084_window_01,84,yang,1,1,0.8522385968586746
+window_1500,Naive Bayes,yang_chapter_084_window_02,84,yang,1,1,0.9469678909260232
+window_1500,Naive Bayes,yang_chapter_084_window_03,84,yang,1,1,0.7198049729847465
+window_1500,Naive Bayes,yang_chapter_088_window_01,88,yang,1,1,0.9408307472454436
+window_1500,Naive Bayes,yang_chapter_088_window_02,88,yang,1,1,0.7377409514844842
+window_1500,Naive Bayes,yang_chapter_088_window_03,88,yang,1,1,0.8033871375028219
+window_1500,Naive Bayes,yang_chapter_089_window_01,89,yang,1,1,0.8627016228456746
+window_1500,Naive Bayes,yang_chapter_089_window_02,89,yang,1,1,0.993976221509918
+window_1500,Naive Bayes,yang_chapter_097_window_01,97,yang,1,0,0.4067281636630175
+window_1500,Naive Bayes,yang_chapter_097_window_02,97,yang,1,0,0.2632965288601979
+window_1500,Naive Bayes,yang_chapter_097_window_03,97,yang,1,1,0.9714678374656232
+window_1500,Naive Bayes,yang_chapter_097_window_04,97,yang,1,1,0.7065853040255698
+window_1500,Naive Bayes,yang_chapter_101_window_01,101,yang,1,1,0.9899923603814308
+window_1500,Naive Bayes,yang_chapter_101_window_02,101,yang,1,1,0.9793871193833628
+window_1500,Naive Bayes,yang_chapter_101_window_03,101,yang,1,0,0.2530089051739667
+window_1500,Naive Bayes,yang_chapter_103_window_01,103,yang,1,1,0.9105958764350064
+window_1500,Naive Bayes,yang_chapter_103_window_02,103,yang,1,1,0.899490181860017
+window_1500,Naive Bayes,yang_chapter_103_window_03,103,yang,1,1,0.9630825255457208
+window_1500,Naive Bayes,yang_chapter_106_window_01,106,yang,1,1,0.9754684000116822
+window_1500,Naive Bayes,yang_chapter_106_window_02,106,yang,1,1,0.9733628432038868
+window_1500,Naive Bayes,yang_chapter_112_window_01,112,yang,1,1,0.9290524822749152
+window_1500,Naive Bayes,yang_chapter_112_window_02,112,yang,1,0,0.2109898710143588
+window_1500,Naive Bayes,yang_chapter_112_window_03,112,yang,1,1,0.9238447737844512
+window_1500,Naive Bayes,yang_chapter_118_window_01,118,yang,1,1,0.9949565306774218
+window_1500,Naive Bayes,yang_chapter_118_window_02,118,yang,1,1,0.8893694374667752
+window_1500,Naive Bayes,yang_chapter_118_window_03,118,yang,1,1,0.9973310785222218
+window_1500,Naive Bayes,yang_chapter_119_window_01,119,yang,1,1,0.9569325911056812
+window_1500,Naive Bayes,yang_chapter_119_window_02,119,yang,1,0,0.405318391344457
+window_1500,Naive Bayes,yang_chapter_119_window_03,119,yang,1,1,0.5029054636274976
+window_1500,Naive Bayes,yang_chapter_119_window_04,119,yang,1,1,0.6514009356623595
+window_1500,SVM,hawkes_chapter_009_window_01,9,hawkes,0,0,-1.4553915046865011
+window_1500,SVM,hawkes_chapter_009_window_02,9,hawkes,0,0,-0.59218436840743
+window_1500,SVM,hawkes_chapter_010_window_01,10,hawkes,0,0,-1.4668258173870452
+window_1500,SVM,hawkes_chapter_010_window_02,10,hawkes,0,0,-1.60420797861644
+window_1500,SVM,hawkes_chapter_015_window_01,15,hawkes,0,0,-2.3768814114074743
+window_1500,SVM,hawkes_chapter_015_window_02,15,hawkes,0,0,-0.4038090135625251
+window_1500,SVM,hawkes_chapter_022_window_01,22,hawkes,0,0,-2.349051753795193
+window_1500,SVM,hawkes_chapter_022_window_02,22,hawkes,0,0,-1.332429161153113
+window_1500,SVM,hawkes_chapter_022_window_03,22,hawkes,0,1,1.2246466670960934
+window_1500,SVM,hawkes_chapter_044_window_01,44,hawkes,0,0,-2.0051282318449264
+window_1500,SVM,hawkes_chapter_044_window_02,44,hawkes,0,0,-0.4473191604900249
+window_1500,SVM,hawkes_chapter_044_window_03,44,hawkes,0,0,-0.331883006347873
+window_1500,SVM,hawkes_chapter_053_window_01,53,hawkes,0,0,-0.7838042664948034
+window_1500,SVM,hawkes_chapter_053_window_02,53,hawkes,0,1,0.0504449155271689
+window_1500,SVM,hawkes_chapter_053_window_03,53,hawkes,0,0,-1.6576314585710603
+window_1500,SVM,hawkes_chapter_053_window_04,53,hawkes,0,1,0.1673755677217545
+window_1500,SVM,hawkes_chapter_057_window_01,57,hawkes,0,0,-0.6988736318438001
+window_1500,SVM,hawkes_chapter_057_window_02,57,hawkes,0,0,-1.2535140431766614
+window_1500,SVM,hawkes_chapter_057_window_03,57,hawkes,0,0,-2.299446838655004
+window_1500,SVM,hawkes_chapter_057_window_04,57,hawkes,0,0,-1.5479378589472317
+window_1500,SVM,hawkes_chapter_057_window_05,57,hawkes,0,0,-2.960216808725514
+window_1500,SVM,hawkes_chapter_058_window_01,58,hawkes,0,0,-0.4032473761297891
+window_1500,SVM,hawkes_chapter_058_window_02,58,hawkes,0,0,-1.0587252964070362
+window_1500,SVM,hawkes_chapter_058_window_03,58,hawkes,0,0,-0.8709415243876767
+window_1500,SVM,hawkes_chapter_059_window_01,59,hawkes,0,0,-0.6481611108308286
+window_1500,SVM,hawkes_chapter_059_window_02,59,hawkes,0,0,-1.2808478728596842
+window_1500,SVM,hawkes_chapter_065_window_01,65,hawkes,0,0,-0.850951532205409
+window_1500,SVM,hawkes_chapter_065_window_02,65,hawkes,0,0,-0.7055167525471856
+window_1500,SVM,hawkes_chapter_065_window_03,65,hawkes,0,0,-0.526616424069452
+window_1500,SVM,hawkes_chapter_073_window_01,73,hawkes,0,0,-1.319679375894728
+window_1500,SVM,hawkes_chapter_073_window_02,73,hawkes,0,0,-1.2867186231832577
+window_1500,SVM,hawkes_chapter_073_window_03,73,hawkes,0,0,-1.894078530329542
+window_1500,SVM,hawkes_chapter_076_window_01,76,hawkes,0,0,-1.0287109404267745
+window_1500,SVM,hawkes_chapter_076_window_02,76,hawkes,0,0,-0.641383724380129
+window_1500,SVM,hawkes_chapter_076_window_03,76,hawkes,0,0,-0.6094481690507899
+window_1500,SVM,hawkes_chapter_080_window_01,80,hawkes,0,0,-1.6474999979548532
+window_1500,SVM,hawkes_chapter_080_window_02,80,hawkes,0,0,-0.8183163429748522
+window_1500,SVM,hawkes_chapter_080_window_03,80,hawkes,0,0,-0.8771337958460358
+window_1500,SVM,hawkes_chapter_081_window_01,81,hawkes,0,1,0.3841926687298956
+window_1500,SVM,hawkes_chapter_081_window_02,81,hawkes,0,0,-1.3632253364902795
+window_1500,SVM,hawkes_chapter_081_window_03,81,hawkes,0,0,-0.4736120827152953
+window_1500,SVM,hawkes_chapter_084_window_01,84,hawkes,0,0,-1.4250369000472296
+window_1500,SVM,hawkes_chapter_084_window_02,84,hawkes,0,0,-0.21837273344737
+window_1500,SVM,hawkes_chapter_084_window_03,84,hawkes,0,0,-1.3772760724589697
+window_1500,SVM,hawkes_chapter_088_window_01,88,hawkes,0,0,-1.1273534194841637
+window_1500,SVM,hawkes_chapter_088_window_02,88,hawkes,0,0,-0.5002696874877267
+window_1500,SVM,hawkes_chapter_088_window_03,88,hawkes,0,0,-1.0196351308352645
+window_1500,SVM,hawkes_chapter_089_window_01,89,hawkes,0,0,-1.438580566001494
+window_1500,SVM,hawkes_chapter_089_window_02,89,hawkes,0,0,-1.3741535879489084
+window_1500,SVM,hawkes_chapter_097_window_01,97,hawkes,0,0,-2.7320549966619105
+window_1500,SVM,hawkes_chapter_097_window_02,97,hawkes,0,0,-1.4244266348294023
+window_1500,SVM,hawkes_chapter_097_window_03,97,hawkes,0,0,-0.1336369932565095
+window_1500,SVM,hawkes_chapter_097_window_04,97,hawkes,0,0,-1.1404978716447824
+window_1500,SVM,hawkes_chapter_101_window_01,101,hawkes,0,0,-0.9346450343405168
+window_1500,SVM,hawkes_chapter_101_window_02,101,hawkes,0,0,-0.1980942172831632
+window_1500,SVM,hawkes_chapter_101_window_03,101,hawkes,0,0,-1.159775945826151
+window_1500,SVM,hawkes_chapter_103_window_01,103,hawkes,0,0,-0.9060403023664524
+window_1500,SVM,hawkes_chapter_103_window_02,103,hawkes,0,0,-0.5437557631661439
+window_1500,SVM,hawkes_chapter_103_window_03,103,hawkes,0,1,0.1395056267091651
+window_1500,SVM,hawkes_chapter_106_window_01,106,hawkes,0,0,-1.290316836225009
+window_1500,SVM,hawkes_chapter_106_window_02,106,hawkes,0,0,-0.3676111889061977
+window_1500,SVM,hawkes_chapter_112_window_01,112,hawkes,0,0,-1.030324527747247
+window_1500,SVM,hawkes_chapter_112_window_02,112,hawkes,0,0,-0.2757592392358035
+window_1500,SVM,hawkes_chapter_112_window_03,112,hawkes,0,0,-0.987249276124372
+window_1500,SVM,hawkes_chapter_118_window_01,118,hawkes,0,0,-0.652187423894121
+window_1500,SVM,hawkes_chapter_118_window_02,118,hawkes,0,0,-0.8541936626773367
+window_1500,SVM,hawkes_chapter_118_window_03,118,hawkes,0,0,-0.859697111305081
+window_1500,SVM,hawkes_chapter_119_window_01,119,hawkes,0,0,-1.2667107209290354
+window_1500,SVM,hawkes_chapter_119_window_02,119,hawkes,0,0,-1.1721533978041054
+window_1500,SVM,hawkes_chapter_119_window_03,119,hawkes,0,0,-1.342381198525763
+window_1500,SVM,hawkes_chapter_119_window_04,119,hawkes,0,0,-0.7544001900525305
+window_1500,SVM,yang_chapter_009_window_01,9,yang,1,0,-0.024299090246674
+window_1500,SVM,yang_chapter_009_window_02,9,yang,1,0,-0.3189163635886512
+window_1500,SVM,yang_chapter_010_window_01,10,yang,1,0,-0.1309637017353037
+window_1500,SVM,yang_chapter_010_window_02,10,yang,1,0,-0.0556161111633415
+window_1500,SVM,yang_chapter_015_window_01,15,yang,1,1,0.3428419903202214
+window_1500,SVM,yang_chapter_015_window_02,15,yang,1,0,-0.5290216518546781
+window_1500,SVM,yang_chapter_022_window_01,22,yang,1,1,2.026269499236927
+window_1500,SVM,yang_chapter_022_window_02,22,yang,1,1,2.0548194501483223
+window_1500,SVM,yang_chapter_022_window_03,22,yang,1,1,0.3837375688081569
+window_1500,SVM,yang_chapter_044_window_01,44,yang,1,1,0.1407024923622243
+window_1500,SVM,yang_chapter_044_window_02,44,yang,1,1,2.860584563087523
+window_1500,SVM,yang_chapter_044_window_03,44,yang,1,1,1.2568302169169954
+window_1500,SVM,yang_chapter_053_window_01,53,yang,1,0,-0.1812015142739309
+window_1500,SVM,yang_chapter_053_window_02,53,yang,1,1,0.215777040155399
+window_1500,SVM,yang_chapter_053_window_03,53,yang,1,0,-0.1382270781959667
+window_1500,SVM,yang_chapter_053_window_04,53,yang,1,0,-0.0167048145771652
+window_1500,SVM,yang_chapter_057_window_01,57,yang,1,1,1.56130519633752
+window_1500,SVM,yang_chapter_057_window_02,57,yang,1,1,3.398645151380222
+window_1500,SVM,yang_chapter_057_window_03,57,yang,1,1,1.4808569077136742
+window_1500,SVM,yang_chapter_057_window_04,57,yang,1,1,0.4052181559884238
+window_1500,SVM,yang_chapter_057_window_05,57,yang,1,1,0.591354257261155
+window_1500,SVM,yang_chapter_058_window_01,58,yang,1,1,0.6511870557353042
+window_1500,SVM,yang_chapter_058_window_02,58,yang,1,1,1.6570469558531946
+window_1500,SVM,yang_chapter_058_window_03,58,yang,1,1,1.201672049228288
+window_1500,SVM,yang_chapter_059_window_01,59,yang,1,1,0.8003800786476756
+window_1500,SVM,yang_chapter_059_window_02,59,yang,1,1,1.5215745880271552
+window_1500,SVM,yang_chapter_065_window_01,65,yang,1,1,0.150136543668622
+window_1500,SVM,yang_chapter_065_window_02,65,yang,1,1,0.8642498919175035
+window_1500,SVM,yang_chapter_065_window_03,65,yang,1,1,1.26556436324346
+window_1500,SVM,yang_chapter_073_window_01,73,yang,1,1,0.7393101412608728
+window_1500,SVM,yang_chapter_073_window_02,73,yang,1,1,1.61572212513
+window_1500,SVM,yang_chapter_073_window_03,73,yang,1,1,0.7472032052609318
+window_1500,SVM,yang_chapter_076_window_01,76,yang,1,1,1.1756386499180196
+window_1500,SVM,yang_chapter_076_window_02,76,yang,1,1,0.8452651685846618
+window_1500,SVM,yang_chapter_076_window_03,76,yang,1,1,0.251974243001638
+window_1500,SVM,yang_chapter_080_window_01,80,yang,1,1,1.4935075051531368
+window_1500,SVM,yang_chapter_080_window_02,80,yang,1,1,1.0789658481428677
+window_1500,SVM,yang_chapter_080_window_03,80,yang,1,1,1.0912464723311524
+window_1500,SVM,yang_chapter_081_window_01,81,yang,1,1,1.3189059117236983
+window_1500,SVM,yang_chapter_081_window_02,81,yang,1,1,1.265934052419345
+window_1500,SVM,yang_chapter_081_window_03,81,yang,1,1,1.8763451222557923
+window_1500,SVM,yang_chapter_084_window_01,84,yang,1,1,0.7805046535910835
+window_1500,SVM,yang_chapter_084_window_02,84,yang,1,1,1.084156030596446
+window_1500,SVM,yang_chapter_084_window_03,84,yang,1,0,-0.2195872985624353
+window_1500,SVM,yang_chapter_088_window_01,88,yang,1,1,1.2868939307111642
+window_1500,SVM,yang_chapter_088_window_02,88,yang,1,1,0.7042912408793699
+window_1500,SVM,yang_chapter_088_window_03,88,yang,1,1,1.6380340083506295
+window_1500,SVM,yang_chapter_089_window_01,89,yang,1,1,0.4224016312859998
+window_1500,SVM,yang_chapter_089_window_02,89,yang,1,1,1.3923570695556382
+window_1500,SVM,yang_chapter_097_window_01,97,yang,1,1,1.194700547707804
+window_1500,SVM,yang_chapter_097_window_02,97,yang,1,1,1.5091791896486186
+window_1500,SVM,yang_chapter_097_window_03,97,yang,1,1,1.5195135823783112
+window_1500,SVM,yang_chapter_097_window_04,97,yang,1,1,2.1357457451268447
+window_1500,SVM,yang_chapter_101_window_01,101,yang,1,1,1.3945513168549613
+window_1500,SVM,yang_chapter_101_window_02,101,yang,1,1,1.2726474602834328
+window_1500,SVM,yang_chapter_101_window_03,101,yang,1,1,1.0010376365446807
+window_1500,SVM,yang_chapter_103_window_01,103,yang,1,1,0.990672381885739
+window_1500,SVM,yang_chapter_103_window_02,103,yang,1,1,2.6805913092137708
+window_1500,SVM,yang_chapter_103_window_03,103,yang,1,1,1.3644744811600256
+window_1500,SVM,yang_chapter_106_window_01,106,yang,1,1,0.8410826267536433
+window_1500,SVM,yang_chapter_106_window_02,106,yang,1,1,1.2304251835485869
+window_1500,SVM,yang_chapter_112_window_01,112,yang,1,1,1.8812381949223556
+window_1500,SVM,yang_chapter_112_window_02,112,yang,1,1,0.6407211799042086
+window_1500,SVM,yang_chapter_112_window_03,112,yang,1,1,0.9333229913391052
+window_1500,SVM,yang_chapter_118_window_01,118,yang,1,1,1.4937443216011466
+window_1500,SVM,yang_chapter_118_window_02,118,yang,1,1,0.809008078464435
+window_1500,SVM,yang_chapter_118_window_03,118,yang,1,1,1.7452767929210524
+window_1500,SVM,yang_chapter_119_window_01,119,yang,1,1,1.525405690001724
+window_1500,SVM,yang_chapter_119_window_02,119,yang,1,1,1.0021433660213797
+window_1500,SVM,yang_chapter_119_window_03,119,yang,1,1,0.9731598804518884
+window_1500,SVM,yang_chapter_119_window_04,119,yang,1,1,0.6066417657311172
+window_1500,K-NN,hawkes_chapter_009_window_01,9,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_009_window_02,9,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_010_window_01,10,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_010_window_02,10,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_015_window_01,15,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_015_window_02,15,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_022_window_01,22,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_022_window_02,22,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_022_window_03,22,hawkes,0,1,0.8
+window_1500,K-NN,hawkes_chapter_044_window_01,44,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_044_window_02,44,hawkes,0,1,0.6
+window_1500,K-NN,hawkes_chapter_044_window_03,44,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_053_window_01,53,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_053_window_02,53,hawkes,0,1,0.6
+window_1500,K-NN,hawkes_chapter_053_window_03,53,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_053_window_04,53,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_057_window_01,57,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_057_window_02,57,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_057_window_03,57,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_057_window_04,57,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_057_window_05,57,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_058_window_01,58,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_058_window_02,58,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_058_window_03,58,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_059_window_01,59,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_059_window_02,59,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_065_window_01,65,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_065_window_02,65,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_065_window_03,65,hawkes,0,1,0.6
+window_1500,K-NN,hawkes_chapter_073_window_01,73,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_073_window_02,73,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_073_window_03,73,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_076_window_01,76,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_076_window_02,76,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_076_window_03,76,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_080_window_01,80,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_080_window_02,80,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_080_window_03,80,hawkes,0,1,0.6
+window_1500,K-NN,hawkes_chapter_081_window_01,81,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_081_window_02,81,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_081_window_03,81,hawkes,0,1,0.6
+window_1500,K-NN,hawkes_chapter_084_window_01,84,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_084_window_02,84,hawkes,0,1,1.0
+window_1500,K-NN,hawkes_chapter_084_window_03,84,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_088_window_01,88,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_088_window_02,88,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_088_window_03,88,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_089_window_01,89,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_089_window_02,89,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_097_window_01,97,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_097_window_02,97,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_097_window_03,97,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_097_window_04,97,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_101_window_01,101,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_101_window_02,101,hawkes,0,1,0.6
+window_1500,K-NN,hawkes_chapter_101_window_03,101,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_103_window_01,103,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_103_window_02,103,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_103_window_03,103,hawkes,0,1,0.8
+window_1500,K-NN,hawkes_chapter_106_window_01,106,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_106_window_02,106,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_112_window_01,112,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_112_window_02,112,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_112_window_03,112,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_118_window_01,118,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_118_window_02,118,hawkes,0,0,0.4
+window_1500,K-NN,hawkes_chapter_118_window_03,118,hawkes,0,0,0.2
+window_1500,K-NN,hawkes_chapter_119_window_01,119,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_119_window_02,119,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_119_window_03,119,hawkes,0,0,0.0
+window_1500,K-NN,hawkes_chapter_119_window_04,119,hawkes,0,0,0.4
+window_1500,K-NN,yang_chapter_009_window_01,9,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_009_window_02,9,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_010_window_01,10,yang,1,0,0.2
+window_1500,K-NN,yang_chapter_010_window_02,10,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_015_window_01,15,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_015_window_02,15,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_022_window_01,22,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_022_window_02,22,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_022_window_03,22,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_044_window_01,44,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_044_window_02,44,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_044_window_03,44,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_053_window_01,53,yang,1,0,0.2
+window_1500,K-NN,yang_chapter_053_window_02,53,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_053_window_03,53,yang,1,0,0.2
+window_1500,K-NN,yang_chapter_053_window_04,53,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_057_window_01,57,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_057_window_02,57,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_057_window_03,57,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_057_window_04,57,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_057_window_05,57,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_058_window_01,58,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_058_window_02,58,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_058_window_03,58,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_059_window_01,59,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_059_window_02,59,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_065_window_01,65,yang,1,0,0.2
+window_1500,K-NN,yang_chapter_065_window_02,65,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_065_window_03,65,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_073_window_01,73,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_073_window_02,73,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_073_window_03,73,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_076_window_01,76,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_076_window_02,76,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_076_window_03,76,yang,1,0,0.2
+window_1500,K-NN,yang_chapter_080_window_01,80,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_080_window_02,80,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_080_window_03,80,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_081_window_01,81,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_081_window_02,81,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_081_window_03,81,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_084_window_01,84,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_084_window_02,84,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_084_window_03,84,yang,1,0,0.2
+window_1500,K-NN,yang_chapter_088_window_01,88,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_088_window_02,88,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_088_window_03,88,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_089_window_01,89,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_089_window_02,89,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_097_window_01,97,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_097_window_02,97,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_097_window_03,97,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_097_window_04,97,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_101_window_01,101,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_101_window_02,101,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_101_window_03,101,yang,1,0,0.4
+window_1500,K-NN,yang_chapter_103_window_01,103,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_103_window_02,103,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_103_window_03,103,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_106_window_01,106,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_106_window_02,106,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_112_window_01,112,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_112_window_02,112,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_112_window_03,112,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_118_window_01,118,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_118_window_02,118,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_118_window_03,118,yang,1,1,0.8
+window_1500,K-NN,yang_chapter_119_window_01,119,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_119_window_02,119,yang,1,1,1.0
+window_1500,K-NN,yang_chapter_119_window_03,119,yang,1,1,0.6
+window_1500,K-NN,yang_chapter_119_window_04,119,yang,1,1,0.6
+window_1500,Random Forest,hawkes_chapter_009_window_01,9,hawkes,0,0,0.156
+window_1500,Random Forest,hawkes_chapter_009_window_02,9,hawkes,0,0,0.36
+window_1500,Random Forest,hawkes_chapter_010_window_01,10,hawkes,0,0,0.084
+window_1500,Random Forest,hawkes_chapter_010_window_02,10,hawkes,0,0,0.154
+window_1500,Random Forest,hawkes_chapter_015_window_01,15,hawkes,0,0,0.056
+window_1500,Random Forest,hawkes_chapter_015_window_02,15,hawkes,0,0,0.47
+window_1500,Random Forest,hawkes_chapter_022_window_01,22,hawkes,0,0,0.042
+window_1500,Random Forest,hawkes_chapter_022_window_02,22,hawkes,0,0,0.09
+window_1500,Random Forest,hawkes_chapter_022_window_03,22,hawkes,0,1,0.856
+window_1500,Random Forest,hawkes_chapter_044_window_01,44,hawkes,0,0,0.108
+window_1500,Random Forest,hawkes_chapter_044_window_02,44,hawkes,0,0,0.162
+window_1500,Random Forest,hawkes_chapter_044_window_03,44,hawkes,0,0,0.21
+window_1500,Random Forest,hawkes_chapter_053_window_01,53,hawkes,0,0,0.254
+window_1500,Random Forest,hawkes_chapter_053_window_02,53,hawkes,0,0,0.41
+window_1500,Random Forest,hawkes_chapter_053_window_03,53,hawkes,0,0,0.04
+window_1500,Random Forest,hawkes_chapter_053_window_04,53,hawkes,0,0,0.494
+window_1500,Random Forest,hawkes_chapter_057_window_01,57,hawkes,0,0,0.156
+window_1500,Random Forest,hawkes_chapter_057_window_02,57,hawkes,0,0,0.054
+window_1500,Random Forest,hawkes_chapter_057_window_03,57,hawkes,0,0,0.038
+window_1500,Random Forest,hawkes_chapter_057_window_04,57,hawkes,0,0,0.118
+window_1500,Random Forest,hawkes_chapter_057_window_05,57,hawkes,0,0,0.048
+window_1500,Random Forest,hawkes_chapter_058_window_01,58,hawkes,0,0,0.24
+window_1500,Random Forest,hawkes_chapter_058_window_02,58,hawkes,0,0,0.214
+window_1500,Random Forest,hawkes_chapter_058_window_03,58,hawkes,0,0,0.13
+window_1500,Random Forest,hawkes_chapter_059_window_01,59,hawkes,0,0,0.232
+window_1500,Random Forest,hawkes_chapter_059_window_02,59,hawkes,0,0,0.11
+window_1500,Random Forest,hawkes_chapter_065_window_01,65,hawkes,0,0,0.244
+window_1500,Random Forest,hawkes_chapter_065_window_02,65,hawkes,0,0,0.288
+window_1500,Random Forest,hawkes_chapter_065_window_03,65,hawkes,0,0,0.134
+window_1500,Random Forest,hawkes_chapter_073_window_01,73,hawkes,0,0,0.256
+window_1500,Random Forest,hawkes_chapter_073_window_02,73,hawkes,0,0,0.182
+window_1500,Random Forest,hawkes_chapter_073_window_03,73,hawkes,0,0,0.052
+window_1500,Random Forest,hawkes_chapter_076_window_01,76,hawkes,0,0,0.302
+window_1500,Random Forest,hawkes_chapter_076_window_02,76,hawkes,0,0,0.28
+window_1500,Random Forest,hawkes_chapter_076_window_03,76,hawkes,0,0,0.332
+window_1500,Random Forest,hawkes_chapter_080_window_01,80,hawkes,0,0,0.054
+window_1500,Random Forest,hawkes_chapter_080_window_02,80,hawkes,0,0,0.148
+window_1500,Random Forest,hawkes_chapter_080_window_03,80,hawkes,0,0,0.148
+window_1500,Random Forest,hawkes_chapter_081_window_01,81,hawkes,0,0,0.488
+window_1500,Random Forest,hawkes_chapter_081_window_02,81,hawkes,0,0,0.122
+window_1500,Random Forest,hawkes_chapter_081_window_03,81,hawkes,0,0,0.336
+window_1500,Random Forest,hawkes_chapter_084_window_01,84,hawkes,0,0,0.13
+window_1500,Random Forest,hawkes_chapter_084_window_02,84,hawkes,0,0,0.402
+window_1500,Random Forest,hawkes_chapter_084_window_03,84,hawkes,0,0,0.21
+window_1500,Random Forest,hawkes_chapter_088_window_01,88,hawkes,0,0,0.33
+window_1500,Random Forest,hawkes_chapter_088_window_02,88,hawkes,0,0,0.348
+window_1500,Random Forest,hawkes_chapter_088_window_03,88,hawkes,0,0,0.246
+window_1500,Random Forest,hawkes_chapter_089_window_01,89,hawkes,0,0,0.18
+window_1500,Random Forest,hawkes_chapter_089_window_02,89,hawkes,0,0,0.1
+window_1500,Random Forest,hawkes_chapter_097_window_01,97,hawkes,0,0,0.026
+window_1500,Random Forest,hawkes_chapter_097_window_02,97,hawkes,0,0,0.078
+window_1500,Random Forest,hawkes_chapter_097_window_03,97,hawkes,0,0,0.382
+window_1500,Random Forest,hawkes_chapter_097_window_04,97,hawkes,0,0,0.276
+window_1500,Random Forest,hawkes_chapter_101_window_01,101,hawkes,0,0,0.136
+window_1500,Random Forest,hawkes_chapter_101_window_02,101,hawkes,0,0,0.374
+window_1500,Random Forest,hawkes_chapter_101_window_03,101,hawkes,0,0,0.176
+window_1500,Random Forest,hawkes_chapter_103_window_01,103,hawkes,0,0,0.296
+window_1500,Random Forest,hawkes_chapter_103_window_02,103,hawkes,0,0,0.358
+window_1500,Random Forest,hawkes_chapter_103_window_03,103,hawkes,0,1,0.63
+window_1500,Random Forest,hawkes_chapter_106_window_01,106,hawkes,0,0,0.154
+window_1500,Random Forest,hawkes_chapter_106_window_02,106,hawkes,0,1,0.51
+window_1500,Random Forest,hawkes_chapter_112_window_01,112,hawkes,0,0,0.13
+window_1500,Random Forest,hawkes_chapter_112_window_02,112,hawkes,0,0,0.344
+window_1500,Random Forest,hawkes_chapter_112_window_03,112,hawkes,0,0,0.32
+window_1500,Random Forest,hawkes_chapter_118_window_01,118,hawkes,0,0,0.398
+window_1500,Random Forest,hawkes_chapter_118_window_02,118,hawkes,0,0,0.088
+window_1500,Random Forest,hawkes_chapter_118_window_03,118,hawkes,0,0,0.236
+window_1500,Random Forest,hawkes_chapter_119_window_01,119,hawkes,0,0,0.122
+window_1500,Random Forest,hawkes_chapter_119_window_02,119,hawkes,0,0,0.228
+window_1500,Random Forest,hawkes_chapter_119_window_03,119,hawkes,0,0,0.234
+window_1500,Random Forest,hawkes_chapter_119_window_04,119,hawkes,0,0,0.484
+window_1500,Random Forest,yang_chapter_009_window_01,9,yang,1,1,0.536
+window_1500,Random Forest,yang_chapter_009_window_02,9,yang,1,0,0.356
+window_1500,Random Forest,yang_chapter_010_window_01,10,yang,1,0,0.466
+window_1500,Random Forest,yang_chapter_010_window_02,10,yang,1,0,0.47
+window_1500,Random Forest,yang_chapter_015_window_01,15,yang,1,1,0.688
+window_1500,Random Forest,yang_chapter_015_window_02,15,yang,1,0,0.468
+window_1500,Random Forest,yang_chapter_022_window_01,22,yang,1,1,0.908
+window_1500,Random Forest,yang_chapter_022_window_02,22,yang,1,1,0.882
+window_1500,Random Forest,yang_chapter_022_window_03,22,yang,1,1,0.726
+window_1500,Random Forest,yang_chapter_044_window_01,44,yang,1,0,0.47
+window_1500,Random Forest,yang_chapter_044_window_02,44,yang,1,1,0.89
+window_1500,Random Forest,yang_chapter_044_window_03,44,yang,1,1,0.886
+window_1500,Random Forest,yang_chapter_053_window_01,53,yang,1,0,0.28
+window_1500,Random Forest,yang_chapter_053_window_02,53,yang,1,0,0.488
+window_1500,Random Forest,yang_chapter_053_window_03,53,yang,1,1,0.56
+window_1500,Random Forest,yang_chapter_053_window_04,53,yang,1,1,0.582
+window_1500,Random Forest,yang_chapter_057_window_01,57,yang,1,1,0.968
+window_1500,Random Forest,yang_chapter_057_window_02,57,yang,1,1,0.952
+window_1500,Random Forest,yang_chapter_057_window_03,57,yang,1,1,0.826
+window_1500,Random Forest,yang_chapter_057_window_04,57,yang,1,1,0.586
+window_1500,Random Forest,yang_chapter_057_window_05,57,yang,1,1,0.702
+window_1500,Random Forest,yang_chapter_058_window_01,58,yang,1,1,0.67
+window_1500,Random Forest,yang_chapter_058_window_02,58,yang,1,1,0.812
+window_1500,Random Forest,yang_chapter_058_window_03,58,yang,1,1,0.788
+window_1500,Random Forest,yang_chapter_059_window_01,59,yang,1,1,0.614
+window_1500,Random Forest,yang_chapter_059_window_02,59,yang,1,1,0.644
+window_1500,Random Forest,yang_chapter_065_window_01,65,yang,1,1,0.672
+window_1500,Random Forest,yang_chapter_065_window_02,65,yang,1,1,0.72
+window_1500,Random Forest,yang_chapter_065_window_03,65,yang,1,1,0.722
+window_1500,Random Forest,yang_chapter_073_window_01,73,yang,1,1,0.608
+window_1500,Random Forest,yang_chapter_073_window_02,73,yang,1,1,0.814
+window_1500,Random Forest,yang_chapter_073_window_03,73,yang,1,1,0.832
+window_1500,Random Forest,yang_chapter_076_window_01,76,yang,1,1,0.746
+window_1500,Random Forest,yang_chapter_076_window_02,76,yang,1,1,0.824
+window_1500,Random Forest,yang_chapter_076_window_03,76,yang,1,1,0.704
+window_1500,Random Forest,yang_chapter_080_window_01,80,yang,1,1,0.942
+window_1500,Random Forest,yang_chapter_080_window_02,80,yang,1,1,0.876
+window_1500,Random Forest,yang_chapter_080_window_03,80,yang,1,1,0.896
+window_1500,Random Forest,yang_chapter_081_window_01,81,yang,1,1,0.964
+window_1500,Random Forest,yang_chapter_081_window_02,81,yang,1,1,0.93
+window_1500,Random Forest,yang_chapter_081_window_03,81,yang,1,1,0.956
+window_1500,Random Forest,yang_chapter_084_window_01,84,yang,1,1,0.88
+window_1500,Random Forest,yang_chapter_084_window_02,84,yang,1,1,0.856
+window_1500,Random Forest,yang_chapter_084_window_03,84,yang,1,1,0.74
+window_1500,Random Forest,yang_chapter_088_window_01,88,yang,1,1,0.724
+window_1500,Random Forest,yang_chapter_088_window_02,88,yang,1,1,0.592
+window_1500,Random Forest,yang_chapter_088_window_03,88,yang,1,1,0.906
+window_1500,Random Forest,yang_chapter_089_window_01,89,yang,1,1,0.748
+window_1500,Random Forest,yang_chapter_089_window_02,89,yang,1,1,0.95
+window_1500,Random Forest,yang_chapter_097_window_01,97,yang,1,1,0.66
+window_1500,Random Forest,yang_chapter_097_window_02,97,yang,1,1,0.614
+window_1500,Random Forest,yang_chapter_097_window_03,97,yang,1,1,0.922
+window_1500,Random Forest,yang_chapter_097_window_04,97,yang,1,1,0.892
+window_1500,Random Forest,yang_chapter_101_window_01,101,yang,1,1,0.926
+window_1500,Random Forest,yang_chapter_101_window_02,101,yang,1,1,0.626
+window_1500,Random Forest,yang_chapter_101_window_03,101,yang,1,1,0.934
+window_1500,Random Forest,yang_chapter_103_window_01,103,yang,1,1,0.83
+window_1500,Random Forest,yang_chapter_103_window_02,103,yang,1,1,0.958
+window_1500,Random Forest,yang_chapter_103_window_03,103,yang,1,1,0.862
+window_1500,Random Forest,yang_chapter_106_window_01,106,yang,1,1,0.794
+window_1500,Random Forest,yang_chapter_106_window_02,106,yang,1,1,0.916
+window_1500,Random Forest,yang_chapter_112_window_01,112,yang,1,1,0.924
+window_1500,Random Forest,yang_chapter_112_window_02,112,yang,1,1,0.668
+window_1500,Random Forest,yang_chapter_112_window_03,112,yang,1,1,0.792
+window_1500,Random Forest,yang_chapter_118_window_01,118,yang,1,1,0.924
+window_1500,Random Forest,yang_chapter_118_window_02,118,yang,1,0,0.466
+window_1500,Random Forest,yang_chapter_118_window_03,118,yang,1,1,0.82
+window_1500,Random Forest,yang_chapter_119_window_01,119,yang,1,1,0.966
+window_1500,Random Forest,yang_chapter_119_window_02,119,yang,1,1,0.704
+window_1500,Random Forest,yang_chapter_119_window_03,119,yang,1,1,0.756
+window_1500,Random Forest,yang_chapter_119_window_04,119,yang,1,1,0.684
+window_1500,Ridge Classifier,hawkes_chapter_009_window_01,9,hawkes,0,0,-0.7279491292333423
+window_1500,Ridge Classifier,hawkes_chapter_009_window_02,9,hawkes,0,0,-0.6473524987375832
+window_1500,Ridge Classifier,hawkes_chapter_010_window_01,10,hawkes,0,0,-0.9482822330979912
+window_1500,Ridge Classifier,hawkes_chapter_010_window_02,10,hawkes,0,0,-0.5286623534252236
+window_1500,Ridge Classifier,hawkes_chapter_015_window_01,15,hawkes,0,0,-1.3092315104446728
+window_1500,Ridge Classifier,hawkes_chapter_015_window_02,15,hawkes,0,0,-0.5351505696832937
+window_1500,Ridge Classifier,hawkes_chapter_022_window_01,22,hawkes,0,0,-1.1631678019221852
+window_1500,Ridge Classifier,hawkes_chapter_022_window_02,22,hawkes,0,0,-0.4815173095651638
+window_1500,Ridge Classifier,hawkes_chapter_022_window_03,22,hawkes,0,1,0.1960839967296863
+window_1500,Ridge Classifier,hawkes_chapter_044_window_01,44,hawkes,0,0,-1.187411164196594
+window_1500,Ridge Classifier,hawkes_chapter_044_window_02,44,hawkes,0,0,-0.1837212460373978
+window_1500,Ridge Classifier,hawkes_chapter_044_window_03,44,hawkes,0,0,-0.2221867083682731
+window_1500,Ridge Classifier,hawkes_chapter_053_window_01,53,hawkes,0,0,-1.0155303811734984
+window_1500,Ridge Classifier,hawkes_chapter_053_window_02,53,hawkes,0,0,-0.5426885096325246
+window_1500,Ridge Classifier,hawkes_chapter_053_window_03,53,hawkes,0,0,-0.8780671105276298
+window_1500,Ridge Classifier,hawkes_chapter_053_window_04,53,hawkes,0,0,-1.5306972369691725
+window_1500,Ridge Classifier,hawkes_chapter_057_window_01,57,hawkes,0,0,-0.390560507010815
+window_1500,Ridge Classifier,hawkes_chapter_057_window_02,57,hawkes,0,0,-0.6488697837323038
+window_1500,Ridge Classifier,hawkes_chapter_057_window_03,57,hawkes,0,0,-1.123116021694964
+window_1500,Ridge Classifier,hawkes_chapter_057_window_04,57,hawkes,0,0,-0.6947439258344893
+window_1500,Ridge Classifier,hawkes_chapter_057_window_05,57,hawkes,0,0,-1.5018814873796038
+window_1500,Ridge Classifier,hawkes_chapter_058_window_01,58,hawkes,0,0,-1.0928583882621652
+window_1500,Ridge Classifier,hawkes_chapter_058_window_02,58,hawkes,0,0,-0.5288608256863584
+window_1500,Ridge Classifier,hawkes_chapter_058_window_03,58,hawkes,0,0,-0.4255908572963369
+window_1500,Ridge Classifier,hawkes_chapter_059_window_01,59,hawkes,0,0,-0.0808795284191679
+window_1500,Ridge Classifier,hawkes_chapter_059_window_02,59,hawkes,0,0,-0.3389624918684654
+window_1500,Ridge Classifier,hawkes_chapter_065_window_01,65,hawkes,0,0,-0.724295971765513
+window_1500,Ridge Classifier,hawkes_chapter_065_window_02,65,hawkes,0,0,-0.6138890640164374
+window_1500,Ridge Classifier,hawkes_chapter_065_window_03,65,hawkes,0,0,-0.2409938936194403
+window_1500,Ridge Classifier,hawkes_chapter_073_window_01,73,hawkes,0,0,-0.6719281804653009
+window_1500,Ridge Classifier,hawkes_chapter_073_window_02,73,hawkes,0,0,-1.3329773166368846
+window_1500,Ridge Classifier,hawkes_chapter_073_window_03,73,hawkes,0,0,-1.1601118390982657
+window_1500,Ridge Classifier,hawkes_chapter_076_window_01,76,hawkes,0,0,-0.666747058839358
+window_1500,Ridge Classifier,hawkes_chapter_076_window_02,76,hawkes,0,0,-0.4245203466935772
+window_1500,Ridge Classifier,hawkes_chapter_076_window_03,76,hawkes,0,0,-0.9413485154363272
+window_1500,Ridge Classifier,hawkes_chapter_080_window_01,80,hawkes,0,0,-0.5989619773186273
+window_1500,Ridge Classifier,hawkes_chapter_080_window_02,80,hawkes,0,0,-0.2725530776604704
+window_1500,Ridge Classifier,hawkes_chapter_080_window_03,80,hawkes,0,0,-0.3064680927506262
+window_1500,Ridge Classifier,hawkes_chapter_081_window_01,81,hawkes,0,0,-0.0176724219487906
+window_1500,Ridge Classifier,hawkes_chapter_081_window_02,81,hawkes,0,0,-1.22164303545804
+window_1500,Ridge Classifier,hawkes_chapter_081_window_03,81,hawkes,0,0,-0.5921005568799579
+window_1500,Ridge Classifier,hawkes_chapter_084_window_01,84,hawkes,0,0,-1.1155529756654343
+window_1500,Ridge Classifier,hawkes_chapter_084_window_02,84,hawkes,0,0,-1.24857661592982
+window_1500,Ridge Classifier,hawkes_chapter_084_window_03,84,hawkes,0,0,-0.6114088011077746
+window_1500,Ridge Classifier,hawkes_chapter_088_window_01,88,hawkes,0,0,-0.6044658801248225
+window_1500,Ridge Classifier,hawkes_chapter_088_window_02,88,hawkes,0,0,-0.3440165033522779
+window_1500,Ridge Classifier,hawkes_chapter_088_window_03,88,hawkes,0,0,-0.5025391277231402
+window_1500,Ridge Classifier,hawkes_chapter_089_window_01,89,hawkes,0,0,-0.908063274307923
+window_1500,Ridge Classifier,hawkes_chapter_089_window_02,89,hawkes,0,0,-0.6086273462988697
+window_1500,Ridge Classifier,hawkes_chapter_097_window_01,97,hawkes,0,0,-1.2963254225514371
+window_1500,Ridge Classifier,hawkes_chapter_097_window_02,97,hawkes,0,0,-0.9807103371075864
+window_1500,Ridge Classifier,hawkes_chapter_097_window_03,97,hawkes,0,0,-0.971261015683792
+window_1500,Ridge Classifier,hawkes_chapter_097_window_04,97,hawkes,0,0,-0.6464685590500713
+window_1500,Ridge Classifier,hawkes_chapter_101_window_01,101,hawkes,0,0,-0.3121808393167661
+window_1500,Ridge Classifier,hawkes_chapter_101_window_02,101,hawkes,0,0,-0.4427887893931535
+window_1500,Ridge Classifier,hawkes_chapter_101_window_03,101,hawkes,0,0,-0.9399430463655936
+window_1500,Ridge Classifier,hawkes_chapter_103_window_01,103,hawkes,0,0,-0.6338601688494162
+window_1500,Ridge Classifier,hawkes_chapter_103_window_02,103,hawkes,0,0,-0.3277820575342417
+window_1500,Ridge Classifier,hawkes_chapter_103_window_03,103,hawkes,0,0,-0.0527994912772211
+window_1500,Ridge Classifier,hawkes_chapter_106_window_01,106,hawkes,0,0,-0.837714953901255
+window_1500,Ridge Classifier,hawkes_chapter_106_window_02,106,hawkes,0,1,0.2378570194752713
+window_1500,Ridge Classifier,hawkes_chapter_112_window_01,112,hawkes,0,0,-0.3300770518707318
+window_1500,Ridge Classifier,hawkes_chapter_112_window_02,112,hawkes,0,0,-0.95098283045491
+window_1500,Ridge Classifier,hawkes_chapter_112_window_03,112,hawkes,0,0,-0.4916848184666322
+window_1500,Ridge Classifier,hawkes_chapter_118_window_01,118,hawkes,0,0,-0.2765151771708749
+window_1500,Ridge Classifier,hawkes_chapter_118_window_02,118,hawkes,0,1,0.1700364791680259
+window_1500,Ridge Classifier,hawkes_chapter_118_window_03,118,hawkes,0,0,-0.4292069608069233
+window_1500,Ridge Classifier,hawkes_chapter_119_window_01,119,hawkes,0,0,-0.7608495421650634
+window_1500,Ridge Classifier,hawkes_chapter_119_window_02,119,hawkes,0,0,-0.5310014337242394
+window_1500,Ridge Classifier,hawkes_chapter_119_window_03,119,hawkes,0,0,-0.40671117093646
+window_1500,Ridge Classifier,hawkes_chapter_119_window_04,119,hawkes,0,0,-0.7624998673989732
+window_1500,Ridge Classifier,yang_chapter_009_window_01,9,yang,1,0,-0.1490046751528437
+window_1500,Ridge Classifier,yang_chapter_009_window_02,9,yang,1,1,0.0895464459633339
+window_1500,Ridge Classifier,yang_chapter_010_window_01,10,yang,1,1,0.03684007786359
+window_1500,Ridge Classifier,yang_chapter_010_window_02,10,yang,1,1,0.023004155159567
+window_1500,Ridge Classifier,yang_chapter_015_window_01,15,yang,1,1,0.551739484133547
+window_1500,Ridge Classifier,yang_chapter_015_window_02,15,yang,1,1,0.1602435914171288
+window_1500,Ridge Classifier,yang_chapter_022_window_01,22,yang,1,1,1.0616193850997842
+window_1500,Ridge Classifier,yang_chapter_022_window_02,22,yang,1,1,0.7108245763080897
+window_1500,Ridge Classifier,yang_chapter_022_window_03,22,yang,1,1,0.2460978134613784
+window_1500,Ridge Classifier,yang_chapter_044_window_01,44,yang,1,1,0.7455865193637666
+window_1500,Ridge Classifier,yang_chapter_044_window_02,44,yang,1,1,1.6335539428482015
+window_1500,Ridge Classifier,yang_chapter_044_window_03,44,yang,1,1,0.5100517976330305
+window_1500,Ridge Classifier,yang_chapter_053_window_01,53,yang,1,0,-0.1094491932636785
+window_1500,Ridge Classifier,yang_chapter_053_window_02,53,yang,1,0,-0.3595852848504894
+window_1500,Ridge Classifier,yang_chapter_053_window_03,53,yang,1,1,0.1804014591914468
+window_1500,Ridge Classifier,yang_chapter_053_window_04,53,yang,1,1,0.1040886470463854
+window_1500,Ridge Classifier,yang_chapter_057_window_01,57,yang,1,1,1.106776515736511
+window_1500,Ridge Classifier,yang_chapter_057_window_02,57,yang,1,1,1.6927702545862806
+window_1500,Ridge Classifier,yang_chapter_057_window_03,57,yang,1,1,0.6444678358252792
+window_1500,Ridge Classifier,yang_chapter_057_window_04,57,yang,1,1,0.0101893090072156
+window_1500,Ridge Classifier,yang_chapter_057_window_05,57,yang,1,1,0.5906448323269807
+window_1500,Ridge Classifier,yang_chapter_058_window_01,58,yang,1,0,-0.0279476866569685
+window_1500,Ridge Classifier,yang_chapter_058_window_02,58,yang,1,1,0.5037500770337707
+window_1500,Ridge Classifier,yang_chapter_058_window_03,58,yang,1,1,1.0997235024026748
+window_1500,Ridge Classifier,yang_chapter_059_window_01,59,yang,1,1,0.3707290588388803
+window_1500,Ridge Classifier,yang_chapter_059_window_02,59,yang,1,1,1.599462246096424
+window_1500,Ridge Classifier,yang_chapter_065_window_01,65,yang,1,0,-0.3182081776757799
+window_1500,Ridge Classifier,yang_chapter_065_window_02,65,yang,1,1,0.1954004299672696
+window_1500,Ridge Classifier,yang_chapter_065_window_03,65,yang,1,1,0.5570098599300205
+window_1500,Ridge Classifier,yang_chapter_073_window_01,73,yang,1,1,0.0848166642668536
+window_1500,Ridge Classifier,yang_chapter_073_window_02,73,yang,1,1,0.8668501117345438
+window_1500,Ridge Classifier,yang_chapter_073_window_03,73,yang,1,1,0.659271893647931
+window_1500,Ridge Classifier,yang_chapter_076_window_01,76,yang,1,1,0.3353640860545923
+window_1500,Ridge Classifier,yang_chapter_076_window_02,76,yang,1,1,0.2706160070241489
+window_1500,Ridge Classifier,yang_chapter_076_window_03,76,yang,1,1,0.1752774228705023
+window_1500,Ridge Classifier,yang_chapter_080_window_01,80,yang,1,1,0.9784991751207652
+window_1500,Ridge Classifier,yang_chapter_080_window_02,80,yang,1,1,0.508331084830352
+window_1500,Ridge Classifier,yang_chapter_080_window_03,80,yang,1,1,0.7235876964437626
+window_1500,Ridge Classifier,yang_chapter_081_window_01,81,yang,1,1,0.8345835093561192
+window_1500,Ridge Classifier,yang_chapter_081_window_02,81,yang,1,1,0.5798302816948753
+window_1500,Ridge Classifier,yang_chapter_081_window_03,81,yang,1,1,0.6588068435219957
+window_1500,Ridge Classifier,yang_chapter_084_window_01,84,yang,1,1,0.1176362124968364
+window_1500,Ridge Classifier,yang_chapter_084_window_02,84,yang,1,1,0.5866083229692807
+window_1500,Ridge Classifier,yang_chapter_084_window_03,84,yang,1,0,-0.2683397240845285
+window_1500,Ridge Classifier,yang_chapter_088_window_01,88,yang,1,1,0.7074617723934084
+window_1500,Ridge Classifier,yang_chapter_088_window_02,88,yang,1,1,0.2473681053243889
+window_1500,Ridge Classifier,yang_chapter_088_window_03,88,yang,1,1,0.9695294654961852
+window_1500,Ridge Classifier,yang_chapter_089_window_01,89,yang,1,1,0.2842989938213366
+window_1500,Ridge Classifier,yang_chapter_089_window_02,89,yang,1,1,0.5773546123805214
+window_1500,Ridge Classifier,yang_chapter_097_window_01,97,yang,1,1,0.9460487783435726
+window_1500,Ridge Classifier,yang_chapter_097_window_02,97,yang,1,1,0.7466534333412815
+window_1500,Ridge Classifier,yang_chapter_097_window_03,97,yang,1,1,0.946352803224064
+window_1500,Ridge Classifier,yang_chapter_097_window_04,97,yang,1,1,1.4208086687063015
+window_1500,Ridge Classifier,yang_chapter_101_window_01,101,yang,1,1,1.073920338444744
+window_1500,Ridge Classifier,yang_chapter_101_window_02,101,yang,1,1,0.4362226465204413
+window_1500,Ridge Classifier,yang_chapter_101_window_03,101,yang,1,1,0.8989541221685767
+window_1500,Ridge Classifier,yang_chapter_103_window_01,103,yang,1,1,0.3066479090728981
+window_1500,Ridge Classifier,yang_chapter_103_window_02,103,yang,1,1,1.295526565370805
+window_1500,Ridge Classifier,yang_chapter_103_window_03,103,yang,1,1,0.595607309041562
+window_1500,Ridge Classifier,yang_chapter_106_window_01,106,yang,1,1,0.6002237395985808
+window_1500,Ridge Classifier,yang_chapter_106_window_02,106,yang,1,1,0.8635353194456846
+window_1500,Ridge Classifier,yang_chapter_112_window_01,112,yang,1,1,0.9520525791118544
+window_1500,Ridge Classifier,yang_chapter_112_window_02,112,yang,1,1,0.3305905687656333
+window_1500,Ridge Classifier,yang_chapter_112_window_03,112,yang,1,1,0.5068502575045897
+window_1500,Ridge Classifier,yang_chapter_118_window_01,118,yang,1,1,0.9222861724234174
+window_1500,Ridge Classifier,yang_chapter_118_window_02,118,yang,1,1,0.7268251514208162
+window_1500,Ridge Classifier,yang_chapter_118_window_03,118,yang,1,1,0.774421674880509
+window_1500,Ridge Classifier,yang_chapter_119_window_01,119,yang,1,1,0.9828455481472264
+window_1500,Ridge Classifier,yang_chapter_119_window_02,119,yang,1,1,0.6867274314911321
+window_1500,Ridge Classifier,yang_chapter_119_window_03,119,yang,1,1,0.5876394425621488
+window_1500,Ridge Classifier,yang_chapter_119_window_04,119,yang,1,1,0.7181183620630098
+window_1500,Gradient Boosting,hawkes_chapter_009_window_01,9,hawkes,0,0,0.0104080848473228
+window_1500,Gradient Boosting,hawkes_chapter_009_window_02,9,hawkes,0,0,0.032685061435036
+window_1500,Gradient Boosting,hawkes_chapter_010_window_01,10,hawkes,0,0,0.0093319681375802
+window_1500,Gradient Boosting,hawkes_chapter_010_window_02,10,hawkes,0,0,0.1308067390879649
+window_1500,Gradient Boosting,hawkes_chapter_015_window_01,15,hawkes,0,0,0.0104628898049529
+window_1500,Gradient Boosting,hawkes_chapter_015_window_02,15,hawkes,0,0,0.3399946986282364
+window_1500,Gradient Boosting,hawkes_chapter_022_window_01,22,hawkes,0,0,0.005237692255809
+window_1500,Gradient Boosting,hawkes_chapter_022_window_02,22,hawkes,0,0,0.0221874914930842
+window_1500,Gradient Boosting,hawkes_chapter_022_window_03,22,hawkes,0,1,0.9786587065568972
+window_1500,Gradient Boosting,hawkes_chapter_044_window_01,44,hawkes,0,0,0.0152895759114743
+window_1500,Gradient Boosting,hawkes_chapter_044_window_02,44,hawkes,0,0,0.0286226537440688
+window_1500,Gradient Boosting,hawkes_chapter_044_window_03,44,hawkes,0,0,0.0069941632091499
+window_1500,Gradient Boosting,hawkes_chapter_053_window_01,53,hawkes,0,0,0.0133448996726517
+window_1500,Gradient Boosting,hawkes_chapter_053_window_02,53,hawkes,0,0,0.1821183127466656
+window_1500,Gradient Boosting,hawkes_chapter_053_window_03,53,hawkes,0,0,0.0046181286193276
+window_1500,Gradient Boosting,hawkes_chapter_053_window_04,53,hawkes,0,1,0.5981947416732158
+window_1500,Gradient Boosting,hawkes_chapter_057_window_01,57,hawkes,0,0,0.0070197764355248
+window_1500,Gradient Boosting,hawkes_chapter_057_window_02,57,hawkes,0,0,0.0174588515378283
+window_1500,Gradient Boosting,hawkes_chapter_057_window_03,57,hawkes,0,0,0.0076607655085098
+window_1500,Gradient Boosting,hawkes_chapter_057_window_04,57,hawkes,0,0,0.0640978581507604
+window_1500,Gradient Boosting,hawkes_chapter_057_window_05,57,hawkes,0,0,0.010872966070185
+window_1500,Gradient Boosting,hawkes_chapter_058_window_01,58,hawkes,0,0,0.0178098430417253
+window_1500,Gradient Boosting,hawkes_chapter_058_window_02,58,hawkes,0,0,0.0458625632043989
+window_1500,Gradient Boosting,hawkes_chapter_058_window_03,58,hawkes,0,0,0.0136038031357494
+window_1500,Gradient Boosting,hawkes_chapter_059_window_01,59,hawkes,0,0,0.0229815267161503
+window_1500,Gradient Boosting,hawkes_chapter_059_window_02,59,hawkes,0,0,0.018569059247159
+window_1500,Gradient Boosting,hawkes_chapter_065_window_01,65,hawkes,0,0,0.0188433720105299
+window_1500,Gradient Boosting,hawkes_chapter_065_window_02,65,hawkes,0,0,0.1109150506730442
+window_1500,Gradient Boosting,hawkes_chapter_065_window_03,65,hawkes,0,0,0.0173240194997316
+window_1500,Gradient Boosting,hawkes_chapter_073_window_01,73,hawkes,0,0,0.2635803281571792
+window_1500,Gradient Boosting,hawkes_chapter_073_window_02,73,hawkes,0,0,0.006678486894853
+window_1500,Gradient Boosting,hawkes_chapter_073_window_03,73,hawkes,0,0,0.0036510350777496
+window_1500,Gradient Boosting,hawkes_chapter_076_window_01,76,hawkes,0,0,0.0673913962184195
+window_1500,Gradient Boosting,hawkes_chapter_076_window_02,76,hawkes,0,0,0.0559349454225816
+window_1500,Gradient Boosting,hawkes_chapter_076_window_03,76,hawkes,0,0,0.1761118820060466
+window_1500,Gradient Boosting,hawkes_chapter_080_window_01,80,hawkes,0,0,0.011077452755611
+window_1500,Gradient Boosting,hawkes_chapter_080_window_02,80,hawkes,0,0,0.0296060000313718
+window_1500,Gradient Boosting,hawkes_chapter_080_window_03,80,hawkes,0,0,0.0225503476442714
+window_1500,Gradient Boosting,hawkes_chapter_081_window_01,81,hawkes,0,1,0.89669312306897
+window_1500,Gradient Boosting,hawkes_chapter_081_window_02,81,hawkes,0,0,0.0081198443674398
+window_1500,Gradient Boosting,hawkes_chapter_081_window_03,81,hawkes,0,0,0.0630098113875169
+window_1500,Gradient Boosting,hawkes_chapter_084_window_01,84,hawkes,0,0,0.0079950954235199
+window_1500,Gradient Boosting,hawkes_chapter_084_window_02,84,hawkes,0,0,0.0445567182190911
+window_1500,Gradient Boosting,hawkes_chapter_084_window_03,84,hawkes,0,0,0.070074634306303
+window_1500,Gradient Boosting,hawkes_chapter_088_window_01,88,hawkes,0,0,0.2594030608897499
+window_1500,Gradient Boosting,hawkes_chapter_088_window_02,88,hawkes,0,0,0.0544610381560387
+window_1500,Gradient Boosting,hawkes_chapter_088_window_03,88,hawkes,0,0,0.09110274613129
+window_1500,Gradient Boosting,hawkes_chapter_089_window_01,89,hawkes,0,0,0.0127891756612508
+window_1500,Gradient Boosting,hawkes_chapter_089_window_02,89,hawkes,0,0,0.0176238183187998
+window_1500,Gradient Boosting,hawkes_chapter_097_window_01,97,hawkes,0,0,0.0073249146356109
+window_1500,Gradient Boosting,hawkes_chapter_097_window_02,97,hawkes,0,0,0.0080785428866733
+window_1500,Gradient Boosting,hawkes_chapter_097_window_03,97,hawkes,0,0,0.1378707891352851
+window_1500,Gradient Boosting,hawkes_chapter_097_window_04,97,hawkes,0,0,0.0636453736893018
+window_1500,Gradient Boosting,hawkes_chapter_101_window_01,101,hawkes,0,0,0.0134726259519479
+window_1500,Gradient Boosting,hawkes_chapter_101_window_02,101,hawkes,0,0,0.0122118088692128
+window_1500,Gradient Boosting,hawkes_chapter_101_window_03,101,hawkes,0,0,0.0156646758273927
+window_1500,Gradient Boosting,hawkes_chapter_103_window_01,103,hawkes,0,0,0.0424125361041678
+window_1500,Gradient Boosting,hawkes_chapter_103_window_02,103,hawkes,0,0,0.0433548977961356
+window_1500,Gradient Boosting,hawkes_chapter_103_window_03,103,hawkes,0,1,0.8984771907482691
+window_1500,Gradient Boosting,hawkes_chapter_106_window_01,106,hawkes,0,0,0.0157649326455746
+window_1500,Gradient Boosting,hawkes_chapter_106_window_02,106,hawkes,0,1,0.7802724254441381
+window_1500,Gradient Boosting,hawkes_chapter_112_window_01,112,hawkes,0,0,0.0925537495080564
+window_1500,Gradient Boosting,hawkes_chapter_112_window_02,112,hawkes,0,0,0.151345079358401
+window_1500,Gradient Boosting,hawkes_chapter_112_window_03,112,hawkes,0,0,0.0209566321914795
+window_1500,Gradient Boosting,hawkes_chapter_118_window_01,118,hawkes,0,0,0.0430604404805618
+window_1500,Gradient Boosting,hawkes_chapter_118_window_02,118,hawkes,0,0,0.0070457652571987
+window_1500,Gradient Boosting,hawkes_chapter_118_window_03,118,hawkes,0,0,0.1307412676960971
+window_1500,Gradient Boosting,hawkes_chapter_119_window_01,119,hawkes,0,0,0.0213256027812417
+window_1500,Gradient Boosting,hawkes_chapter_119_window_02,119,hawkes,0,0,0.1228897791463042
+window_1500,Gradient Boosting,hawkes_chapter_119_window_03,119,hawkes,0,0,0.0103177247102604
+window_1500,Gradient Boosting,hawkes_chapter_119_window_04,119,hawkes,0,0,0.2738595421818507
+window_1500,Gradient Boosting,yang_chapter_009_window_01,9,yang,1,1,0.7066619313110405
+window_1500,Gradient Boosting,yang_chapter_009_window_02,9,yang,1,0,0.0564533415081382
+window_1500,Gradient Boosting,yang_chapter_010_window_01,10,yang,1,0,0.2964585068592085
+window_1500,Gradient Boosting,yang_chapter_010_window_02,10,yang,1,1,0.811348711915366
+window_1500,Gradient Boosting,yang_chapter_015_window_01,15,yang,1,1,0.8184144408065568
+window_1500,Gradient Boosting,yang_chapter_015_window_02,15,yang,1,0,0.1705243429375775
+window_1500,Gradient Boosting,yang_chapter_022_window_01,22,yang,1,1,0.9436060056054952
+window_1500,Gradient Boosting,yang_chapter_022_window_02,22,yang,1,1,0.9943888616617204
+window_1500,Gradient Boosting,yang_chapter_022_window_03,22,yang,1,1,0.9586207854498544
+window_1500,Gradient Boosting,yang_chapter_044_window_01,44,yang,1,1,0.9537423918435404
+window_1500,Gradient Boosting,yang_chapter_044_window_02,44,yang,1,1,0.9926785578026628
+window_1500,Gradient Boosting,yang_chapter_044_window_03,44,yang,1,1,0.9938549415255484
+window_1500,Gradient Boosting,yang_chapter_053_window_01,53,yang,1,0,0.0327255267598388
+window_1500,Gradient Boosting,yang_chapter_053_window_02,53,yang,1,0,0.2060094491997939
+window_1500,Gradient Boosting,yang_chapter_053_window_03,53,yang,1,1,0.9411933187056172
+window_1500,Gradient Boosting,yang_chapter_053_window_04,53,yang,1,1,0.7818728814107129
+window_1500,Gradient Boosting,yang_chapter_057_window_01,57,yang,1,1,0.989167592570662
+window_1500,Gradient Boosting,yang_chapter_057_window_02,57,yang,1,1,0.9971581822538884
+window_1500,Gradient Boosting,yang_chapter_057_window_03,57,yang,1,1,0.9771719948454184
+window_1500,Gradient Boosting,yang_chapter_057_window_04,57,yang,1,1,0.6253986323236886
+window_1500,Gradient Boosting,yang_chapter_057_window_05,57,yang,1,1,0.9850015256777488
+window_1500,Gradient Boosting,yang_chapter_058_window_01,58,yang,1,1,0.8653619146694437
+window_1500,Gradient Boosting,yang_chapter_058_window_02,58,yang,1,1,0.9573829668358892
+window_1500,Gradient Boosting,yang_chapter_058_window_03,58,yang,1,1,0.9666088941320437
+window_1500,Gradient Boosting,yang_chapter_059_window_01,59,yang,1,1,0.8459082313146041
+window_1500,Gradient Boosting,yang_chapter_059_window_02,59,yang,1,1,0.915844897342988
+window_1500,Gradient Boosting,yang_chapter_065_window_01,65,yang,1,1,0.9325306180881728
+window_1500,Gradient Boosting,yang_chapter_065_window_02,65,yang,1,1,0.906350208599802
+window_1500,Gradient Boosting,yang_chapter_065_window_03,65,yang,1,1,0.8554489490412609
+window_1500,Gradient Boosting,yang_chapter_073_window_01,73,yang,1,1,0.917857773545766
+window_1500,Gradient Boosting,yang_chapter_073_window_02,73,yang,1,1,0.9657037873540724
+window_1500,Gradient Boosting,yang_chapter_073_window_03,73,yang,1,1,0.9642722810306886
+window_1500,Gradient Boosting,yang_chapter_076_window_01,76,yang,1,1,0.8993654526662329
+window_1500,Gradient Boosting,yang_chapter_076_window_02,76,yang,1,1,0.9688034375484968
+window_1500,Gradient Boosting,yang_chapter_076_window_03,76,yang,1,1,0.7541830511850985
+window_1500,Gradient Boosting,yang_chapter_080_window_01,80,yang,1,1,0.9699338010216966
+window_1500,Gradient Boosting,yang_chapter_080_window_02,80,yang,1,1,0.9267272557957172
+window_1500,Gradient Boosting,yang_chapter_080_window_03,80,yang,1,1,0.9762652861266212
+window_1500,Gradient Boosting,yang_chapter_081_window_01,81,yang,1,1,0.989497348796726
+window_1500,Gradient Boosting,yang_chapter_081_window_02,81,yang,1,1,0.984206312855018
+window_1500,Gradient Boosting,yang_chapter_081_window_03,81,yang,1,1,0.9947789856108928
+window_1500,Gradient Boosting,yang_chapter_084_window_01,84,yang,1,1,0.9807080119632738
+window_1500,Gradient Boosting,yang_chapter_084_window_02,84,yang,1,1,0.9907708463448855
+window_1500,Gradient Boosting,yang_chapter_084_window_03,84,yang,1,1,0.844538335319596
+window_1500,Gradient Boosting,yang_chapter_088_window_01,88,yang,1,1,0.8994633586598736
+window_1500,Gradient Boosting,yang_chapter_088_window_02,88,yang,1,0,0.2905592674360165
+window_1500,Gradient Boosting,yang_chapter_088_window_03,88,yang,1,1,0.9768185317621444
+window_1500,Gradient Boosting,yang_chapter_089_window_01,89,yang,1,1,0.9369799358132068
+window_1500,Gradient Boosting,yang_chapter_089_window_02,89,yang,1,1,0.989444469318559
+window_1500,Gradient Boosting,yang_chapter_097_window_01,97,yang,1,1,0.973908962458001
+window_1500,Gradient Boosting,yang_chapter_097_window_02,97,yang,1,1,0.8882936572149239
+window_1500,Gradient Boosting,yang_chapter_097_window_03,97,yang,1,1,0.9927990417535496
+window_1500,Gradient Boosting,yang_chapter_097_window_04,97,yang,1,1,0.9956006646905924
+window_1500,Gradient Boosting,yang_chapter_101_window_01,101,yang,1,1,0.9914482269446528
+window_1500,Gradient Boosting,yang_chapter_101_window_02,101,yang,1,1,0.8806980593216095
+window_1500,Gradient Boosting,yang_chapter_101_window_03,101,yang,1,1,0.9906444782535092
+window_1500,Gradient Boosting,yang_chapter_103_window_01,103,yang,1,1,0.9390299080280236
+window_1500,Gradient Boosting,yang_chapter_103_window_02,103,yang,1,1,0.9934956789128088
+window_1500,Gradient Boosting,yang_chapter_103_window_03,103,yang,1,1,0.9748351247921196
+window_1500,Gradient Boosting,yang_chapter_106_window_01,106,yang,1,1,0.9764790003200688
+window_1500,Gradient Boosting,yang_chapter_106_window_02,106,yang,1,1,0.9825997842966364
+window_1500,Gradient Boosting,yang_chapter_112_window_01,112,yang,1,1,0.9856078903499472
+window_1500,Gradient Boosting,yang_chapter_112_window_02,112,yang,1,1,0.8127563542493609
+window_1500,Gradient Boosting,yang_chapter_112_window_03,112,yang,1,1,0.7946810408550088
+window_1500,Gradient Boosting,yang_chapter_118_window_01,118,yang,1,1,0.989629690372242
+window_1500,Gradient Boosting,yang_chapter_118_window_02,118,yang,1,0,0.0287455934922322
+window_1500,Gradient Boosting,yang_chapter_118_window_03,118,yang,1,1,0.9930788561449572
+window_1500,Gradient Boosting,yang_chapter_119_window_01,119,yang,1,1,0.9862547802684009
+window_1500,Gradient Boosting,yang_chapter_119_window_02,119,yang,1,0,0.4943181739778881
+window_1500,Gradient Boosting,yang_chapter_119_window_03,119,yang,1,1,0.9235625035410476
+window_1500,Gradient Boosting,yang_chapter_119_window_04,119,yang,1,1,0.927746371750472
+window_1500,Neural Network,hawkes_chapter_009_window_01,9,hawkes,0,0,0.0002409108584037
+window_1500,Neural Network,hawkes_chapter_009_window_02,9,hawkes,0,0,0.0003400021092341
+window_1500,Neural Network,hawkes_chapter_010_window_01,10,hawkes,0,0,2.1651856736239183e-05
+window_1500,Neural Network,hawkes_chapter_010_window_02,10,hawkes,0,0,7.814313133501302e-05
+window_1500,Neural Network,hawkes_chapter_015_window_01,15,hawkes,0,0,7.2413957507906365e-06
+window_1500,Neural Network,hawkes_chapter_015_window_02,15,hawkes,0,0,0.0236738361030407
+window_1500,Neural Network,hawkes_chapter_022_window_01,22,hawkes,0,0,1.6539077277680153e-06
+window_1500,Neural Network,hawkes_chapter_022_window_02,22,hawkes,0,0,0.0007357873119488
+window_1500,Neural Network,hawkes_chapter_022_window_03,22,hawkes,0,1,0.9969171958861174
+window_1500,Neural Network,hawkes_chapter_044_window_01,44,hawkes,0,0,5.823800645070882e-05
+window_1500,Neural Network,hawkes_chapter_044_window_02,44,hawkes,0,0,0.0363678750296359
+window_1500,Neural Network,hawkes_chapter_044_window_03,44,hawkes,0,0,0.0336778251111938
+window_1500,Neural Network,hawkes_chapter_053_window_01,53,hawkes,0,0,7.936968252930513e-05
+window_1500,Neural Network,hawkes_chapter_053_window_02,53,hawkes,0,0,0.3268729732596879
+window_1500,Neural Network,hawkes_chapter_053_window_03,53,hawkes,0,0,4.146804110799382e-05
+window_1500,Neural Network,hawkes_chapter_053_window_04,53,hawkes,0,0,1.0460334634809911e-05
+window_1500,Neural Network,hawkes_chapter_057_window_01,57,hawkes,0,0,0.0011692616899453
+window_1500,Neural Network,hawkes_chapter_057_window_02,57,hawkes,0,0,0.0001232535693291
+window_1500,Neural Network,hawkes_chapter_057_window_03,57,hawkes,0,0,1.4209869116109283e-06
+window_1500,Neural Network,hawkes_chapter_057_window_04,57,hawkes,0,0,1.527735625331994e-05
+window_1500,Neural Network,hawkes_chapter_057_window_05,57,hawkes,0,0,3.3182266172726586e-08
+window_1500,Neural Network,hawkes_chapter_058_window_01,58,hawkes,0,0,1.3816189099477557e-05
+window_1500,Neural Network,hawkes_chapter_058_window_02,58,hawkes,0,0,0.0010162106937595
+window_1500,Neural Network,hawkes_chapter_058_window_03,58,hawkes,0,0,0.0016828433995752
+window_1500,Neural Network,hawkes_chapter_059_window_01,59,hawkes,0,0,0.0251520784941329
+window_1500,Neural Network,hawkes_chapter_059_window_02,59,hawkes,0,0,0.0002254997713021
+window_1500,Neural Network,hawkes_chapter_065_window_01,65,hawkes,0,0,0.0004919508745691
+window_1500,Neural Network,hawkes_chapter_065_window_02,65,hawkes,0,0,0.0036295319468015
+window_1500,Neural Network,hawkes_chapter_065_window_03,65,hawkes,0,0,0.019978646129136
+window_1500,Neural Network,hawkes_chapter_073_window_01,73,hawkes,0,0,0.0017185475454158
+window_1500,Neural Network,hawkes_chapter_073_window_02,73,hawkes,0,0,9.19526780195728e-07
+window_1500,Neural Network,hawkes_chapter_073_window_03,73,hawkes,0,0,3.250308490947172e-07
+window_1500,Neural Network,hawkes_chapter_076_window_01,76,hawkes,0,0,0.0001466816028919
+window_1500,Neural Network,hawkes_chapter_076_window_02,76,hawkes,0,0,0.0009152227965434
+window_1500,Neural Network,hawkes_chapter_076_window_03,76,hawkes,0,0,0.001263448415538
+window_1500,Neural Network,hawkes_chapter_080_window_01,80,hawkes,0,0,0.0002262765585579
+window_1500,Neural Network,hawkes_chapter_080_window_02,80,hawkes,0,0,0.0369136448531848
+window_1500,Neural Network,hawkes_chapter_080_window_03,80,hawkes,0,0,0.0069522028141298
+window_1500,Neural Network,hawkes_chapter_081_window_01,81,hawkes,0,1,0.8898094775639421
+window_1500,Neural Network,hawkes_chapter_081_window_02,81,hawkes,0,0,5.204020737179421e-05
+window_1500,Neural Network,hawkes_chapter_081_window_03,81,hawkes,0,0,0.0288983552753245
+window_1500,Neural Network,hawkes_chapter_084_window_01,84,hawkes,0,0,0.0001197610494032
+window_1500,Neural Network,hawkes_chapter_084_window_02,84,hawkes,0,0,4.890863597460897e-05
+window_1500,Neural Network,hawkes_chapter_084_window_03,84,hawkes,0,0,0.004170771148984
+window_1500,Neural Network,hawkes_chapter_088_window_01,88,hawkes,0,0,0.0028969708169022
+window_1500,Neural Network,hawkes_chapter_088_window_02,88,hawkes,0,0,0.0523002197633635
+window_1500,Neural Network,hawkes_chapter_088_window_03,88,hawkes,0,0,0.0238810178338218
+window_1500,Neural Network,hawkes_chapter_089_window_01,89,hawkes,0,0,0.0001329579180926
+window_1500,Neural Network,hawkes_chapter_089_window_02,89,hawkes,0,0,4.658066634622172e-05
+window_1500,Neural Network,hawkes_chapter_097_window_01,97,hawkes,0,0,7.756390868171591e-07
+window_1500,Neural Network,hawkes_chapter_097_window_02,97,hawkes,0,0,1.5797689014053038e-06
+window_1500,Neural Network,hawkes_chapter_097_window_03,97,hawkes,0,0,3.4417670199503258e-06
+window_1500,Neural Network,hawkes_chapter_097_window_04,97,hawkes,0,0,8.29197613067992e-06
+window_1500,Neural Network,hawkes_chapter_101_window_01,101,hawkes,0,0,0.0003626113393654
+window_1500,Neural Network,hawkes_chapter_101_window_02,101,hawkes,0,0,0.0250871361357168
+window_1500,Neural Network,hawkes_chapter_101_window_03,101,hawkes,0,0,0.0012639544622037
+window_1500,Neural Network,hawkes_chapter_103_window_01,103,hawkes,0,0,0.0012590694673118
+window_1500,Neural Network,hawkes_chapter_103_window_02,103,hawkes,0,0,0.0161004646623768
+window_1500,Neural Network,hawkes_chapter_103_window_03,103,hawkes,0,0,0.3177207906530513
+window_1500,Neural Network,hawkes_chapter_106_window_01,106,hawkes,0,0,0.0011000131250226
+window_1500,Neural Network,hawkes_chapter_106_window_02,106,hawkes,0,1,0.8318019958375715
+window_1500,Neural Network,hawkes_chapter_112_window_01,112,hawkes,0,0,0.001331525921469
+window_1500,Neural Network,hawkes_chapter_112_window_02,112,hawkes,0,0,0.0083030167882695
+window_1500,Neural Network,hawkes_chapter_112_window_03,112,hawkes,0,0,0.0005725339035824
+window_1500,Neural Network,hawkes_chapter_118_window_01,118,hawkes,0,0,0.0213159463979187
+window_1500,Neural Network,hawkes_chapter_118_window_02,118,hawkes,0,0,0.2504666393668311
+window_1500,Neural Network,hawkes_chapter_118_window_03,118,hawkes,0,0,0.0013832041620607
+window_1500,Neural Network,hawkes_chapter_119_window_01,119,hawkes,0,0,0.0010752057414382
+window_1500,Neural Network,hawkes_chapter_119_window_02,119,hawkes,0,0,0.0004662490322874
+window_1500,Neural Network,hawkes_chapter_119_window_03,119,hawkes,0,0,0.001252741025774
+window_1500,Neural Network,hawkes_chapter_119_window_04,119,hawkes,0,0,0.0004033324341246
+window_1500,Neural Network,yang_chapter_009_window_01,9,yang,1,0,0.3846130110075093
+window_1500,Neural Network,yang_chapter_009_window_02,9,yang,1,0,0.2557172372989904
+window_1500,Neural Network,yang_chapter_010_window_01,10,yang,1,0,0.2563874252045225
+window_1500,Neural Network,yang_chapter_010_window_02,10,yang,1,1,0.9944700676048868
+window_1500,Neural Network,yang_chapter_015_window_01,15,yang,1,1,0.9817904619412464
+window_1500,Neural Network,yang_chapter_015_window_02,15,yang,1,0,0.4912219847878246
+window_1500,Neural Network,yang_chapter_022_window_01,22,yang,1,1,0.9999985240849424
+window_1500,Neural Network,yang_chapter_022_window_02,22,yang,1,1,0.999995050271091
+window_1500,Neural Network,yang_chapter_022_window_03,22,yang,1,1,0.9318518694874764
+window_1500,Neural Network,yang_chapter_044_window_01,44,yang,1,1,0.9878854242853576
+window_1500,Neural Network,yang_chapter_044_window_02,44,yang,1,1,0.9999999739532152
+window_1500,Neural Network,yang_chapter_044_window_03,44,yang,1,1,0.9999357049953568
+window_1500,Neural Network,yang_chapter_053_window_01,53,yang,1,1,0.5571176883974441
+window_1500,Neural Network,yang_chapter_053_window_02,53,yang,1,0,0.486380240420476
+window_1500,Neural Network,yang_chapter_053_window_03,53,yang,1,1,0.9995405048540442
+window_1500,Neural Network,yang_chapter_053_window_04,53,yang,1,1,0.9668873955349114
+window_1500,Neural Network,yang_chapter_057_window_01,57,yang,1,1,0.999993559682173
+window_1500,Neural Network,yang_chapter_057_window_02,57,yang,1,1,0.999999999780156
+window_1500,Neural Network,yang_chapter_057_window_03,57,yang,1,1,0.9999690200923804
+window_1500,Neural Network,yang_chapter_057_window_04,57,yang,1,1,0.9057650328470211
+window_1500,Neural Network,yang_chapter_057_window_05,57,yang,1,1,0.9897379449397784
+window_1500,Neural Network,yang_chapter_058_window_01,58,yang,1,1,0.9999656661673728
+window_1500,Neural Network,yang_chapter_058_window_02,58,yang,1,1,0.9995962012385192
+window_1500,Neural Network,yang_chapter_058_window_03,58,yang,1,1,0.9993937423268102
+window_1500,Neural Network,yang_chapter_059_window_01,59,yang,1,1,0.9907375227887144
+window_1500,Neural Network,yang_chapter_059_window_02,59,yang,1,1,0.9999961511042198
+window_1500,Neural Network,yang_chapter_065_window_01,65,yang,1,0,0.2332618730605225
+window_1500,Neural Network,yang_chapter_065_window_02,65,yang,1,1,0.9941886631774806
+window_1500,Neural Network,yang_chapter_065_window_03,65,yang,1,1,0.9995323303544142
+window_1500,Neural Network,yang_chapter_073_window_01,73,yang,1,1,0.9918036662075842
+window_1500,Neural Network,yang_chapter_073_window_02,73,yang,1,1,0.9999996061596388
+window_1500,Neural Network,yang_chapter_073_window_03,73,yang,1,1,0.9994354861905236
+window_1500,Neural Network,yang_chapter_076_window_01,76,yang,1,1,0.9995529547948708
+window_1500,Neural Network,yang_chapter_076_window_02,76,yang,1,1,0.9970729917457122
+window_1500,Neural Network,yang_chapter_076_window_03,76,yang,1,1,0.9807869915979088
+window_1500,Neural Network,yang_chapter_080_window_01,80,yang,1,1,0.9999643253066632
+window_1500,Neural Network,yang_chapter_080_window_02,80,yang,1,1,0.9998388968045464
+window_1500,Neural Network,yang_chapter_080_window_03,80,yang,1,1,0.999388101528598
+window_1500,Neural Network,yang_chapter_081_window_01,81,yang,1,1,0.999942184424546
+window_1500,Neural Network,yang_chapter_081_window_02,81,yang,1,1,0.9845557029447144
+window_1500,Neural Network,yang_chapter_081_window_03,81,yang,1,1,0.9999522544368556
+window_1500,Neural Network,yang_chapter_084_window_01,84,yang,1,1,0.9162739219611532
+window_1500,Neural Network,yang_chapter_084_window_02,84,yang,1,1,0.9897922751045984
+window_1500,Neural Network,yang_chapter_084_window_03,84,yang,1,0,0.1711913341095942
+window_1500,Neural Network,yang_chapter_088_window_01,88,yang,1,1,0.9995244024813648
+window_1500,Neural Network,yang_chapter_088_window_02,88,yang,1,1,0.998714257343194
+window_1500,Neural Network,yang_chapter_088_window_03,88,yang,1,1,0.9998822347094628
+window_1500,Neural Network,yang_chapter_089_window_01,89,yang,1,1,0.911120159143658
+window_1500,Neural Network,yang_chapter_089_window_02,89,yang,1,1,0.9963349993583226
+window_1500,Neural Network,yang_chapter_097_window_01,97,yang,1,1,0.999733948168876
+window_1500,Neural Network,yang_chapter_097_window_02,97,yang,1,1,0.999990110940464
+window_1500,Neural Network,yang_chapter_097_window_03,97,yang,1,1,0.999917662625871
+window_1500,Neural Network,yang_chapter_097_window_04,97,yang,1,1,0.9999999805749124
+window_1500,Neural Network,yang_chapter_101_window_01,101,yang,1,1,0.9990786097944292
+window_1500,Neural Network,yang_chapter_101_window_02,101,yang,1,1,0.999992867023474
+window_1500,Neural Network,yang_chapter_101_window_03,101,yang,1,1,0.9999908699172588
+window_1500,Neural Network,yang_chapter_103_window_01,103,yang,1,1,0.9972739967450478
+window_1500,Neural Network,yang_chapter_103_window_02,103,yang,1,1,0.9999997336557804
+window_1500,Neural Network,yang_chapter_103_window_03,103,yang,1,1,0.9999833420151856
+window_1500,Neural Network,yang_chapter_106_window_01,106,yang,1,1,0.9999567187595078
+window_1500,Neural Network,yang_chapter_106_window_02,106,yang,1,1,0.9997731432289996
+window_1500,Neural Network,yang_chapter_112_window_01,112,yang,1,1,0.9999982342551234
+window_1500,Neural Network,yang_chapter_112_window_02,112,yang,1,1,0.999805183452805
+window_1500,Neural Network,yang_chapter_112_window_03,112,yang,1,1,0.9988804054575556
+window_1500,Neural Network,yang_chapter_118_window_01,118,yang,1,1,0.99997909741507
+window_1500,Neural Network,yang_chapter_118_window_02,118,yang,1,1,0.9986877744040936
+window_1500,Neural Network,yang_chapter_118_window_03,118,yang,1,1,0.9999601542970054
+window_1500,Neural Network,yang_chapter_119_window_01,119,yang,1,1,0.9998598658362772
+window_1500,Neural Network,yang_chapter_119_window_02,119,yang,1,1,0.9998513792963742
+window_1500,Neural Network,yang_chapter_119_window_03,119,yang,1,1,0.9987605305409788
+window_1500,Neural Network,yang_chapter_119_window_04,119,yang,1,1,0.9985498219670534
+window_1500,Voting Ensemble,hawkes_chapter_009_window_01,9,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_009_window_02,9,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_010_window_01,10,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_010_window_02,10,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_015_window_01,15,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_015_window_02,15,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_022_window_01,22,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_022_window_02,22,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_022_window_03,22,hawkes,0,1,
+window_1500,Voting Ensemble,hawkes_chapter_044_window_01,44,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_044_window_02,44,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_044_window_03,44,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_053_window_01,53,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_053_window_02,53,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_053_window_03,53,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_053_window_04,53,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_057_window_01,57,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_057_window_02,57,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_057_window_03,57,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_057_window_04,57,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_057_window_05,57,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_058_window_01,58,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_058_window_02,58,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_058_window_03,58,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_059_window_01,59,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_059_window_02,59,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_065_window_01,65,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_065_window_02,65,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_065_window_03,65,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_073_window_01,73,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_073_window_02,73,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_073_window_03,73,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_076_window_01,76,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_076_window_02,76,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_076_window_03,76,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_080_window_01,80,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_080_window_02,80,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_080_window_03,80,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_081_window_01,81,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_081_window_02,81,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_081_window_03,81,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_084_window_01,84,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_084_window_02,84,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_084_window_03,84,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_088_window_01,88,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_088_window_02,88,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_088_window_03,88,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_089_window_01,89,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_089_window_02,89,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_097_window_01,97,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_097_window_02,97,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_097_window_03,97,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_097_window_04,97,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_101_window_01,101,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_101_window_02,101,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_101_window_03,101,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_103_window_01,103,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_103_window_02,103,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_103_window_03,103,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_106_window_01,106,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_106_window_02,106,hawkes,0,1,
+window_1500,Voting Ensemble,hawkes_chapter_112_window_01,112,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_112_window_02,112,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_112_window_03,112,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_118_window_01,118,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_118_window_02,118,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_118_window_03,118,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_119_window_01,119,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_119_window_02,119,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_119_window_03,119,hawkes,0,0,
+window_1500,Voting Ensemble,hawkes_chapter_119_window_04,119,hawkes,0,0,
+window_1500,Voting Ensemble,yang_chapter_009_window_01,9,yang,1,0,
+window_1500,Voting Ensemble,yang_chapter_009_window_02,9,yang,1,0,
+window_1500,Voting Ensemble,yang_chapter_010_window_01,10,yang,1,0,
+window_1500,Voting Ensemble,yang_chapter_010_window_02,10,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_015_window_01,15,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_015_window_02,15,yang,1,0,
+window_1500,Voting Ensemble,yang_chapter_022_window_01,22,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_022_window_02,22,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_022_window_03,22,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_044_window_01,44,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_044_window_02,44,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_044_window_03,44,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_053_window_01,53,yang,1,0,
+window_1500,Voting Ensemble,yang_chapter_053_window_02,53,yang,1,0,
+window_1500,Voting Ensemble,yang_chapter_053_window_03,53,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_053_window_04,53,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_057_window_01,57,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_057_window_02,57,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_057_window_03,57,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_057_window_04,57,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_057_window_05,57,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_058_window_01,58,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_058_window_02,58,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_058_window_03,58,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_059_window_01,59,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_059_window_02,59,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_065_window_01,65,yang,1,0,
+window_1500,Voting Ensemble,yang_chapter_065_window_02,65,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_065_window_03,65,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_073_window_01,73,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_073_window_02,73,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_073_window_03,73,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_076_window_01,76,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_076_window_02,76,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_076_window_03,76,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_080_window_01,80,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_080_window_02,80,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_080_window_03,80,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_081_window_01,81,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_081_window_02,81,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_081_window_03,81,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_084_window_01,84,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_084_window_02,84,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_084_window_03,84,yang,1,0,
+window_1500,Voting Ensemble,yang_chapter_088_window_01,88,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_088_window_02,88,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_088_window_03,88,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_089_window_01,89,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_089_window_02,89,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_097_window_01,97,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_097_window_02,97,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_097_window_03,97,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_097_window_04,97,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_101_window_01,101,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_101_window_02,101,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_101_window_03,101,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_103_window_01,103,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_103_window_02,103,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_103_window_03,103,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_106_window_01,106,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_106_window_02,106,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_112_window_01,112,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_112_window_02,112,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_112_window_03,112,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_118_window_01,118,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_118_window_02,118,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_118_window_03,118,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_119_window_01,119,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_119_window_02,119,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_119_window_03,119,yang,1,1,
+window_1500,Voting Ensemble,yang_chapter_119_window_04,119,yang,1,1,
+chapter_level,Logistic Regression,hawkes_chapter_009,9,hawkes,0,0,0.28713467498291184
+chapter_level,Logistic Regression,hawkes_chapter_010,10,hawkes,0,0,0.03577589429515741
+chapter_level,Logistic Regression,hawkes_chapter_015,15,hawkes,0,0,0.02568476983704782
+chapter_level,Logistic Regression,hawkes_chapter_022,22,hawkes,0,0,0.025284534111119427
+chapter_level,Logistic Regression,hawkes_chapter_044,44,hawkes,0,0,0.05184986521253386
+chapter_level,Logistic Regression,hawkes_chapter_053,53,hawkes,0,0,0.01650934361737714
+chapter_level,Logistic Regression,hawkes_chapter_057,57,hawkes,0,0,0.012373199759902103
+chapter_level,Logistic Regression,hawkes_chapter_058,58,hawkes,0,0,0.10448374718073594
+chapter_level,Logistic Regression,hawkes_chapter_059,59,hawkes,0,1,0.7149062446382694
+chapter_level,Logistic Regression,hawkes_chapter_065,65,hawkes,0,1,0.5426771335619034
+chapter_level,Logistic Regression,hawkes_chapter_073,73,hawkes,0,0,0.03433142012287265
+chapter_level,Logistic Regression,hawkes_chapter_076,76,hawkes,0,0,0.3639382791239255
+chapter_level,Logistic Regression,hawkes_chapter_080,80,hawkes,0,0,0.14847608687626207
+chapter_level,Logistic Regression,hawkes_chapter_081,81,hawkes,0,0,0.009373035003028904
+chapter_level,Logistic Regression,hawkes_chapter_084,84,hawkes,0,0,0.006347917030720001
+chapter_level,Logistic Regression,hawkes_chapter_088,88,hawkes,0,0,0.0419088551220145
+chapter_level,Logistic Regression,hawkes_chapter_089,89,hawkes,0,0,0.03464393890593858
+chapter_level,Logistic Regression,hawkes_chapter_097,97,hawkes,0,0,0.013280708695752883
+chapter_level,Logistic Regression,hawkes_chapter_101,101,hawkes,0,0,0.00580621304852589
+chapter_level,Logistic Regression,hawkes_chapter_103,103,hawkes,0,0,0.02770495364962576
+chapter_level,Logistic Regression,hawkes_chapter_106,106,hawkes,0,0,0.2000430893456621
+chapter_level,Logistic Regression,hawkes_chapter_112,112,hawkes,0,0,0.07529219826645589
+chapter_level,Logistic Regression,hawkes_chapter_118,118,hawkes,0,0,0.40671078033503266
+chapter_level,Logistic Regression,hawkes_chapter_119,119,hawkes,0,0,0.03678445995429722
+chapter_level,Logistic Regression,yang_chapter_009,9,yang,1,1,0.9895024926728626
+chapter_level,Logistic Regression,yang_chapter_010,10,yang,1,1,0.5888478305707563
+chapter_level,Logistic Regression,yang_chapter_015,15,yang,1,1,0.9471285802641498
+chapter_level,Logistic Regression,yang_chapter_022,22,yang,1,1,0.9494956701782213
+chapter_level,Logistic Regression,yang_chapter_044,44,yang,1,1,0.9766315369198025
+chapter_level,Logistic Regression,yang_chapter_053,53,yang,1,1,0.6041167404167606
+chapter_level,Logistic Regression,yang_chapter_057,57,yang,1,1,0.8028140178817535
+chapter_level,Logistic Regression,yang_chapter_058,58,yang,1,1,0.9742584217373462
+chapter_level,Logistic Regression,yang_chapter_059,59,yang,1,1,0.9997845215834741
+chapter_level,Logistic Regression,yang_chapter_065,65,yang,1,1,0.99832927421467
+chapter_level,Logistic Regression,yang_chapter_073,73,yang,1,1,0.9693640456998658
+chapter_level,Logistic Regression,yang_chapter_076,76,yang,1,1,0.9017693899177035
+chapter_level,Logistic Regression,yang_chapter_080,80,yang,1,1,0.9483644229889665
+chapter_level,Logistic Regression,yang_chapter_081,81,yang,1,1,0.9917507875167304
+chapter_level,Logistic Regression,yang_chapter_084,84,yang,1,1,0.608615502749062
+chapter_level,Logistic Regression,yang_chapter_088,88,yang,1,1,0.978727381437285
+chapter_level,Logistic Regression,yang_chapter_089,89,yang,1,1,0.9871084911390436
+chapter_level,Logistic Regression,yang_chapter_097,97,yang,1,1,0.9223980871123709
+chapter_level,Logistic Regression,yang_chapter_101,101,yang,1,1,0.9307225179878847
+chapter_level,Logistic Regression,yang_chapter_103,103,yang,1,1,0.9746548425679212
+chapter_level,Logistic Regression,yang_chapter_106,106,yang,1,1,0.9998010187398082
+chapter_level,Logistic Regression,yang_chapter_112,112,yang,1,1,0.9824044010661169
+chapter_level,Logistic Regression,yang_chapter_118,118,yang,1,1,0.9947627183392529
+chapter_level,Logistic Regression,yang_chapter_119,119,yang,1,1,0.9437298166827773
+chapter_level,Naive Bayes,hawkes_chapter_009,9,hawkes,0,0,0.21802149531741033
+chapter_level,Naive Bayes,hawkes_chapter_010,10,hawkes,0,1,0.9917591417347291
+chapter_level,Naive Bayes,hawkes_chapter_015,15,hawkes,0,0,0.4171683543523017
+chapter_level,Naive Bayes,hawkes_chapter_022,22,hawkes,0,0,0.0023519335339931375
+chapter_level,Naive Bayes,hawkes_chapter_044,44,hawkes,0,0,0.04515719314606765
+chapter_level,Naive Bayes,hawkes_chapter_053,53,hawkes,0,0,0.003973976618832208
+chapter_level,Naive Bayes,hawkes_chapter_057,57,hawkes,0,0,4.653463504639661e-05
+chapter_level,Naive Bayes,hawkes_chapter_058,58,hawkes,0,0,0.0027148652665795613
+chapter_level,Naive Bayes,hawkes_chapter_059,59,hawkes,0,1,0.9863072122733314
+chapter_level,Naive Bayes,hawkes_chapter_065,65,hawkes,0,0,0.0053522046958298436
+chapter_level,Naive Bayes,hawkes_chapter_073,73,hawkes,0,0,0.0025768795019361296
+chapter_level,Naive Bayes,hawkes_chapter_076,76,hawkes,0,0,0.04618289442882038
+chapter_level,Naive Bayes,hawkes_chapter_080,80,hawkes,0,0,0.001113724403191791
+chapter_level,Naive Bayes,hawkes_chapter_081,81,hawkes,0,0,0.0010541744180884343
+chapter_level,Naive Bayes,hawkes_chapter_084,84,hawkes,0,0,0.006463236139729784
+chapter_level,Naive Bayes,hawkes_chapter_088,88,hawkes,0,0,0.03604302842904639
+chapter_level,Naive Bayes,hawkes_chapter_089,89,hawkes,0,1,0.6613076895150061
+chapter_level,Naive Bayes,hawkes_chapter_097,97,hawkes,0,0,0.0010368709311167129
+chapter_level,Naive Bayes,hawkes_chapter_101,101,hawkes,0,0,0.001931918462869574
+chapter_level,Naive Bayes,hawkes_chapter_103,103,hawkes,0,0,0.0028644883521556676
+chapter_level,Naive Bayes,hawkes_chapter_106,106,hawkes,0,0,0.009463563660409782
+chapter_level,Naive Bayes,hawkes_chapter_112,112,hawkes,0,0,0.28714540060120336
+chapter_level,Naive Bayes,hawkes_chapter_118,118,hawkes,0,0,0.008615484037230803
+chapter_level,Naive Bayes,hawkes_chapter_119,119,hawkes,0,0,0.00038678871584147935
+chapter_level,Naive Bayes,yang_chapter_009,9,yang,1,1,0.9999054568742438
+chapter_level,Naive Bayes,yang_chapter_010,10,yang,1,1,0.9999996371641072
+chapter_level,Naive Bayes,yang_chapter_015,15,yang,1,1,0.9999839361619864
+chapter_level,Naive Bayes,yang_chapter_022,22,yang,1,1,0.9288137619501141
+chapter_level,Naive Bayes,yang_chapter_044,44,yang,1,1,0.9999832897408608
+chapter_level,Naive Bayes,yang_chapter_053,53,yang,1,1,0.8619733167965732
+chapter_level,Naive Bayes,yang_chapter_057,57,yang,1,0,0.02239949226108499
+chapter_level,Naive Bayes,yang_chapter_058,58,yang,1,1,0.7683088335653823
+chapter_level,Naive Bayes,yang_chapter_059,59,yang,1,1,0.9999992807764386
+chapter_level,Naive Bayes,yang_chapter_065,65,yang,1,1,0.9424746251580818
+chapter_level,Naive Bayes,yang_chapter_073,73,yang,1,0,0.41507722005677516
+chapter_level,Naive Bayes,yang_chapter_076,76,yang,1,0,0.41420417141939836
+chapter_level,Naive Bayes,yang_chapter_080,80,yang,1,1,0.8617948014257272
+chapter_level,Naive Bayes,yang_chapter_081,81,yang,1,1,0.9993392198507505
+chapter_level,Naive Bayes,yang_chapter_084,84,yang,1,1,0.9985608763748464
+chapter_level,Naive Bayes,yang_chapter_088,88,yang,1,1,0.9991174974285576
+chapter_level,Naive Bayes,yang_chapter_089,89,yang,1,1,0.9999923682300113
+chapter_level,Naive Bayes,yang_chapter_097,97,yang,1,0,0.31103599244959307
+chapter_level,Naive Bayes,yang_chapter_101,101,yang,1,1,0.999279120406401
+chapter_level,Naive Bayes,yang_chapter_103,103,yang,1,1,0.99997675553371
+chapter_level,Naive Bayes,yang_chapter_106,106,yang,1,1,0.9993394420930856
+chapter_level,Naive Bayes,yang_chapter_112,112,yang,1,1,0.9998649675318868
+chapter_level,Naive Bayes,yang_chapter_118,118,yang,1,1,0.9839098211016015
+chapter_level,Naive Bayes,yang_chapter_119,119,yang,1,0,0.4257470392695586
+chapter_level,SVM,hawkes_chapter_009,9,hawkes,0,0,-0.6248698450323182
+chapter_level,SVM,hawkes_chapter_010,10,hawkes,0,0,-0.17545297286104533
+chapter_level,SVM,hawkes_chapter_015,15,hawkes,0,0,-1.418203721993959
+chapter_level,SVM,hawkes_chapter_022,22,hawkes,0,0,-1.6164091913918712
+chapter_level,SVM,hawkes_chapter_044,44,hawkes,0,0,-1.0427718151987277
+chapter_level,SVM,hawkes_chapter_053,53,hawkes,0,0,-0.4340838510969086
+chapter_level,SVM,hawkes_chapter_057,57,hawkes,0,0,-0.9732510033474439
+chapter_level,SVM,hawkes_chapter_058,58,hawkes,0,0,-1.1893944165195194
+chapter_level,SVM,hawkes_chapter_059,59,hawkes,0,1,0.4289546666802503
+chapter_level,SVM,hawkes_chapter_065,65,hawkes,0,0,-0.22510739230028998
+chapter_level,SVM,hawkes_chapter_073,73,hawkes,0,0,-0.9392365577293861
+chapter_level,SVM,hawkes_chapter_076,76,hawkes,0,0,-0.4128379648415673
+chapter_level,SVM,hawkes_chapter_080,80,hawkes,0,0,-0.8388944690981784
+chapter_level,SVM,hawkes_chapter_081,81,hawkes,0,0,-1.4892459821843507
+chapter_level,SVM,hawkes_chapter_084,84,hawkes,0,0,-1.096767537849027
+chapter_level,SVM,hawkes_chapter_088,88,hawkes,0,0,-1.4981943063806442
+chapter_level,SVM,hawkes_chapter_089,89,hawkes,0,0,-1.0387218042170137
+chapter_level,SVM,hawkes_chapter_097,97,hawkes,0,0,-1.4606160713434817
+chapter_level,SVM,hawkes_chapter_101,101,hawkes,0,0,-1.5958582333767053
+chapter_level,SVM,hawkes_chapter_103,103,hawkes,0,0,-1.5531699179736798
+chapter_level,SVM,hawkes_chapter_106,106,hawkes,0,0,-0.7491001253955841
+chapter_level,SVM,hawkes_chapter_112,112,hawkes,0,0,-1.1460154414539034
+chapter_level,SVM,hawkes_chapter_118,118,hawkes,0,0,-0.5704934954271109
+chapter_level,SVM,hawkes_chapter_119,119,hawkes,0,0,-1.2238589138694667
+chapter_level,SVM,yang_chapter_009,9,yang,1,1,1.2092326607404558
+chapter_level,SVM,yang_chapter_010,10,yang,1,1,0.7645358477025428
+chapter_level,SVM,yang_chapter_015,15,yang,1,1,1.0555107694450663
+chapter_level,SVM,yang_chapter_022,22,yang,1,1,0.8774496832747997
+chapter_level,SVM,yang_chapter_044,44,yang,1,1,1.1216221530095671
+chapter_level,SVM,yang_chapter_053,53,yang,1,1,0.202936063377752
+chapter_level,SVM,yang_chapter_057,57,yang,1,1,0.37575856235635746
+chapter_level,SVM,yang_chapter_058,58,yang,1,1,1.091835595623874
+chapter_level,SVM,yang_chapter_059,59,yang,1,1,1.634975300778982
+chapter_level,SVM,yang_chapter_065,65,yang,1,1,1.2789098406856247
+chapter_level,SVM,yang_chapter_073,73,yang,1,1,1.0227376920692737
+chapter_level,SVM,yang_chapter_076,76,yang,1,1,0.4804709400859286
+chapter_level,SVM,yang_chapter_080,80,yang,1,1,0.8134330786818991
+chapter_level,SVM,yang_chapter_081,81,yang,1,1,1.6366278475853697
+chapter_level,SVM,yang_chapter_084,84,yang,1,1,0.8986084394294716
+chapter_level,SVM,yang_chapter_088,88,yang,1,1,1.1210176790107107
+chapter_level,SVM,yang_chapter_089,89,yang,1,1,1.5580350439896273
+chapter_level,SVM,yang_chapter_097,97,yang,1,1,0.5315679268720568
+chapter_level,SVM,yang_chapter_101,101,yang,1,1,1.5552293532228796
+chapter_level,SVM,yang_chapter_103,103,yang,1,1,1.7306337594724859
+chapter_level,SVM,yang_chapter_106,106,yang,1,1,1.4014113239141301
+chapter_level,SVM,yang_chapter_112,112,yang,1,1,1.2292616746176384
+chapter_level,SVM,yang_chapter_118,118,yang,1,1,1.3541982702366142
+chapter_level,SVM,yang_chapter_119,119,yang,1,1,0.6595988634198777
+chapter_level,K-NN,hawkes_chapter_009,9,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_010,10,hawkes,0,1,0.6
+chapter_level,K-NN,hawkes_chapter_015,15,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_022,22,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_044,44,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_053,53,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_057,57,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_058,58,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_059,59,hawkes,0,1,0.8
+chapter_level,K-NN,hawkes_chapter_065,65,hawkes,0,0,0.4
+chapter_level,K-NN,hawkes_chapter_073,73,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_076,76,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_080,80,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_081,81,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_084,84,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_088,88,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_089,89,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_097,97,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_101,101,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_103,103,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_106,106,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_112,112,hawkes,0,0,0.2
+chapter_level,K-NN,hawkes_chapter_118,118,hawkes,0,0,0.0
+chapter_level,K-NN,hawkes_chapter_119,119,hawkes,0,0,0.0
+chapter_level,K-NN,yang_chapter_009,9,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_010,10,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_015,15,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_022,22,yang,1,1,0.6
+chapter_level,K-NN,yang_chapter_044,44,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_053,53,yang,1,1,0.6
+chapter_level,K-NN,yang_chapter_057,57,yang,1,0,0.4
+chapter_level,K-NN,yang_chapter_058,58,yang,1,1,0.6
+chapter_level,K-NN,yang_chapter_059,59,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_065,65,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_073,73,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_076,76,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_080,80,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_081,81,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_084,84,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_088,88,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_089,89,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_097,97,yang,1,1,0.8
+chapter_level,K-NN,yang_chapter_101,101,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_103,103,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_106,106,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_112,112,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_118,118,yang,1,1,1.0
+chapter_level,K-NN,yang_chapter_119,119,yang,1,1,0.8
+chapter_level,Random Forest,hawkes_chapter_009,9,hawkes,0,0,0.376
+chapter_level,Random Forest,hawkes_chapter_010,10,hawkes,0,0,0.452
+chapter_level,Random Forest,hawkes_chapter_015,15,hawkes,0,0,0.196
+chapter_level,Random Forest,hawkes_chapter_022,22,hawkes,0,0,0.074
+chapter_level,Random Forest,hawkes_chapter_044,44,hawkes,0,0,0.394
+chapter_level,Random Forest,hawkes_chapter_053,53,hawkes,0,0,0.278
+chapter_level,Random Forest,hawkes_chapter_057,57,hawkes,0,0,0.076
+chapter_level,Random Forest,hawkes_chapter_058,58,hawkes,0,0,0.03
+chapter_level,Random Forest,hawkes_chapter_059,59,hawkes,0,0,0.49
+chapter_level,Random Forest,hawkes_chapter_065,65,hawkes,0,0,0.244
+chapter_level,Random Forest,hawkes_chapter_073,73,hawkes,0,0,0.08
+chapter_level,Random Forest,hawkes_chapter_076,76,hawkes,0,0,0.21
+chapter_level,Random Forest,hawkes_chapter_080,80,hawkes,0,0,0.034
+chapter_level,Random Forest,hawkes_chapter_081,81,hawkes,0,0,0.202
+chapter_level,Random Forest,hawkes_chapter_084,84,hawkes,0,0,0.212
+chapter_level,Random Forest,hawkes_chapter_088,88,hawkes,0,0,0.158
+chapter_level,Random Forest,hawkes_chapter_089,89,hawkes,0,0,0.256
+chapter_level,Random Forest,hawkes_chapter_097,97,hawkes,0,0,0.048
+chapter_level,Random Forest,hawkes_chapter_101,101,hawkes,0,0,0.024
+chapter_level,Random Forest,hawkes_chapter_103,103,hawkes,0,0,0.072
+chapter_level,Random Forest,hawkes_chapter_106,106,hawkes,0,0,0.288
+chapter_level,Random Forest,hawkes_chapter_112,112,hawkes,0,0,0.318
+chapter_level,Random Forest,hawkes_chapter_118,118,hawkes,0,0,0.054
+chapter_level,Random Forest,hawkes_chapter_119,119,hawkes,0,0,0.072
+chapter_level,Random Forest,yang_chapter_009,9,yang,1,1,0.774
+chapter_level,Random Forest,yang_chapter_010,10,yang,1,1,0.878
+chapter_level,Random Forest,yang_chapter_015,15,yang,1,1,0.83
+chapter_level,Random Forest,yang_chapter_022,22,yang,1,1,0.908
+chapter_level,Random Forest,yang_chapter_044,44,yang,1,1,0.86
+chapter_level,Random Forest,yang_chapter_053,53,yang,1,1,0.552
+chapter_level,Random Forest,yang_chapter_057,57,yang,1,1,0.818
+chapter_level,Random Forest,yang_chapter_058,58,yang,1,1,0.794
+chapter_level,Random Forest,yang_chapter_059,59,yang,1,1,0.828
+chapter_level,Random Forest,yang_chapter_065,65,yang,1,1,0.784
+chapter_level,Random Forest,yang_chapter_073,73,yang,1,1,0.64
+chapter_level,Random Forest,yang_chapter_076,76,yang,1,1,0.684
+chapter_level,Random Forest,yang_chapter_080,80,yang,1,1,0.94
+chapter_level,Random Forest,yang_chapter_081,81,yang,1,1,0.98
+chapter_level,Random Forest,yang_chapter_084,84,yang,1,1,0.884
+chapter_level,Random Forest,yang_chapter_088,88,yang,1,1,0.77
+chapter_level,Random Forest,yang_chapter_089,89,yang,1,1,0.982
+chapter_level,Random Forest,yang_chapter_097,97,yang,1,0,0.496
+chapter_level,Random Forest,yang_chapter_101,101,yang,1,1,0.946
+chapter_level,Random Forest,yang_chapter_103,103,yang,1,1,0.976
+chapter_level,Random Forest,yang_chapter_106,106,yang,1,1,0.936
+chapter_level,Random Forest,yang_chapter_112,112,yang,1,1,0.932
+chapter_level,Random Forest,yang_chapter_118,118,yang,1,1,0.932
+chapter_level,Random Forest,yang_chapter_119,119,yang,1,1,0.504
+chapter_level,Ridge Classifier,hawkes_chapter_009,9,hawkes,0,0,-0.3117157997307167
+chapter_level,Ridge Classifier,hawkes_chapter_010,10,hawkes,0,0,-0.76627204423285
+chapter_level,Ridge Classifier,hawkes_chapter_015,15,hawkes,0,0,-1.0492872852371933
+chapter_level,Ridge Classifier,hawkes_chapter_022,22,hawkes,0,0,-0.868648444622805
+chapter_level,Ridge Classifier,hawkes_chapter_044,44,hawkes,0,0,-0.6153658208801335
+chapter_level,Ridge Classifier,hawkes_chapter_053,53,hawkes,0,0,-1.13925473270198
+chapter_level,Ridge Classifier,hawkes_chapter_057,57,hawkes,0,0,-1.2670212656961162
+chapter_level,Ridge Classifier,hawkes_chapter_058,58,hawkes,0,0,-0.463372069635591
+chapter_level,Ridge Classifier,hawkes_chapter_059,59,hawkes,0,1,0.1020912299347236
+chapter_level,Ridge Classifier,hawkes_chapter_065,65,hawkes,0,0,-0.24880687654024267
+chapter_level,Ridge Classifier,hawkes_chapter_073,73,hawkes,0,0,-0.7664165553137806
+chapter_level,Ridge Classifier,hawkes_chapter_076,76,hawkes,0,0,-0.27814739938412675
+chapter_level,Ridge Classifier,hawkes_chapter_080,80,hawkes,0,0,-0.35898260325137477
+chapter_level,Ridge Classifier,hawkes_chapter_081,81,hawkes,0,0,-0.7433594682978433
+chapter_level,Ridge Classifier,hawkes_chapter_084,84,hawkes,0,0,-1.216583120382358
+chapter_level,Ridge Classifier,hawkes_chapter_088,88,hawkes,0,0,-0.6966731083853687
+chapter_level,Ridge Classifier,hawkes_chapter_089,89,hawkes,0,0,-0.7932869629196472
+chapter_level,Ridge Classifier,hawkes_chapter_097,97,hawkes,0,0,-1.2393726056932586
+chapter_level,Ridge Classifier,hawkes_chapter_101,101,hawkes,0,0,-1.025656550833079
+chapter_level,Ridge Classifier,hawkes_chapter_103,103,hawkes,0,0,-0.9613353757938735
+chapter_level,Ridge Classifier,hawkes_chapter_106,106,hawkes,0,0,-0.37345661405921554
+chapter_level,Ridge Classifier,hawkes_chapter_112,112,hawkes,0,0,-0.6627541707925185
+chapter_level,Ridge Classifier,hawkes_chapter_118,118,hawkes,0,0,-0.1722795733100002
+chapter_level,Ridge Classifier,hawkes_chapter_119,119,hawkes,0,0,-0.8562513414184125
+chapter_level,Ridge Classifier,yang_chapter_009,9,yang,1,1,0.6746290422800508
+chapter_level,Ridge Classifier,yang_chapter_010,10,yang,1,0,-0.05678359772563364
+chapter_level,Ridge Classifier,yang_chapter_015,15,yang,1,1,0.696714853947955
+chapter_level,Ridge Classifier,yang_chapter_022,22,yang,1,1,0.6788236382649269
+chapter_level,Ridge Classifier,yang_chapter_044,44,yang,1,1,0.9890865406530239
+chapter_level,Ridge Classifier,yang_chapter_053,53,yang,1,1,0.10212860284776032
+chapter_level,Ridge Classifier,yang_chapter_057,57,yang,1,1,0.5552102799210252
+chapter_level,Ridge Classifier,yang_chapter_058,58,yang,1,1,0.8908560391834122
+chapter_level,Ridge Classifier,yang_chapter_059,59,yang,1,1,1.6706964378838456
+chapter_level,Ridge Classifier,yang_chapter_065,65,yang,1,1,1.1321698529757473
+chapter_level,Ridge Classifier,yang_chapter_073,73,yang,1,1,0.914983601792109
+chapter_level,Ridge Classifier,yang_chapter_076,76,yang,1,1,0.6404917791223048
+chapter_level,Ridge Classifier,yang_chapter_080,80,yang,1,1,0.7186843589169579
+chapter_level,Ridge Classifier,yang_chapter_081,81,yang,1,1,1.0904166389955021
+chapter_level,Ridge Classifier,yang_chapter_084,84,yang,1,1,0.06964845595758855
+chapter_level,Ridge Classifier,yang_chapter_088,88,yang,1,1,0.9159726509914656
+chapter_level,Ridge Classifier,yang_chapter_089,89,yang,1,1,0.9826700687438484
+chapter_level,Ridge Classifier,yang_chapter_097,97,yang,1,1,0.5826135479934348
+chapter_level,Ridge Classifier,yang_chapter_101,101,yang,1,1,0.8530127556938055
+chapter_level,Ridge Classifier,yang_chapter_103,103,yang,1,1,0.7079464948669014
+chapter_level,Ridge Classifier,yang_chapter_106,106,yang,1,1,1.4184515753203426
+chapter_level,Ridge Classifier,yang_chapter_112,112,yang,1,1,0.8660026402390595
+chapter_level,Ridge Classifier,yang_chapter_118,118,yang,1,1,1.0031934779748874
+chapter_level,Ridge Classifier,yang_chapter_119,119,yang,1,1,0.7216654770716758
+chapter_level,Gradient Boosting,hawkes_chapter_009,9,hawkes,0,0,0.043243566426021174
+chapter_level,Gradient Boosting,hawkes_chapter_010,10,hawkes,0,0,0.27346439277436074
+chapter_level,Gradient Boosting,hawkes_chapter_015,15,hawkes,0,0,0.013237175507325434
+chapter_level,Gradient Boosting,hawkes_chapter_022,22,hawkes,0,0,0.0070657919783373106
+chapter_level,Gradient Boosting,hawkes_chapter_044,44,hawkes,0,1,0.9256251800098703
+chapter_level,Gradient Boosting,hawkes_chapter_053,53,hawkes,0,0,0.010830346010286271
+chapter_level,Gradient Boosting,hawkes_chapter_057,57,hawkes,0,0,0.0025637650582403452
+chapter_level,Gradient Boosting,hawkes_chapter_058,58,hawkes,0,0,0.002605797853766911
+chapter_level,Gradient Boosting,hawkes_chapter_059,59,hawkes,0,0,0.06120426755310537
+chapter_level,Gradient Boosting,hawkes_chapter_065,65,hawkes,0,0,0.00315557182507903
+chapter_level,Gradient Boosting,hawkes_chapter_073,73,hawkes,0,0,0.0016890805521144567
+chapter_level,Gradient Boosting,hawkes_chapter_076,76,hawkes,0,0,0.0065414083508024915
+chapter_level,Gradient Boosting,hawkes_chapter_080,80,hawkes,0,0,0.00211885974915643
+chapter_level,Gradient Boosting,hawkes_chapter_081,81,hawkes,0,0,0.001114046357944845
+chapter_level,Gradient Boosting,hawkes_chapter_084,84,hawkes,0,0,0.003220007888771679
+chapter_level,Gradient Boosting,hawkes_chapter_088,88,hawkes,0,0,0.0012421823174873804
+chapter_level,Gradient Boosting,hawkes_chapter_089,89,hawkes,0,0,0.01024715812691991
+chapter_level,Gradient Boosting,hawkes_chapter_097,97,hawkes,0,0,0.0006906188626485012
+chapter_level,Gradient Boosting,hawkes_chapter_101,101,hawkes,0,0,0.0037471717403656755
+chapter_level,Gradient Boosting,hawkes_chapter_103,103,hawkes,0,0,0.0160955217375589
+chapter_level,Gradient Boosting,hawkes_chapter_106,106,hawkes,0,0,0.024591026691926657
+chapter_level,Gradient Boosting,hawkes_chapter_112,112,hawkes,0,0,0.04466365191918816
+chapter_level,Gradient Boosting,hawkes_chapter_118,118,hawkes,0,0,0.005821374588216405
+chapter_level,Gradient Boosting,hawkes_chapter_119,119,hawkes,0,0,0.0018942035652122799
+chapter_level,Gradient Boosting,yang_chapter_009,9,yang,1,1,0.9669930395749308
+chapter_level,Gradient Boosting,yang_chapter_010,10,yang,1,1,0.9978508740611951
+chapter_level,Gradient Boosting,yang_chapter_015,15,yang,1,1,0.9947935891768886
+chapter_level,Gradient Boosting,yang_chapter_022,22,yang,1,1,0.9969431641094268
+chapter_level,Gradient Boosting,yang_chapter_044,44,yang,1,1,0.9991180909057913
+chapter_level,Gradient Boosting,yang_chapter_053,53,yang,1,1,0.9857034236489634
+chapter_level,Gradient Boosting,yang_chapter_057,57,yang,1,1,0.9960534324648145
+chapter_level,Gradient Boosting,yang_chapter_058,58,yang,1,1,0.9442175357944712
+chapter_level,Gradient Boosting,yang_chapter_059,59,yang,1,1,0.9662884215028558
+chapter_level,Gradient Boosting,yang_chapter_065,65,yang,1,1,0.9936327126796902
+chapter_level,Gradient Boosting,yang_chapter_073,73,yang,1,1,0.9862137620835951
+chapter_level,Gradient Boosting,yang_chapter_076,76,yang,1,1,0.9961165675357904
+chapter_level,Gradient Boosting,yang_chapter_080,80,yang,1,1,0.9963908205102951
+chapter_level,Gradient Boosting,yang_chapter_081,81,yang,1,1,0.9983320059793253
+chapter_level,Gradient Boosting,yang_chapter_084,84,yang,1,1,0.9987095166508883
+chapter_level,Gradient Boosting,yang_chapter_088,88,yang,1,1,0.9476169324025718
+chapter_level,Gradient Boosting,yang_chapter_089,89,yang,1,1,0.9992291644093212
+chapter_level,Gradient Boosting,yang_chapter_097,97,yang,1,1,0.6719387283378206
+chapter_level,Gradient Boosting,yang_chapter_101,101,yang,1,1,0.995948408721752
+chapter_level,Gradient Boosting,yang_chapter_103,103,yang,1,1,0.998690520992437
+chapter_level,Gradient Boosting,yang_chapter_106,106,yang,1,1,0.9987678251558094
+chapter_level,Gradient Boosting,yang_chapter_112,112,yang,1,1,0.9907318725290021
+chapter_level,Gradient Boosting,yang_chapter_118,118,yang,1,1,0.9988687446107123
+chapter_level,Gradient Boosting,yang_chapter_119,119,yang,1,1,0.9041533114386842
+chapter_level,Neural Network,hawkes_chapter_009,9,hawkes,0,0,0.10175585038729897
+chapter_level,Neural Network,hawkes_chapter_010,10,hawkes,0,0,0.017237246551560278
+chapter_level,Neural Network,hawkes_chapter_015,15,hawkes,0,0,0.001433740343185391
+chapter_level,Neural Network,hawkes_chapter_022,22,hawkes,0,0,0.0030835752499195194
+chapter_level,Neural Network,hawkes_chapter_044,44,hawkes,0,0,0.0052517871753167905
+chapter_level,Neural Network,hawkes_chapter_053,53,hawkes,0,0,0.0023682219163363434
+chapter_level,Neural Network,hawkes_chapter_057,57,hawkes,0,0,0.0003942872265584475
+chapter_level,Neural Network,hawkes_chapter_058,58,hawkes,0,0,0.04723615990078173
+chapter_level,Neural Network,hawkes_chapter_059,59,hawkes,0,1,0.7048548636627823
+chapter_level,Neural Network,hawkes_chapter_065,65,hawkes,0,1,0.8105117874652391
+chapter_level,Neural Network,hawkes_chapter_073,73,hawkes,0,0,0.0025507805097139363
+chapter_level,Neural Network,hawkes_chapter_076,76,hawkes,0,0,0.1795595325713156
+chapter_level,Neural Network,hawkes_chapter_080,80,hawkes,0,0,0.04374479667244398
+chapter_level,Neural Network,hawkes_chapter_081,81,hawkes,0,0,0.0009534047014294671
+chapter_level,Neural Network,hawkes_chapter_084,84,hawkes,0,0,0.00013647087930617773
+chapter_level,Neural Network,hawkes_chapter_088,88,hawkes,0,0,0.00467985319113874
+chapter_level,Neural Network,hawkes_chapter_089,89,hawkes,0,0,0.0005754199859580758
+chapter_level,Neural Network,hawkes_chapter_097,97,hawkes,0,0,0.0015721314537446062
+chapter_level,Neural Network,hawkes_chapter_101,101,hawkes,0,0,0.0008687974857529164
+chapter_level,Neural Network,hawkes_chapter_103,103,hawkes,0,0,0.004056399832705507
+chapter_level,Neural Network,hawkes_chapter_106,106,hawkes,0,0,0.4406379280941397
+chapter_level,Neural Network,hawkes_chapter_112,112,hawkes,0,0,0.024091500237956854
+chapter_level,Neural Network,hawkes_chapter_118,118,hawkes,0,0,0.4373254200970236
+chapter_level,Neural Network,hawkes_chapter_119,119,hawkes,0,0,0.014739892873958512
+chapter_level,Neural Network,yang_chapter_009,9,yang,1,1,0.9975477522736405
+chapter_level,Neural Network,yang_chapter_010,10,yang,1,1,0.9459234553916089
+chapter_level,Neural Network,yang_chapter_015,15,yang,1,1,0.9952742000962945
+chapter_level,Neural Network,yang_chapter_022,22,yang,1,1,0.9937308671547413
+chapter_level,Neural Network,yang_chapter_044,44,yang,1,1,0.9947229215164105
+chapter_level,Neural Network,yang_chapter_053,53,yang,1,1,0.8101114374773486
+chapter_level,Neural Network,yang_chapter_057,57,yang,1,1,0.7539966887043826
+chapter_level,Neural Network,yang_chapter_058,58,yang,1,1,0.9989746632919201
+chapter_level,Neural Network,yang_chapter_059,59,yang,1,1,0.9999958934149251
+chapter_level,Neural Network,yang_chapter_065,65,yang,1,1,0.9999929254271369
+chapter_level,Neural Network,yang_chapter_073,73,yang,1,1,0.9992946167699855
+chapter_level,Neural Network,yang_chapter_076,76,yang,1,1,0.958903731074333
+chapter_level,Neural Network,yang_chapter_080,80,yang,1,1,0.9816365316659817
+chapter_level,Neural Network,yang_chapter_081,81,yang,1,1,0.9981283669248459
+chapter_level,Neural Network,yang_chapter_084,84,yang,1,1,0.5742010171174192
+chapter_level,Neural Network,yang_chapter_088,88,yang,1,1,0.998316058026254
+chapter_level,Neural Network,yang_chapter_089,89,yang,1,1,0.9978678875924128
+chapter_level,Neural Network,yang_chapter_097,97,yang,1,1,0.9182372923060427
+chapter_level,Neural Network,yang_chapter_101,101,yang,1,1,0.9955773029704539
+chapter_level,Neural Network,yang_chapter_103,103,yang,1,1,0.9992887785440493
+chapter_level,Neural Network,yang_chapter_106,106,yang,1,1,0.9999988926679251
+chapter_level,Neural Network,yang_chapter_112,112,yang,1,1,0.9996622442452963
+chapter_level,Neural Network,yang_chapter_118,118,yang,1,1,0.9989673700837725
+chapter_level,Neural Network,yang_chapter_119,119,yang,1,1,0.9682699933562023
+chapter_level,Voting Ensemble,hawkes_chapter_009,9,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_010,10,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_015,15,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_022,22,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_044,44,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_053,53,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_057,57,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_058,58,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_059,59,hawkes,0,1,
+chapter_level,Voting Ensemble,hawkes_chapter_065,65,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_073,73,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_076,76,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_080,80,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_081,81,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_084,84,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_088,88,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_089,89,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_097,97,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_101,101,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_103,103,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_106,106,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_112,112,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_118,118,hawkes,0,0,
+chapter_level,Voting Ensemble,hawkes_chapter_119,119,hawkes,0,0,
+chapter_level,Voting Ensemble,yang_chapter_009,9,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_010,10,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_015,15,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_022,22,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_044,44,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_053,53,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_057,57,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_058,58,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_059,59,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_065,65,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_073,73,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_076,76,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_080,80,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_081,81,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_084,84,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_088,88,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_089,89,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_097,97,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_101,101,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_103,103,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_106,106,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_112,112,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_118,118,yang,1,1,
+chapter_level,Voting Ensemble,yang_chapter_119,119,yang,1,1,

@@ -1,0 +1,45 @@
+﻿dataset,analysis_level,feature_set,feature_count,best_algorithm,best_mean_accuracy,best_std_accuracy
+chapter_level,feature_group,all_features,18,Ridge Classifier,97.5,2.0412
+chapter_level,feature_group,lexical,6,Neural Network,90.4167,6.4684
+chapter_level,feature_group,ngram,6,Ridge Classifier,95.4167,3.4611
+chapter_level,feature_group,syntactic,6,Ridge Classifier,90.4167,4.5833
+chapter_level,individual_feature,character_2gram_entropy,1,Gradient Boosting,54.5833,6.8338
+chapter_level,individual_feature,character_3gram_entropy,1,Logistic Regression,61.6667,10.9924
+chapter_level,individual_feature,character_4gram_entropy,1,Naive Bayes,70.4167,13.4951
+chapter_level,individual_feature,character_entropy,1,SVM,58.3333,6.455
+chapter_level,individual_feature,clause_marker_entropy,1,SVM,67.5,10.3414
+chapter_level,individual_feature,coordination_subordination_entropy,1,K-NN,60.0,6.2361
+chapter_level,individual_feature,dependency_relation_entropy,1,SVM,57.0833,7.6942
+chapter_level,individual_feature,function_word_entropy,1,Random Forest,50.4167,6.8338
+chapter_level,individual_feature,lemma_unigram_entropy,1,Neural Network,59.5833,11.7925
+chapter_level,individual_feature,lexical_frequency_band_entropy,1,SVM,59.5833,5.6057
+chapter_level,individual_feature,pos_bigram_entropy,1,Logistic Regression,58.3333,9.3169
+chapter_level,individual_feature,pos_trigram_entropy,1,K-NN,57.0833,10.8733
+chapter_level,individual_feature,pos_unigram_entropy,1,SVM,75.8333,6.1237
+chapter_level,individual_feature,punctuation_entropy,1,K-NN,84.5833,8.5493
+chapter_level,individual_feature,word_bigram_entropy,1,Neural Network,72.0833,9.8689
+chapter_level,individual_feature,word_length_entropy,1,SVM,60.8333,9.1667
+chapter_level,individual_feature,word_trigram_entropy,1,Logistic Regression,77.9167,8.133
+chapter_level,individual_feature,wordform_unigram_entropy,1,Naive Bayes,60.4167,12.9435
+window_1500,feature_group,all_features,18,Logistic Regression,94.3265,2.7942
+window_1500,feature_group,lexical,6,Neural Network,79.2428,4.933
+window_1500,feature_group,ngram,6,Neural Network,90.9932,3.4215
+window_1500,feature_group,syntactic,6,Logistic Regression,76.8626,5.7045
+window_1500,individual_feature,character_2gram_entropy,1,Naive Bayes,55.6792,3.6506
+window_1500,individual_feature,character_3gram_entropy,1,Logistic Regression,59.9677,5.3728
+window_1500,individual_feature,character_4gram_entropy,1,SVM,61.2119,5.6198
+window_1500,individual_feature,character_entropy,1,Logistic Regression,56.1168,6.9016
+window_1500,individual_feature,clause_marker_entropy,1,Naive Bayes,63.0213,6.983
+window_1500,individual_feature,coordination_subordination_entropy,1,Neural Network,54.1533,2.6115
+window_1500,individual_feature,dependency_relation_entropy,1,Gradient Boosting,57.8805,6.3993
+window_1500,individual_feature,function_word_entropy,1,Neural Network,52.8976,3.359
+window_1500,individual_feature,lemma_unigram_entropy,1,SVM,58.9916,4.5272
+window_1500,individual_feature,lexical_frequency_band_entropy,1,Neural Network,59.5491,4.612
+window_1500,individual_feature,pos_bigram_entropy,1,Gradient Boosting,52.6408,5.7312
+window_1500,individual_feature,pos_trigram_entropy,1,Logistic Regression,58.7215,6.1137
+window_1500,individual_feature,pos_unigram_entropy,1,Ridge Classifier,65.3843,5.2109
+window_1500,individual_feature,punctuation_entropy,1,SVM,73.6872,3.5416
+window_1500,individual_feature,word_bigram_entropy,1,Naive Bayes,71.8702,6.672
+window_1500,individual_feature,word_length_entropy,1,Naive Bayes,55.8124,5.0048
+window_1500,individual_feature,word_trigram_entropy,1,SVM,66.3375,3.7227
+window_1500,individual_feature,wordform_unigram_entropy,1,Neural Network,60.5099,5.4453

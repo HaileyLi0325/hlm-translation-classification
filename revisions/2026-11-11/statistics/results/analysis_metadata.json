@@ -1,0 +1,54 @@
+{
+  "python": "3.13.0",
+  "numpy": "2.1.3",
+  "pandas": "2.2.3",
+  "scipy": "1.15.1",
+  "chapter_input_sha256": "b77662c8bee3526ce754866443b0dd1a2d1c5ecf61e73edcb6d51182f7b2d281",
+  "segment_input_sha256": "d3804df933e887e881e718388deed2c6ebc230fa5cafe7f319a3992238724c47",
+  "chapter_pairs": 120,
+  "segment_pairs": 120,
+  "segment_rows_per_edition": 361,
+  "missing_segment_chapters": [],
+  "effect_direction": "Hawkes-Minford minus Yang-Yang",
+  "effect_size": "Cohen dz: mean paired difference / sample SD of paired differences",
+  "bootstrap": "10000 chapter-pair percentile bootstrap replicates, two-sided pointwise 95% intervals",
+  "bootstrap_seed_chapter": 20261111,
+  "bootstrap_seed_segment": 20261112,
+  "multiplicity": "Primary Benjamini-Hochberg adjustment over all 36 paired tests. Separate within-level BH18 and familywise Holm36 are sensitivity outputs. Chapter and segment-mean length-adjusted edition coefficients each use separate BH18; 36 chapter length correlations use separate BH36; historical block exploratory tests use BH72.",
+  "length_diagnostics": {
+    "log_length_ratio_mean": 0.2998373382188247,
+    "log_length_ratio_min": -0.0011900513126477108,
+    "log_length_ratio_max": 0.6008451858332862,
+    "n_hm_shorter": 1,
+    "n_hm_longer": 119,
+    "max_leverage": 0.1484876850086559,
+    "model": "H_HM,c - H_YY,c = beta_edition + beta_loglength * (ln(N_HM,c) - ln(N_YY,c)) + error_c",
+    "note": "Equivalent to a chapter fixed-effect model with a common log-token-count slope. HC3 standard errors; two-sided t inference with 118 df. The edition coefficient estimates the contrast at equal token counts. Observational adjustment cannot isolate causal edition or translator effects."
+  },
+  "raw_text_punctuation_verification": {
+    "n_samples": 962,
+    "maximum_absolute_difference": 8.881784197001252e-16,
+    "mismatches_above_1e_12": 0
+  },
+  "segment_mean_length_diagnostics": {
+    "log_length_ratio_mean": 0.015342851932711928,
+    "log_length_ratio_min": 0.002213859660019857,
+    "log_length_ratio_max": 0.03108608095184895,
+    "n_hm_shorter": 0,
+    "n_hm_longer": 120,
+    "max_leverage": 0.06330815231489875,
+    "model": "H_HM,c - H_YY,c = beta_edition + beta_loglength * (ln(N_HM,c) - ln(N_YY,c)) + error_c",
+    "note": "Equivalent to a chapter fixed-effect model with a common log-token-count slope. HC3 standard errors; two-sided t inference with 118 df. The edition coefficient estimates the contrast at equal token counts. Observational adjustment cannot isolate causal edition or translator effects."
+  },
+  "significant_BH36": {
+    "chapter": 16,
+    "segment_chapter_mean": 16
+  },
+  "significant_Holm36": {
+    "chapter": 16,
+    "segment_chapter_mean": 16
+  },
+  "significant_length_adjusted_BH18": 5,
+  "significant_segment_mean_length_adjusted_BH18": 9,
+  "inference_scope": "Chapter-level model-based comparisons conditional on these two editions of one literary work. Chapter independence is an approximation; inferential intervals do not establish generalization to other works or individual translator causality."
+}

@@ -1,0 +1,5 @@
+﻿feature_group,Logistic Regression,Naive Bayes,SVM,K-NN,Random Forest,Ridge Classifier,Gradient Boosting,Neural Network,Voting Ensemble
+lexical,70.77,68.28,76.88,74.79,77.02,70.36,78.0,79.24,78.13
+syntactic,76.86,72.71,75.48,71.47,72.57,76.31,73.41,75.2,75.06
+ngram,90.86,73.27,90.58,86.84,86.42,89.06,87.67,90.99,89.89
+all_features,94.33,75.48,93.36,84.48,92.1,93.77,92.52,93.77,93.77
